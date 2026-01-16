@@ -1,0 +1,58 @@
+	DrugBank_ID	DrugBank_Name	Indication	Targets	Proximity	FDR
+0	DB04690	camptothecin	Investigated for the treatment of cancer.	TOP1	-3.915470832566463	1.8036970799743525e-45
+1	DB01030	topotecan	For the treatment of advanced ovarian cancer in patients with disease that has recurred or progressed following therapy with platinum-based regimens. Also used as a second-line therapy for treatment-sensitive small cell lung cancer, as well as in combination with cisplatin for the treatment of stage IV-B, recurrent, or persistent cervical cancer not amenable to curative treatment with surgery and/or radiation therapy.	TOP1, TOP1MT	-1.7969867211660502	2.0210541063257514e-31
+2	DB00313	valproic-acid	"**Indicated** for:[Label] 
+
+1) Use as monotherapy or adjunctive therapy in the management of complex partial seizures and simple or complex absence seizures. 
+
+2) Adjunctive therapy in the management of multiple seizure types that include absence seizures. 
+
+3) Prophylaxis of migraine headaches.
+
+4) Acute management of mania associated with bipolar disorder.
+
+
+**Off-label** uses include:
+ 
+1) Maintenance therapy for bipolar disorder.[A177919]
+
+2) Treatment for acute bipolar depression.[A177928,A177931,A177934]
+
+3) Emergency treatment of status epilepticus.[A177955]"	OGDH, HDAC2, PPARD, ALDH5A1, PPARG, SCN1A, HDAC9, ACADSB, PPARA	-0.3179939232402033	1.5156096093898025e-20
+3	DB02424	geldanamycin		HSP90AB1, HSP90B1, HSP90AA1	-1.141848725931557	7.552282887315199e-19
+4	DB08911	trametinib	"Trametinib is indicated for the treatment of unresectable or metastatic melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test [FDA].
+
+In May 2018, it was approved for use with [DB08912] for the treatment of treat anaplastic thyroid cancer caused by an abnormal BRAF V600E gene [L2726]."	MAP2K1, MAP2K2	-1.7063657098248566	3.0795240677661124e-15
+5	DB03496	alvocidib	Investigated for use/treatment in esophageal cancer, leukemia (lymphoid), lung cancer, liver cancer, and lymphoma (unspecified).	PYGM, EGFR, CDK5, CDK7, CDK2, CDK6, CDK9, PYGB, CDK4, CDK8, CDK1	-0.8626722098391694	8.564153297191597e-14
+6	DB00273	topiramate	"Topiramate is indicated  for the following conditions: 1)Monotherapy for partial onset or primary generalized tonic-clonic seizures for patients 2 years of age and above 2)Adjunctive therapy for partial onset seizures or primary generalized tonic-clonic seizures for both adult and pediatric patients above 2 years old 3)Adjunctive therapy for seizures associated with Lennox-Gastaut syndrome in patients above 2 years of age 4)Prophylaxis of migraine in children 12 years of age and older and adults.[L10544]
+
+Topiramate is also used off-label as an adjunct therapy for weight management[L10550] and for mood disorders.[A188312]"	GRIK1, CA1, CACNA1E, SCN1A, CA3, CA4, CACNA1C, CA2, GABRA1	-0.4042975070474001	8.564153297191597e-14
+7	DB01782	pyrazolanthrone		TTK, MAPK8IP1, MAPK8, MAPK10	-1.4942121082064754	7.185490243147532e-13
+8	DB01645	genistein	Currently Genistein is being studied in clinical trials as a treatment for prostate cancer.  	ESR1, NCOA1, SHBG, ESRRA, GPER1, ESR2, TOP2A, NR1I2, NCOA2, ESRRB, AKT1, CYP1B1, PTK2B	-0.5148952141415537	7.185490243147532e-13
+9	DB08059	wortmannin		PIK3R1, PIK3CA, PLK1, PIK3CG	-1.7554135829038264	1.9527909517926546e-12
+10	DB02546	vorinostat	For the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies.	HDAC2, HDAC1, HDAC3, HDAC6, HDAC8	-0.4021988635083288	5.366603099426745e-12
+11	DB01092	ouabain	For the treatment of atrial fibrillation and flutter and heart failure	ATP1A2, ATP1A3, ATP1A1	-1.0063874670949866	1.5001650638535174e-11
+12	DB00197	troglitazone	For the treatment of Type II diabetes mellitus. It is used alone or in combination with a sulfonylurea, metformin, or insulin as an adjunct to diet and exercise.	ACSL4, ESRRA, PPARD, SERPINE1, SLC29A1, ESRRG, PPARG, GSTP1, PPARA	-0.4384756320221527	1.5001650638535174e-11
+13	DB00762	irinotecan	For the treatment of metastatic colorectal cancer (first-line therapy when administered with 5-fluorouracil and leucovorin). Also used in combination with cisplatin for the treatment of extensive small cell lung cancer. Irinotecan is currently under investigation for the treatment of metastatic or recurrent cervical cancer. Also used in combination with fluorouracil and leucovorin for the treatment of patients with metastatic adenocarcinoma of the pancreas after disease progression following gemcitabine-based therapy. 	TOP1, TOP1MT	-1.7969867211660502	4.131626517142838e-11
+14	DB00694	daunorubicin	"For remission induction in acute nonlymphocytic leukemia (myelogenous, monocytic, erythroid) of adults and for remission induction in acute lymphocytic leukemia of children and adults.
+
+Daunorubicin is indicated in combination with [cytarabine] for the treatment of newly-diagnosed therapy-related acute myeloid leukemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC) in adults and pediatric patients 1 year and older.[L32843]"	TOP2B, TOP2A	-1.5857672593888283	4.131626517142838e-11
+15	DB01065	melatonin	Used orally for jet lag, insomnia, shift-work disorder, circadian rhythm disorders in the blind (evidence for efficacy), and benzodiazepine and nicotine withdrawal. Evidence indicates that melatonin is likely effective for treating circadian rhythm sleep disorders in blind children and adults. It has received FDA orphan drug status as an oral medication for this use. A number of studies have shown that melatonin may be effective for treating sleep-wake cycle disturbances in children and adolescents with mental retardation, autism, and other central nervous system disorders. It appears to decrease the time to fall asleep in children with developmental disabilities, such as cerebral palsy, autism, and mental retardation. It may also improve secondary insomnia associated with various sleep-wake cycle disturbances. Other possible uses for which there is some evidence for include: benzodiazepine withdrawal, cluster headache, delayed sleep phase syndrome (DSPS), primary insomnia, jet lag, nicotine withdrawal, preoperative anxiety and sedation, prostate cancer, solid tumors (when combined with IL-2 therapy in certain cancers), sunburn prevention (topical use), tardive dyskinesia, thrombocytopenia associated with cancer, chemotherapy and other disorders. 	ESR1, RORB, ASMT, EPX, CALR, MTNR1A, NQO2, MPO, CALM1, MTNR1B	-0.0745649651444738	4.131626517142838e-11
+16	DB12483	copanlisib	Indicated for the treatment of adult patients with relapsed follicular lymphoma (FL) who have received at least two prior systemic therapies.	PIK3CD, PIK3CA	-1.6036964183005824	2.82387653304662e-10
+17	DB00820	tadalafil	Tadalafil is indicated for the treatment of erectile dysfunction (ED) and either alone or in combination with [finasteride] for the treatment of benign prostatic hypertrophy (BPH).[L39095,L39439] It is also indicated for the treatment of pulmonary arterial hypertension (PAH) both alone and in combination with [macitentan] or other endothelin-1 antagonists.[L39100,L39105]	PDE5A, PDE11A, PDE6G	-0.311452031200683	2.82387653304662e-10
+18	DB06595	midostaurin	Investigated for use/treatment in adult patients with high-risk acute myeloid leukemia (AML) who are FLT3 mutation-positive, agressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL). 	KDR, PDGFRA, KIT, FLT3, PRKCA, PDGFRB	-0.4430789071574122	7.154867226809099e-10
+19	DB05814	IPI-145	Investigated for use/treatment in erectile dysfunction and parkinson's disease.	FKBP1A	-3.4256917712677413	1.7759044586437293e-09
+20	DB08877	ruxolitinib	"Ruxolitinib is indicated for the treatment of inte1mediate or high-risk myelofibrosis (MF), including prima1y MF, post-polycythemia vera MF and post-essential thrombocythemia MF in adults.[L31938] It is also indicated to treat disease-related splenomegaly or symptoms in adult patients with these conditions.[L32073]
+
+Ruxolitinib is indicated for the treatment of polycythemia vera (PV) in adults who have had an inadequate response to or are intolerant of hydroxyurea.[L31938]
+
+Ruxolitinib is indicated for the treatment of steroid-refracto1y acute graft-versus-host disease (GVHD) in adult and pediatric patients 12 years and older.[L31938]
+
+Ruxolitinib is indicated for topical non-continuous and short-term treatment of mild to moderate atopic dermatitis in immunocompetent patients who are 12 years and older and whose disease is not adequately controlled with topical prescription therapies or when the topical prescription therapies are not advisable.[L39125]"	JAK3, JAK2, JAK1, TYK2	-1.6424632920247644	1.7759044586437293e-09
+21	DB08080	latrunculin-b		SPIRE2, ACTA1, MRTFA	-0.7805743852159338	1.7759044586437293e-09
+22	DB00482	celecoxib	"Celecoxib is indicated for symptomatic treatment of adult osteoarthritis (OA) and adult rheumatoid arthritis (RA).[L7646] Celecoxib is not a substitute for aspirin for cardiovascular event prophylaxis.[L7646] 
+
+It may be also be used to treat acute pain from various sources, juvenile rheumatoid arthritis in children over 2, ankylosing spondylitis, and primary dysmenorrhea.[L7646]
+
+Celecoxib, in combination with [tramadol], is indicated for the management of acute pain in adults severe enough to require an opioid analgesic and in whom alternative treatments are inadequate.[L38949]"	PTGS2, CA3, PDPK1, CA2, CDH11	-0.7481535572484187	1.7759044586437293e-09
+23	DB00451	levothyroxine	Levothyroxine is indicated as replacement therapy in primary (thyroidal), secondary (pituitary) and tertiary (hypothalamic) congenital or acquired hypothyroidism. It is also indicated as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer.	ITGB3, THRB, ITGAV, THRA	-2.373904780122741	4.489820053020909e-09

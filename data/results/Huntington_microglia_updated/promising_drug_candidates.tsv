@@ -1,0 +1,130 @@
+	DrugBank_ID	DrugBank_Name	Indication	Targets	Proximity	FDR
+0	DB04690	camptothecin	Investigated for the treatment of cancer.	TOP1	-3.1667746525579097	1.5037737662576317e-39
+1	DB01030	topotecan	For the treatment of advanced ovarian cancer in patients with disease that has recurred or progressed following therapy with platinum-based regimens. Also used as a second-line therapy for treatment-sensitive small cell lung cancer, as well as in combination with cisplatin for the treatment of stage IV-B, recurrent, or persistent cervical cancer not amenable to curative treatment with surgery and/or radiation therapy.	TOP1, TOP1MT	-1.351227851108262	7.56693014514865e-36
+2	DB00313	valproic-acid	"**Indicated** for:[Label] 
+
+1) Use as monotherapy or adjunctive therapy in the management of complex partial seizures and simple or complex absence seizures. 
+
+2) Adjunctive therapy in the management of multiple seizure types that include absence seizures. 
+
+3) Prophylaxis of migraine headaches.
+
+4) Acute management of mania associated with bipolar disorder.
+
+
+**Off-label** uses include:
+ 
+1) Maintenance therapy for bipolar disorder.[A177919]
+
+2) Treatment for acute bipolar depression.[A177928,A177931,A177934]
+
+3) Emergency treatment of status epilepticus.[A177955]"	OGDH, HDAC2, PPARD, ALDH5A1, PPARG, SCN1A, HDAC9, ACADSB, PPARA	-1.0446670999317778	1.1049934690471419e-29
+3	DB08911	trametinib	"Trametinib is indicated for the treatment of unresectable or metastatic melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test [FDA].
+
+In May 2018, it was approved for use with [DB08912] for the treatment of treat anaplastic thyroid cancer caused by an abnormal BRAF V600E gene [L2726]."	MAP2K1, MAP2K2	-1.2735653912393152	1.1894870246862355e-21
+4	DB00197	troglitazone	For the treatment of Type II diabetes mellitus. It is used alone or in combination with a sulfonylurea, metformin, or insulin as an adjunct to diet and exercise.	ACSL4, ESRRA, PPARD, SERPINE1, SLC29A1, ESRRG, PPARG, GSTP1, PPARA	-0.2157085645255722	1.1894870246862355e-21
+5	DB08059	wortmannin		PIK3R1, PIK3CA, PLK1, PIK3CG	-2.034998614303945	4.60930854769292e-20
+6	DB04573	celastrol	Used as a test to determine the general health of an unborn fetus.	ESR1, ESR2, SHBG	-1.0713803905926205	6.174490823035587e-18
+7	DB12442	alvespimycin	Investigated for use as an antineoplastic agent for solid tumors, advanced solid tumours or acute myeloid leukaemia. 	HSP90AA1	-3.7494741363979447	6.454005203372149e-17
+8	DB00334	olanzapine	"Olanzapine was initially used orally and intramuscularly for the chronic treatment of schizophrenia in patients over 13 years old and other psychiatric disorders such as bipolar I disorder including mixed or manic episodes.[A177014] 
+
+Olanzapine is also indicated, in combination with lithium or valproate for the short-term treatment of acute manic or mixed episodes associated with bipolar I disorder in adults.[FDA label]
+
+As well, olanzapine is indicated, in combination with fluoxetine for the treatment of episodes of depression associated with bipolar disorder type 1 and treatment-resistant depression in patients over 10 years old.[A177014]
+
+Olanzapine is also approved for the management of psychomotor agitation associated with schizophrenia and bipolar I mania.[FDA label]
+
+Schizophrenia is a complex biochemical brain disorder that affects the person's ability to differentiate reality. It is usually observed as the presence of delusions, hallucinations, social withdrawal and disturbed thinking.[L5936]
+
+Bipolar disorder is a mental health condition defined by periods of extreme mood disturbances. It is categorized in different types from which type 1 is known to involve episodes of severe mania and often depression while type 2 presents less severe forms of mania.[L5939]
+
+Olanzapine is also indicated in combination with [samidorphan] for the treatment of bipolar I disorder, either as an adjunct to lithium or valproate or as monotherapy for the acute treatment of manic or mixed episodes or as maintenance therapy, and for the treatment of schizophrenia in adults.[L34359]"	HTR1A, ADRA1A, DRD2, ADRA1B, HRH1, DRD3, DRD4, HTR6, ADRB1, DRD1, HTR3A, CHRM4, DRD5, CHRM3, HTR2C, CHRM2, HTR2A, CHRM1, GABRA1	0.2987122753592096	1.0873838584543578e-13
+9	DB00877	sirolimus	"Sirolimus is indicated for the prophylaxis of organ rejection in patients aged 13 years or older receiving renal transplants. In patients at low-to moderate-immunologic risk, it is recommended that sirolimus be used initially in a regimen with [cyclosporine] and corticosteroids; cyclosporine should be withdrawn two to four months after transplantation. In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level > 80%]), it is recommended that sirolimus be used in combination with cyclosporine and corticosteroids for the first year following transplantation.[L19809]
+
+It is also used to treat lymphangioleiomyomatosis.[L19809] 
+
+In the US, albumin-bound sirolimus for intravenous injection is indicated for the treatment of adult patients with locally advanced unresectable or metastatic malignant perivascular epithelioid cell tumour (PEComa).[L39267]
+
+In Europe, it is recommended that sirolimus for the prophylaxis of organ rejection in renal transplants is used in combination with cyclosporin microemulsion and corticosteroids for two to three months. Sirolimus may be continued as maintenance therapy with corticosteroids only if cyclosporin microemulsion can be progressively discontinued.[L7021]"	MTOR	-3.155075002040621	2.955162144560961e-13
+10	DB01645	genistein	Currently Genistein is being studied in clinical trials as a treatment for prostate cancer.  	ESR1, NCOA1, SHBG, ESRRA, GPER1, ESR2, TOP2A, NR1I2, NCOA2, ESRRB, AKT1, CYP1B1, PTK2B	-0.6068640036693521	2.955162144560961e-13
+11	DB02424	geldanamycin		HSP90AB1, HSP90B1, HSP90AA1	-3.5727117693082877	8.20506520403313e-13
+12	DB02375	myricetin		JAK1, PIK3CG	-2.692182648911979	8.20506520403313e-13
+13	DB00744	zileuton	For the prophylaxis and chronic treatment of asthma in adults and children 12 years of age and older.	ALOX5	-2.419294065934753	2.200134577454576e-12
+14	DB00170	menadione	The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.	GGCX, F2, PROC, PROS1, NQO1, VKORC1L1, NQO2, VKORC1, F9, BGLAP	-0.0912745294357942	5.636595494617568e-12
+15	DB05134	tanespimycin	Investigated for use/treatment in leukemia (myeloid) and solid tumors.	HSP90AB1, HSP90AA1	-3.7100895650218537	3.651682129850282e-11
+16	DB00288	daminozide	For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.	NR3C1, ANXA1	-1.6260508573896435	3.651682129850282e-11
+17	DB07232	veliparib		PARP2, PARP1	-1.5535289651659994	3.651682129850282e-11
+18	DB06080	linifanib	Investigated for use/treatment in leukemia (myeloid), myelodysplastic syndrome, and solid tumors.	FLT1, KDR, KIT, CSF1R, FLT3, FLT4	0.0282068109915282	3.651682129850282e-11
+19	DB00734	risperidone	"Risperidone is indicated for the treatment of schizophrenia and irritability associated with autistic disorder.[L12885] It is also indicated as monotherapy, or adjunctly with lithium or valproic acid, for the treatment of acute mania or mixed episodes associated with bipolar I disorder.[L12885]
+
+Risperidone is additionally indicated in Canada for the short-term symptomatic management of aggression or psychotic symptoms in patients with severe dementia of the Alzheimer type unresponsive to nonpharmacological approaches.[L12906]
+
+Risperidone is also used off-label for a number of conditions including as an adjunct to antidepressants in treatment-resistant depression.[A177226]"	HTR2C, HTR1A, ADRA2B, DRD1, ADRA1A, HTR2A, HTR1D, DRD2, ADRA2C, HTR7, ADRA1B, HRH1	0.2459802654983731	3.651682129850282e-11
+20	DB01092	ouabain	For the treatment of atrial fibrillation and flutter and heart failure	ATP1A2, ATP1A3, ATP1A1	-0.7356175143480832	9.213493353631049e-11
+21	DB12483	copanlisib	Indicated for the treatment of adult patients with relapsed follicular lymphoma (FL) who have received at least two prior systemic therapies.	PIK3CD, PIK3CA	-1.1855775215966309	2.2264852172775458e-10
+22	DB05188	BRD-K30105551	Investigated for use/treatment in metabolic disease and obesity.	PPARD	-2.640673163726749	5.328468152257082e-10
+23	DB07715	gangaleoidin		CSNK2A1, AHR	-1.5747792099496305	5.328468152257082e-10
+24	DB00783	estradiol	"Estradiol is indicated in various preparations for the treatment of moderate to severe vasomotor symptoms and vulvar and vaginal atrophy due to menopause, for the treatment of hypoestrogenism due to hypogonadism, castration, or primary ovarian failure, and for the prevention of postmenopausal osteoporosis. It is also used for the treatment of breast cancer (only for palliation therapy) in certain men or women with metastatic disease, and for the treatment of androgen-dependent prostate cancer (only for palliation therapy).[L11485,L11494,L11497] It is also used in combination with other hormones as a component of oral contraceptive pills for preventing pregnancy (most commonly as [DB00977], a synthetic form of estradiol).
+
+**A note on duration of treatment**
+
+Recommendations for treatment of menopausal symptoms changed drastically following the release of results and early termination of the Women's Health Initiative (WHI) studies in 2002 as concerns were raised regarding estrogen use.[A31626] Specifically, the combined estrogen–progestin group was discontinued after about 5 years of follow up due to a statistically significant increase in invasive breast cancer and in cardiovascular events.[A31627] 
+
+Following extensive critique of the WHI results, Hormone Replacement Therapy (HRT) is now recommended to be used only for a short period (for 3-5 years postmenopause) in low doses, and in women without a history of breast cancer or increased risk of cardiovascular or thromboembolic disease.[A31628] Estrogen for postmenopausal symptoms should always be given with a progestin component due to estrogen's stimulatory effects on the endometrium; in women with an intact uterus, unopposed estrogen has been shown to promote the growth of the endometrium which can lead to endometrial hyperplasia and possibly cancer over the long-term. 
+
+"	ESR1, GPER1, ESR2, NR1I2, BECN1, MT-ATP6, CHRNA4	-0.5222976166601356	5.328468152257082e-10
+25	DB00862	vardenafil	Used for the treatment of erectile dysfunction	PDE5A, PDE6H, PDE6G	-0.2536080074859674	5.328468152257082e-10
+26	DB00203	sildenafil	"Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor that is predominantly employed for two primary indications:
+
+(1) the treatment of erectile dysfunction [A175582, L5611, F3853, F3856, F3886]; and
+
+(2) treatment of pulmonary hypertension, where:
+a) the US FDA specifically indicates sildenafil for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) in adults to improve exercise ability and delay clinical worsening [F3850]. The delay in clinical worsening was demonstrated when sildenafil was added to background epoprostenol therapy [F3850]. Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II-III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%) [F3850];
+
+b) the Canadian product monograph specifically indicates sildenafil for the treatment of primary pulmonary arterial hypertension (PPH) or pulmonary hypertension secondary to connective tissue disease (CTD) in adult patients with WHO functional class II or III who have not responded to conventional therapy [F3859]. In addition, improvement in exercise ability and delay in clinical worsening was demonstrated in adult patients who were already stabilized on background epoprostenol therapy [F3859]; and
+
+c) the EMA product information specifically indicates sildenafil for the treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity [F3883]. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease [F3883]. The EMA label also indicates sildenafil for the treatment of pediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension [F3883]. Efficacy in terms of improvement of exercise capacity or pulmonary hemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease [F3883]."	PDE5A, PDE6H, PDE6G	-0.2536080074859674	5.328468152257082e-10
+27	DB00820	tadalafil	Tadalafil is indicated for the treatment of erectile dysfunction (ED) and either alone or in combination with [finasteride] for the treatment of benign prostatic hypertrophy (BPH).[L39095,L39439] It is also indicated for the treatment of pulmonary arterial hypertension (PAH) both alone and in combination with [macitentan] or other endothelin-1 antagonists.[L39100,L39105]	PDE5A, PDE11A, PDE6G	-0.0781204719709032	5.328468152257082e-10
+28	DB08912	dabrafenib	"Tafinlar is a kinase inhibitor that was initially indicated as a single agent for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test [FDA label].
+
+Tafinlar in combination with [DB08911] is indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. The use in combination is based on the demonstration of durable response rate. Improvement in disease-related symptoms or overall survival has not been demonstrated for Tafinlar in combination with trametinib [FDA label].
+
+In May 2018, Tafinlar (dabrafenib) and Mekinist ([DB08911]) have been approved in combination to treat anaplastic thyroid cancer caused by an abnormal BRAF V600E gene [L2712]."	RAF1, BRAF, SIK1, LIMK1, NEK11	-1.357827292938082	1.2778435600649074e-09
+29	DB02656	LY-294002		PIM1, PIK3CG	-0.9744791673003256	1.2778435600649074e-09
+30	DB02910	A-443654		ECHS1, ECI1, ACADM	-0.5584774636263886	1.2778435600649074e-09
+31	DB00482	celecoxib	"Celecoxib is indicated for symptomatic treatment of adult osteoarthritis (OA) and adult rheumatoid arthritis (RA).[L7646] Celecoxib is not a substitute for aspirin for cardiovascular event prophylaxis.[L7646] 
+
+It may be also be used to treat acute pain from various sources, juvenile rheumatoid arthritis in children over 2, ankylosing spondylitis, and primary dysmenorrhea.[L7646]
+
+Celecoxib, in combination with [tramadol], is indicated for the management of acute pain in adults severe enough to require an opioid analgesic and in whom alternative treatments are inadequate.[L38949]"	PTGS2, CA3, PDPK1, CA2, CDH11	-0.4523748997183154	1.2778435600649074e-09
+32	DB00337	pimecrolimus	For treatment of mild to moderate atopic dermatitis.	FKBP1A, MTOR	-2.951053815434538	3.0352528193198913e-09
+33	DB06075	linsitinib	Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.	INSR, IGF1R	-1.2656777208570165	3.0352528193198913e-09
+34	DB01782	pyrazolanthrone		TTK, MAPK8IP1, MAPK8, MAPK10	-1.0917491620018642	3.0352528193198913e-09
+35	DB00641	simvastatin	"Simvastatin is indicated for the treatment of hyperlipidemia to reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL‑C), apolipoprotein B (Apo B), and triglycerides (TG), and to increase high-density lipoprotein cholesterol (HDL-C).[F4655, F4658]
+
+This includes the treatment of primary hyperlipidemia (Fredrickson type IIa, heterozygous familial and nonfamilial), mixed dyslipidemia (Fredrickson type IIb), hypertriglyceridemia (Fredrickson type IV hyperlipidemia), primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia), homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments, as well as adolescent patients with Heterozygous Familial Hypercholesterolemia (HeFH).[F4655, F4658]
+
+Simvastatin is also indicated to reduce the risk of cardiovascular morbidity and mortality including myocardial infarction, stroke, and the need for revascularization procedures. It is primarily used in patients at high risk of coronary events because of existing coronary heart disease, diabetes, peripheral vessel disease, history of stroke or other cerebrovascular disease.[F4655, F4658]
+
+Prescribing of statin medications is considered standard practice following any cardiovascular events and for people with a moderate to high risk of development of CVD. Statin-indicated conditions include diabetes mellitus, clinical atherosclerosis (including myocardial infarction, acute coronary syndromes, stable angina, documented coronary artery disease, stroke, trans ischemic attack (TIA), documented carotid disease, peripheral artery disease, and claudication), abdominal aortic aneurysm, chronic kidney disease, and severely elevated LDL-C levels.[A181087, A181406]"	ITGAL, HDAC2, HMGCR	-0.8919590378800576	3.0352528193198913e-09
+36	DB00642	pemetrexed	Used in combination with cisplatin for the treatment of malignant pleural mesothelioma in adults whose disease is unresectable or who otherwise are not candidates for potentially curative surgery. Also used as a monotherapy for the treatment of locally advanced or metastatic non-small cell lung cancer (NSCLC) after prior chemotherapy	TYMS, ATIC, DHFR, GART	-0.3006554810212528	3.0352528193198913e-09
+37	DB00995	auranofin	Used in the treatment of active, progressive or destructive forms of inflammatory arthritis, such as adult rheumatoid arthritis.	PRDX5, IKBKB	-1.2840389041571272	6.747634532210269e-09
+38	DB02546	vorinostat	For the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies.	HDAC2, HDAC1, HDAC3, HDAC6, HDAC8	-0.969657553692446	6.747634532210269e-09
+39	DB01656	roflumilast	Roflumilast is indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations. Roflumilast is not a bronchodilator and is not indicated for the relief of acute bronchospasm.	PDE4C, PDE4D, PDE4A, PDE4B	-0.9299400333097664	6.747634532210269e-09
+40	DB08916	afatinib	"Afatinib is a kinase inhibitor indicated as monotherapy [L2937] for the first-line [FDA Label] treatment of (a) Epidermal Growth Factor Receptor (EGFR) TKI (tyrosine kinase inhibitor)-naive adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) whose tumours have non-resistant EGFR mutations as detected by an FDA-approved test [FDA Label], and (b) adult patients with locally advanced or metastatic NSCLC of squamous histology progressing on or after platinum-based chemotherapy [FDA Label, L2937].
+
+Recently, as of January 2018, the US FDA approved a supplemental New Drug Application for Boehringer Ingelheim's Gilotrif (afatinib) for the first line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test [L2939]. The new label includes data on three additional EGFR mutations: L861Q, G719X and S768I [L2939]."	ERBB2, EGFR, ERBB4	-0.6469942637986855	6.747634532210269e-09
+41	DB09241	methylene-blue	"Indicated for the treatment of pediatric and adult patients with acquired methemoglobinemia. 
+
+Other clinical applications of methylene blue include improvement of hypotension associated with various clinical states, an antiseptic in urinary tract infections, treatment of hypoxia and hyperdynamic circulation in cirrhosis of liver and severe hepatopulmonary syndrome, and treatment of ifofosamide induced neurotoxicity."	GUCY1A2, NOS1	-0.5597486777045235	6.747634532210269e-09
+42	DB00441	gemcitabine	"Gemcitabine is a chemotherapeutic agent used as monotherapy or in combination with other anticancer agents. 
+
+In combination with [carboplatin], it is indicated for the treatment of advanced ovarian cancer that has relapsed at least 6 months after completion of platinum-based therapy.[L32950]
+
+Gemcitabine in combination with [paclitaxel] is indicated for the first-line treatment of patients with metastatic breast cancer after failure of prior anthracycline-containing adjuvant chemotherapy, unless anthracyclines were clinically contraindicated.[L32950]
+
+In combination with [cisplatin], gemcitabine is indicated for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB) or metastatic (Stage IV) non-small cell lung cancer (NSCLC).[L32950] Dual therapy with cisplatin is also used to treat patients with Stage IV (locally advanced or metastatic) transitional cell carcinoma (TCC) of the bladder.[L32955]
+
+Gemcitabine is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas. Gemcitabine is indicated for patients previously treated with [fluorouracil].[L32950]"	TYMS, CMPK1, RRM1	-0.4988683195212565	6.747634532210269e-09
+43	DB05814	IPI-145	Investigated for use/treatment in erectile dysfunction and parkinson's disease.	FKBP1A	-2.747032628828455	1.499510280563602e-08
+44	DB06595	midostaurin	Investigated for use/treatment in adult patients with high-risk acute myeloid leukemia (AML) who are FLT3 mutation-positive, agressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL). 	KDR, PDGFRA, KIT, FLT3, PRKCA, PDGFRB	-0.1909250723651333	1.499510280563602e-08

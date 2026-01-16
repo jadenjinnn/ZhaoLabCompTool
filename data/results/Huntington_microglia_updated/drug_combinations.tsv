@@ -1,0 +1,742 @@
+ID1	ID2	Name1	Name2	Separation	ATC_Codes1	ATC_Codes2	Reported_Interaction	Reported_Combination
+DB01030	DB00734	Topotecan	Risperidone	1.077380952380952	L	N	False	False
+DB00170	DB00337	Menadione	Pimecrolimus	1.0666666666666664	B	D	False	False
+DB01030	DB00334	Topotecan	Olanzapine	1.0538847117794488	L	N	False	False
+DB00170	DB01092	Menadione	Ouabain	1.0538461538461537	B	C	False	False
+DB07232	DB00337	Veliparib	Pimecrolimus	1.0		D	False	False
+DB02910	DB08916	Octanoyl-Coenzyme A	Afatinib	1.0		L	False	False
+DB07232	DB01092	Veliparib	Ouabain	1.0		C	False	False
+DB01092	DB00337	Ouabain	Pimecrolimus	1.0	C	D	False	False
+DB01092	DB06075	Ouabain	Linsitinib	1.0	C		False	False
+DB07715	DB02910	Emodin	Octanoyl-Coenzyme A	1.0			False	False
+DB08911	DB02910	Trametinib	Octanoyl-Coenzyme A	1.0	L		False	False
+DB07232	DB07715	Veliparib	Emodin	1.0			False	False
+DB07232	DB02910	Veliparib	Octanoyl-Coenzyme A	1.0			False	False
+DB07232	DB06075	Veliparib	Linsitinib	1.0			False	False
+DB05134	DB02910	Tanespimycin	Octanoyl-Coenzyme A	1.0			False	False
+DB05134	DB07232	Tanespimycin	Veliparib	1.0			False	False
+DB07715	DB00337	Emodin	Pimecrolimus	1.0		D	False	False
+DB05134	DB01092	Tanespimycin	Ouabain	1.0		C	False	False
+DB01092	DB07715	Ouabain	Emodin	1.0	C		False	False
+DB08911	DB01092	Trametinib	Ouabain	1.0	L	C	False	False
+DB01030	DB06075	Topotecan	Linsitinib	1.0	L		False	False
+DB07715	DB06075	Emodin	Linsitinib	1.0			False	False
+DB08911	DB07232	Trametinib	Veliparib	1.0	L		False	False
+DB01030	DB08911	Topotecan	Trametinib	1.0	L	L	False	False
+DB01030	DB01092	Topotecan	Ouabain	1.0	L	C	False	False
+DB02910	DB00337	Octanoyl-Coenzyme A	Pimecrolimus	1.0		D	False	False
+DB02910	DB06075	Octanoyl-Coenzyme A	Linsitinib	1.0			False	False
+DB08911	DB07715	Trametinib	Emodin	1.0	L		False	False
+DB01030	DB05134	Topotecan	Tanespimycin	1.0	L		False	False
+DB01030	DB02910	Topotecan	Octanoyl-Coenzyme A	1.0	L		False	False
+DB08911	DB01645	Trametinib	Genistein	0.98974358974359	L		False	False
+DB00170	DB01656	Menadione	Roflumilast	0.9892857142857143	B	R	False	False
+DB08911	DB00170	Trametinib	Menadione	0.9833333333333334	L	B	False	False
+DB00170	DB06075	Menadione	Linsitinib	0.9833333333333334	B		False	False
+DB01030	DB00170	Topotecan	Menadione	0.9833333333333334	L	B	False	False
+DB00170	DB02910	Menadione	Octanoyl-Coenzyme A	0.976923076923077	B		False	False
+DB00334	DB02910	Olanzapine	Octanoyl-Coenzyme A	0.9521531100478469	N		False	False
+DB00170	DB06080	Menadione	Linifanib	0.9416666666666667	B		False	False
+DB07232	DB00734	Veliparib	Risperidone	0.9345238095238093		N	False	False
+DB00734	DB06075	Risperidone	Linsitinib	0.9345238095238093	N		False	False
+DB08911	DB00734	Trametinib	Risperidone	0.9345238095238093	L	N	False	False
+DB00734	DB02910	Risperidone	Octanoyl-Coenzyme A	0.9249999999999998	N		False	False
+DB01645	DB02910	Genistein	Octanoyl-Coenzyme A	0.9230769230769231			False	False
+DB08911	DB06080	Trametinib	Linifanib	0.9166666666666665	L		False	False
+DB02910	DB06595	Octanoyl-Coenzyme A	Midostaurin	0.9166666666666665		L	False	False
+DB01030	DB06080	Topotecan	Linifanib	0.9166666666666665	L		False	False
+DB06080	DB01092	Linifanib	Ouabain	0.9166666666666665		C	False	False
+DB06080	DB00337	Linifanib	Pimecrolimus	0.9166666666666665		D	False	False
+DB06080	DB02910	Linifanib	Octanoyl-Coenzyme A	0.9166666666666665			False	False
+DB06080	DB07715	Linifanib	Emodin	0.9166666666666665			False	False
+DB07232	DB06595	Veliparib	Midostaurin	0.9166666666666665		L	False	False
+DB07232	DB06080	Veliparib	Linifanib	0.9166666666666665			False	False
+DB06080	DB06075	Linifanib	Linsitinib	0.9166666666666665			False	False
+DB08911	DB06595	Trametinib	Midostaurin	0.9166666666666665	L	L	False	False
+DB08911	DB00334	Trametinib	Olanzapine	0.911027568922306	L	N	False	False
+DB00334	DB07232	Olanzapine	Veliparib	0.911027568922306	N		False	False
+DB00334	DB06075	Olanzapine	Linsitinib	0.911027568922306	N		False	False
+DB00170	DB07715	Menadione	Emodin	0.8999999999999999	B		False	False
+DB00170	DB05134	Menadione	Tanespimycin	0.8999999999999999	B		False	False
+DB01030	DB02546	Topotecan	Vorinostat	0.8999999999999999	L	L	True	False
+DB00337	DB02546	Pimecrolimus	Vorinostat	0.8999999999999999	D	L	True	False
+DB08911	DB00783	Trametinib	Estradiol	0.8968253968253967	L	G	False	False
+DB00337	DB01656	Pimecrolimus	Roflumilast	0.875	D	R	False	False
+DB06075	DB01656	Linsitinib	Roflumilast	0.875		R	False	False
+DB01030	DB08059	Topotecan	Wortmannin	0.875	L		True	False
+DB01030	DB01656	Topotecan	Roflumilast	0.875	L	R	False	False
+DB01030	DB00642	Topotecan	Pemetrexed	0.875	L	L	True	False
+DB01092	DB01656	Ouabain	Roflumilast	0.875	C	R	False	False
+DB08059	DB05134	Wortmannin	Tanespimycin	0.875			False	False
+DB01092	DB00642	Ouabain	Pemetrexed	0.875	C	L	False	False
+DB08059	DB01092	Wortmannin	Ouabain	0.875		C	False	False
+DB08059	DB07232	Wortmannin	Veliparib	0.875			False	False
+DB02910	DB01656	Octanoyl-Coenzyme A	Roflumilast	0.875		R	False	False
+DB08911	DB01656	Trametinib	Roflumilast	0.875	L	R	False	False
+DB02910	DB00642	Octanoyl-Coenzyme A	Pemetrexed	0.875		L	False	False
+DB07232	DB01656	Veliparib	Roflumilast	0.875		R	False	False
+DB05134	DB01656	Tanespimycin	Roflumilast	0.875		R	False	False
+DB01656	DB08916	Roflumilast	Afatinib	0.875	R	L	False	False
+DB05134	DB00642	Tanespimycin	Pemetrexed	0.875		L	False	False
+DB08059	DB02910	Wortmannin	Octanoyl-Coenzyme A	0.875			False	False
+DB07715	DB01656	Emodin	Roflumilast	0.875		R	False	False
+DB08911	DB00642	Trametinib	Pemetrexed	0.875	L	L	False	False
+DB07232	DB00642	Veliparib	Pemetrexed	0.875		L	False	False
+DB06080	DB00734	Linifanib	Risperidone	0.8749999999999998		N	False	False
+DB00334	DB00642	Olanzapine	Pemetrexed	0.8647025171624714	N	L	False	False
+DB00734	DB00337	Risperidone	Pimecrolimus	0.8630952380952381	N	D	False	False
+DB00734	DB01092	Risperidone	Ouabain	0.8583333333333334	N	C	False	False
+DB01645	DB01656	Genistein	Roflumilast	0.8569004524886876		R	False	False
+DB00734	DB01656	Risperidone	Roflumilast	0.8541666666666665	N	R	False	False
+DB00334	DB00170	Olanzapine	Menadione	0.853720508166969	N	B	False	False
+DB08059	DB00170	Wortmannin	Menadione	0.8464285714285715		B	False	False
+DB00170	DB00642	Menadione	Pemetrexed	0.8464285714285715	B	L	False	False
+DB01030	DB02424	Topotecan	Geldanamycin	0.8333333333333335	L		False	False
+DB08911	DB04573	Trametinib	Estriol	0.8333333333333335	L	G	False	False
+DB04573	DB02910	Estriol	Octanoyl-Coenzyme A	0.8333333333333335	G		False	False
+DB02424	DB01092	Geldanamycin	Ouabain	0.8333333333333335		C	False	False
+DB02424	DB07232	Geldanamycin	Veliparib	0.8333333333333335			False	False
+DB00334	DB01656	Olanzapine	Roflumilast	0.8212242562929064	N	R	False	False
+DB06080	DB02546	Linifanib	Vorinostat	0.8166666666666667		L	False	False
+DB00170	DB07232	Menadione	Veliparib	0.8166666666666667	B		False	False
+DB00334	DB05134	Olanzapine	Tanespimycin	0.8157894736842106	N		False	False
+DB00313	DB00337	Valproic acid	Pimecrolimus	0.8131313131313131	N	D	False	False
+DB07715	DB08912	Emodin	Dabrafenib	0.8		L	False	False
+DB08912	DB02910	Dabrafenib	Octanoyl-Coenzyme A	0.8	L		False	False
+DB01030	DB08912	Topotecan	Dabrafenib	0.8	L	L	False	False
+DB08912	DB00337	Dabrafenib	Pimecrolimus	0.8	L	D	False	False
+DB01645	DB00642	Genistein	Pemetrexed	0.7980769230769231		L	False	False
+DB01656	DB06595	Roflumilast	Midostaurin	0.7916666666666665	R	L	False	False
+DB00642	DB06595	Pemetrexed	Midostaurin	0.7916666666666665	L	L	False	False
+DB06080	DB01656	Linifanib	Roflumilast	0.7916666666666665		R	False	False
+DB06080	DB00642	Linifanib	Pemetrexed	0.7916666666666665		L	False	False
+DB00783	DB02910	Estradiol	Octanoyl-Coenzyme A	0.7857142857142856	G		False	False
+DB02546	DB01656	Vorinostat	Roflumilast	0.7749999999999999	L	R	False	False
+DB00642	DB02546	Pemetrexed	Vorinostat	0.7749999999999999	L	L	True	False
+DB00334	DB01092	Olanzapine	Ouabain	0.7703349282296652	N	C	False	False
+DB00334	DB00337	Olanzapine	Pimecrolimus	0.768170426065163	N	D	False	False
+DB00170	DB08912	Menadione	Dabrafenib	0.766666666666667	B	L	False	False
+DB00334	DB02546	Olanzapine	Vorinostat	0.757456140350877	N	L	True	False
+DB01645	DB00734	Genistein	Risperidone	0.7547435897435899		N	False	False
+DB00783	DB01656	Estradiol	Roflumilast	0.7516233766233764	G	R	False	False
+DB00734	DB02546	Risperidone	Vorinostat	0.7504901960784311	N	L	True	False
+DB00642	DB01656	Pemetrexed	Roflumilast	0.75	L	R	False	False
+DB02910	DB01782	Octanoyl-Coenzyme A	Pyrazolanthrone	0.75			False	False
+DB01030	DB01782	Topotecan	Pyrazolanthrone	0.75	L		False	False
+DB04573	DB06595	Estriol	Midostaurin	0.75	G	L	False	False
+DB01092	DB01782	Ouabain	Pyrazolanthrone	0.75	C		False	False
+DB08059	DB00642	Wortmannin	Pemetrexed	0.75		L	True	False
+DB07715	DB01782	Emodin	Pyrazolanthrone	0.75			False	False
+DB07232	DB01782	Veliparib	Pyrazolanthrone	0.75			False	False
+DB06075	DB01782	Linsitinib	Pyrazolanthrone	0.75			False	False
+DB04573	DB06080	Estriol	Linifanib	0.75	G		False	False
+DB00170	DB08916	Menadione	Afatinib	0.7461538461538462	B	L	False	False
+DB00334	DB01645	Olanzapine	Genistein	0.7388663967611335	N		False	False
+DB00170	DB00734	Menadione	Risperidone	0.7371212121212121	B	N	False	False
+DB01645	DB06080	Genistein	Linifanib	0.7344804318488529			False	False
+DB02424	DB00170	Geldanamycin	Menadione	0.7333333333333334		B	False	False
+DB00820	DB00337	Tadalafil	Pimecrolimus	0.7333333333333332	C, G	D	False	False
+DB01030	DB00820	Topotecan	Tadalafil	0.7333333333333332	L	C, G	False	False
+DB08059	DB00734	Wortmannin	Risperidone	0.7291666666666665		N	True	False
+DB00734	DB00642	Risperidone	Pemetrexed	0.7291666666666665	N	L	False	False
+DB00734	DB08916	Risperidone	Afatinib	0.7249999999999999	N	L	False	False
+DB01030	DB01645	Topotecan	Genistein	0.7230769230769232	L		False	False
+DB00313	DB02910	Valproic acid	Octanoyl-Coenzyme A	0.7222222222222223	N		False	False
+DB00313	DB06075	Valproic acid	Linsitinib	0.7222222222222223	N		False	False
+DB00170	DB01782	Menadione	Pyrazolanthrone	0.7214285714285715	B		False	False
+DB00334	DB07715	Olanzapine	Emodin	0.7205513784461153	N		False	False
+DB00734	DB07715	Risperidone	Emodin	0.7202380952380951	N		False	False
+DB06080	DB08912	Linifanib	Dabrafenib	0.7166666666666668		L	False	False
+DB04573	DB00642	Estriol	Pemetrexed	0.7083333333333335	G	L	False	False
+DB04573	DB01656	Estriol	Roflumilast	0.7083333333333335	G	R	False	False
+DB08059	DB02424	Wortmannin	Geldanamycin	0.7083333333333335			False	False
+DB02424	DB01656	Geldanamycin	Roflumilast	0.7083333333333335		R	False	False
+DB02424	DB00642	Geldanamycin	Pemetrexed	0.7083333333333335		L	False	False
+DB00313	DB06080	Valproic acid	Linifanib	0.7055555555555557	N		False	False
+DB06080	DB00783	Linifanib	Estradiol	0.7023809523809523		G	False	False
+DB01092	DB06595	Ouabain	Midostaurin	0.6944444444444442	C	L	False	False
+DB00334	DB06080	Olanzapine	Linifanib	0.6924561403508771	N		False	False
+DB04573	DB00734	Estriol	Risperidone	0.6916666666666669	G	N	False	False
+DB00170	DB06595	Menadione	Midostaurin	0.6916666666666667	B	L	False	False
+DB08059	DB00334	Wortmannin	Olanzapine	0.6907894736842106		N	False	False
+DB00334	DB08916	Olanzapine	Afatinib	0.6794258373205742	N	L	False	False
+DB08912	DB00642	Dabrafenib	Pemetrexed	0.675	L	L	False	False
+DB08912	DB01656	Dabrafenib	Roflumilast	0.675	L	R	False	False
+DB00313	DB00170	Valproic acid	Menadione	0.6748538011695908	N	B	False	False
+DB01645	DB01092	Genistein	Ouabain	0.6730769230769231		C	False	False
+DB01092	DB02910	Ouabain	Octanoyl-Coenzyme A	0.6666666666666667	C		False	False
+DB06075	DB06595	Linsitinib	Midostaurin	0.6666666666666665		L	False	False
+DB01782	DB06595	Pyrazolanthrone	Midostaurin	0.6666666666666665		L	False	False
+DB06080	DB01782	Linifanib	Pyrazolanthrone	0.6666666666666665			False	False
+DB00197	DB02910	Troglitazone	Octanoyl-Coenzyme A	0.6666666666666665	A		False	False
+DB00197	DB06075	Troglitazone	Linsitinib	0.6666666666666665	A		False	False
+DB00734	DB01782	Risperidone	Pyrazolanthrone	0.6666666666666665	N		False	False
+DB07715	DB06595	Emodin	Midostaurin	0.6666666666666665		L	False	False
+DB01030	DB00197	Topotecan	Troglitazone	0.6666666666666665	L	A	False	False
+DB00197	DB01092	Troglitazone	Ouabain	0.6666666666666665	A	C	False	False
+DB00197	DB07232	Troglitazone	Veliparib	0.6666666666666665	A		False	False
+DB00197	DB07715	Troglitazone	Emodin	0.6666666666666665	A		False	False
+DB00783	DB00642	Estradiol	Pemetrexed	0.6607142857142856	G	L	False	False
+DB01645	DB00337	Genistein	Pimecrolimus	0.6564102564102565		D	False	False
+DB00734	DB08912	Risperidone	Dabrafenib	0.6504901960784313	N	L	True	False
+DB00170	DB09241	Menadione	Methylene blue	0.6499999999999999	B	V	False	False
+DB02910	DB02546	Octanoyl-Coenzyme A	Vorinostat	0.6499999999999999		L	False	False
+DB00170	DB12483	Menadione	Copanlisib	0.6499999999999999	B	L	False	False
+DB01092	DB02546	Ouabain	Vorinostat	0.6499999999999999	C	L	False	False
+DB04573	DB00334	Estriol	Olanzapine	0.6491228070175439	G	N	False	False
+DB05134	DB00734	Tanespimycin	Risperidone	0.6488095238095237		N	False	False
+DB01030	DB00482	Topotecan	Celecoxib	0.6428571428571428	L	C, L, G, M	False	False
+DB02546	DB06595	Vorinostat	Midostaurin	0.6348484848484848	L	L	False	False
+DB04573	DB08912	Estriol	Dabrafenib	0.6333333333333333	G	L	False	False
+DB02910	DB00482	Octanoyl-Coenzyme A	Celecoxib	0.625		C, L, G, M	False	False
+DB01782	DB01656	Pyrazolanthrone	Roflumilast	0.625		R	False	False
+DB01782	DB00642	Pyrazolanthrone	Pemetrexed	0.625		L	False	False
+DB00334	DB08912	Olanzapine	Dabrafenib	0.6157894736842104	N	L	False	False
+DB08911	DB02546	Trametinib	Vorinostat	0.6142857142857141	L	L	False	False
+DB00313	DB00734	Valproic acid	Risperidone	0.6091269841269842	N	N	True	False
+DB00334	DB00783	Olanzapine	Estradiol	0.6015037593984962	N	G	False	False
+DB07715	DB08916	Emodin	Afatinib	0.6000000000000001		L	False	False
+DB00313	DB01656	Valproic acid	Roflumilast	0.5972222222222223	N	R	False	False
+DB00313	DB00642	Valproic acid	Pemetrexed	0.5972222222222223	N	L	False	False
+DB01645	DB06075	Genistein	Linsitinib	0.5897435897435899			False	False
+DB01645	DB07232	Genistein	Veliparib	0.5897435897435899			False	False
+DB01092	DB00783	Ouabain	Estradiol	0.5857142857142856	C	G	False	False
+DB06080	DB08916	Linifanib	Afatinib	0.5833333333333333		L	False	False
+DB00734	DB00783	Risperidone	Estradiol	0.5773809523809523	N	G	False	False
+DB01645	DB06595	Genistein	Midostaurin	0.5765856950067478		L	False	False
+DB00313	DB00334	Valproic acid	Olanzapine	0.5737259816207183	N	N	False	False
+DB00170	DB02656	Menadione	LY-294002	0.5666666666666664	B		False	False
+DB02375	DB00170	Myricetin	Menadione	0.5666666666666664		B	False	False
+DB00334	DB01782	Olanzapine	Pyrazolanthrone	0.5657894736842106	N		False	False
+DB01030	DB00783	Topotecan	Estradiol	0.5634920634920633	L	G	False	False
+DB00334	DB02424	Olanzapine	Geldanamycin	0.558213716108453	N		False	False
+DB01645	DB09241	Genistein	Methylene blue	0.5564102564102564		V	False	False
+DB01645	DB08912	Genistein	Dabrafenib	0.5564102564102564		L	False	False
+DB00313	DB01092	Valproic acid	Ouabain	0.5555555555555556	N	C	False	False
+DB01092	DB08912	Ouabain	Dabrafenib	0.55	C	L	False	False
+DB07715	DB00642	Emodin	Pemetrexed	0.5416666666666667		L	False	False
+DB00337	DB00642	Pimecrolimus	Pemetrexed	0.5416666666666667	D	L	True	False
+DB06075	DB00642	Linsitinib	Pemetrexed	0.5416666666666667		L	False	False
+DB08059	DB00337	Wortmannin	Pimecrolimus	0.5416666666666667		D	True	False
+DB08059	DB07715	Wortmannin	Emodin	0.5416666666666667			False	False
+DB00197	DB01656	Troglitazone	Roflumilast	0.5416666666666665	A	R	False	False
+DB00197	DB00642	Troglitazone	Pemetrexed	0.5416666666666665	A	L	False	False
+DB00197	DB08059	Troglitazone	Wortmannin	0.5416666666666665	A		False	False
+DB00337	DB06595	Pimecrolimus	Midostaurin	0.5416666666666665	D	L	False	False
+DB01030	DB06595	Topotecan	Midostaurin	0.5416666666666665	L	L	False	False
+DB00170	DB00862	Menadione	Vardenafil	0.5410256410256409	B	G	False	False
+DB00170	DB00203	Menadione	Sildenafil	0.5410256410256409	B	G	False	False
+DB00313	DB07715	Valproic acid	Emodin	0.5404040404040404	N		False	False
+DB01030	DB00313	Topotecan	Valproic acid	0.5404040404040404	L	N	False	False
+DB04573	DB09241	Estriol	Methylene blue	0.5333333333333337	G	V	False	False
+DB07232	DB00820	Veliparib	Tadalafil	0.5333333333333334		C, G	False	False
+DB00170	DB02546	Menadione	Vorinostat	0.5333333333333334	B	L	False	False
+DB01030	DB00203	Topotecan	Sildenafil	0.5333333333333334	L	G	False	False
+DB08911	DB00820	Trametinib	Tadalafil	0.5333333333333334	L	C, G	False	False
+DB00820	DB06075	Tadalafil	Linsitinib	0.5333333333333334	C, G		False	False
+DB00862	DB00337	Vardenafil	Pimecrolimus	0.5333333333333334	G	D	False	False
+DB01030	DB00862	Topotecan	Vardenafil	0.5333333333333334	L	G	False	False
+DB00203	DB00337	Sildenafil	Pimecrolimus	0.5333333333333334	G	D	False	False
+DB00170	DB00482	Menadione	Celecoxib	0.5333333333333332	B	C, L, G, M	False	False
+DB00334	DB06595	Olanzapine	Midostaurin	0.5324561403508772	N	L	False	False
+DB00734	DB00862	Risperidone	Vardenafil	0.5249999999999999	N	G	True	False
+DB00734	DB00820	Risperidone	Tadalafil	0.5249999999999999	N	C, G	True	False
+DB00734	DB00203	Risperidone	Sildenafil	0.5249999999999999	N	G	True	False
+DB01645	DB00170	Genistein	Menadione	0.5187290969899667		B	False	False
+DB07232	DB08912	Veliparib	Dabrafenib	0.5142857142857142		L	False	False
+DB00334	DB00862	Olanzapine	Vardenafil	0.5127591706539074	N	G	True	False
+DB00334	DB00820	Olanzapine	Tadalafil	0.5127591706539074	N	C, G	True	False
+DB00334	DB00203	Olanzapine	Sildenafil	0.5127591706539074	N	G	True	False
+DB00334	DB09241	Olanzapine	Methylene blue	0.5062656641604013	N	V	False	False
+DB02375	DB00734	Myricetin	Risperidone	0.5059523809523809		N	False	False
+DB00734	DB02656	Risperidone	LY-294002	0.5059523809523809	N		False	False
+DB00734	DB12483	Risperidone	Copanlisib	0.5059523809523809	N	L	False	False
+DB04573	DB01092	Estriol	Ouabain	0.5000000000000002	G	C	False	False
+DB02424	DB02910	Geldanamycin	Octanoyl-Coenzyme A	0.5000000000000002			False	False
+DB08912	DB02546	Dabrafenib	Vorinostat	0.5000000000000002	L	L	True	False
+DB02910	DB00995	Octanoyl-Coenzyme A	Auranofin	0.5		M	False	False
+DB02656	DB00337	LY-294002	Pimecrolimus	0.5		D	False	False
+DB02656	DB02910	LY-294002	Octanoyl-Coenzyme A	0.5			False	False
+DB01030	DB07715	Topotecan	Emodin	0.5	L		False	False
+DB01030	DB00995	Topotecan	Auranofin	0.5	L	M	False	False
+DB01030	DB00641	Topotecan	Simvastatin	0.5	L	C, A	False	False
+DB01030	DB00337	Topotecan	Pimecrolimus	0.5	L	D	True	False
+DB08911	DB02375	Trametinib	Myricetin	0.5	L		False	False
+DB02910	DB00641	Octanoyl-Coenzyme A	Simvastatin	0.5		C, A	False	False
+DB00337	DB06075	Pimecrolimus	Linsitinib	0.5	D		False	False
+DB01092	DB02656	Ouabain	LY-294002	0.5	C		False	False
+DB01092	DB00995	Ouabain	Auranofin	0.5	C	M	False	False
+DB01092	DB00482	Ouabain	Celecoxib	0.5	C	C, L, G, M	False	False
+DB12483	DB07715	Copanlisib	Emodin	0.5	L		False	False
+DB08911	DB00441	Trametinib	Gemcitabine	0.5	L	L	False	False
+DB00337	DB00441	Pimecrolimus	Gemcitabine	0.5	D	L	True	False
+DB02375	DB07715	Myricetin	Emodin	0.5			False	False
+DB08916	DB09241	Afatinib	Methylene blue	0.5	L	V	False	False
+DB02910	DB09241	Octanoyl-Coenzyme A	Methylene blue	0.5		V	False	False
+DB01030	DB00441	Topotecan	Gemcitabine	0.5	L	L	True	False
+DB01030	DB09241	Topotecan	Methylene blue	0.5	L	V	False	False
+DB06075	DB09241	Linsitinib	Methylene blue	0.5		V	False	False
+DB06075	DB00441	Linsitinib	Gemcitabine	0.5		L	False	False
+DB08911	DB09241	Trametinib	Methylene blue	0.5	L	V	False	False
+DB02375	DB01092	Myricetin	Ouabain	0.5		C	False	False
+DB02375	DB07232	Myricetin	Veliparib	0.5			False	False
+DB02375	DB02910	Myricetin	Octanoyl-Coenzyme A	0.5			False	False
+DB00337	DB00641	Pimecrolimus	Simvastatin	0.5	D	C, A	False	False
+DB06075	DB00995	Linsitinib	Auranofin	0.5		M	False	False
+DB01092	DB08916	Ouabain	Afatinib	0.5	C	L	False	False
+DB01092	DB09241	Ouabain	Methylene blue	0.5	C	V	False	False
+DB01092	DB00441	Ouabain	Gemcitabine	0.5	C	L	False	False
+DB05134	DB00337	Tanespimycin	Pimecrolimus	0.5		D	False	False
+DB05134	DB12483	Tanespimycin	Copanlisib	0.5		L	False	False
+DB00337	DB09241	Pimecrolimus	Methylene blue	0.5	D	V	False	False
+DB01030	DB07232	Topotecan	Veliparib	0.5	L		False	False
+DB08916	DB00441	Afatinib	Gemcitabine	0.5	L	L	False	False
+DB01030	DB02656	Topotecan	LY-294002	0.5	L		False	False
+DB08911	DB00337	Trametinib	Pimecrolimus	0.5	L	D	False	False
+DB08911	DB06075	Trametinib	Linsitinib	0.5	L		False	False
+DB08911	DB00995	Trametinib	Auranofin	0.5	L	M	False	False
+DB07715	DB09241	Emodin	Methylene blue	0.5		V	False	False
+DB01030	DB12483	Topotecan	Copanlisib	0.5	L	L	False	False
+DB07715	DB00995	Emodin	Auranofin	0.5		M	False	False
+DB07715	DB02656	Emodin	LY-294002	0.5			False	False
+DB12483	DB02910	Copanlisib	Octanoyl-Coenzyme A	0.5	L		False	False
+DB07232	DB02656	Veliparib	LY-294002	0.5			False	False
+DB07232	DB00482	Veliparib	Celecoxib	0.5		C, L, G, M	False	False
+DB07232	DB12483	Veliparib	Copanlisib	0.5		L	False	False
+DB00288	DB02910	Amcinonide	Octanoyl-Coenzyme A	0.5	D		False	False
+DB00288	DB00337	Amcinonide	Pimecrolimus	0.5	D	D	False	False
+DB00288	DB06075	Amcinonide	Linsitinib	0.5	D		False	False
+DB00288	DB07715	Amcinonide	Emodin	0.5	D		False	False
+DB05134	DB00441	Tanespimycin	Gemcitabine	0.5		L	False	False
+DB01092	DB12483	Ouabain	Copanlisib	0.5	C	L	False	False
+DB07232	DB09241	Veliparib	Methylene blue	0.5		V	False	False
+DB07232	DB00441	Veliparib	Gemcitabine	0.5		L	False	False
+DB08911	DB02656	Trametinib	LY-294002	0.5	L		False	False
+DB07715	DB00482	Emodin	Celecoxib	0.5		C, L, G, M	False	False
+DB00820	DB02910	Tadalafil	Octanoyl-Coenzyme A	0.4999999999999998	C, G		False	False
+DB00334	DB00441	Olanzapine	Gemcitabine	0.4976076555023923	N	L	False	False
+DB00862	DB00642	Vardenafil	Pemetrexed	0.49404761904761885	G	L	False	False
+DB00203	DB00642	Sildenafil	Pemetrexed	0.49404761904761885	G	L	False	False
+DB02424	DB00734	Geldanamycin	Risperidone	0.4916666666666667		N	False	False
+DB01645	DB02656	Genistein	LY-294002	0.48974358974359			False	False
+DB00482	DB01656	Celecoxib	Roflumilast	0.48611111111111116	C, L, G, M	R	False	False
+DB00734	DB06595	Risperidone	Midostaurin	0.48611111111111094	N	L	False	False
+DB01645	DB00441	Genistein	Gemcitabine	0.48557692307692313		L	False	False
+DB00197	DB00337	Troglitazone	Pimecrolimus	0.48484848484848464	A	D	False	False
+DB00170	DB00441	Menadione	Gemcitabine	0.476923076923077	B	L	False	False
+DB00170	DB00641	Menadione	Simvastatin	0.476923076923077	B	C, A	False	False
+DB06075	DB02546	Linsitinib	Vorinostat	0.4714285714285713		L	False	False
+DB00197	DB08912	Troglitazone	Dabrafenib	0.4666666666666668	A	L	False	False
+DB00170	DB00820	Menadione	Tadalafil	0.46410256410256423	B	C, G	False	False
+DB00197	DB00170	Troglitazone	Menadione	0.4614035087719297	A	B	False	False
+DB00783	DB00337	Estradiol	Pimecrolimus	0.45238095238095233	G	D	False	False
+DB00197	DB06080	Troglitazone	Linifanib	0.44999999999999996	A		False	False
+DB00313	DB08911	Valproic acid	Trametinib	0.4494949494949496	N	L	False	False
+DB00313	DB07232	Valproic acid	Veliparib	0.4494949494949496	N		False	False
+DB00642	DB08916	Pemetrexed	Afatinib	0.4464285714285714	L	L	False	False
+DB00313	DB06595	Valproic acid	Midostaurin	0.4388888888888889	N	L	False	False
+DB00734	DB00995	Risperidone	Auranofin	0.4345238095238093	N	M	False	False
+DB04573	DB00337	Estriol	Pimecrolimus	0.43333333333333357	G	D	False	False
+DB02424	DB00337	Geldanamycin	Pimecrolimus	0.43333333333333357		D	False	False
+DB01030	DB04573	Topotecan	Estriol	0.43333333333333357	L	G	False	False
+DB00734	DB00441	Risperidone	Gemcitabine	0.4249999999999998	N	L	False	False
+DB00783	DB08912	Estradiol	Dabrafenib	0.4190476190476191	G	L	False	False
+DB00337	DB01782	Pimecrolimus	Pyrazolanthrone	0.41666666666666674	D		False	False
+DB01782	DB09241	Pyrazolanthrone	Methylene blue	0.4166666666666665		V	False	False
+DB06080	DB09241	Linifanib	Methylene blue	0.4166666666666665		V	False	False
+DB06080	DB00441	Linifanib	Gemcitabine	0.4166666666666665		L	False	False
+DB00288	DB06080	Amcinonide	Linifanib	0.4166666666666665	D		False	False
+DB06080	DB00641	Linifanib	Simvastatin	0.4166666666666665		C, A	False	False
+DB06080	DB00482	Linifanib	Celecoxib	0.4166666666666665		C, L, G, M	False	False
+DB00197	DB08916	Troglitazone	Afatinib	0.4166666666666665	A	L	False	False
+DB00641	DB06595	Simvastatin	Midostaurin	0.4166666666666665	C, A	L	True	False
+DB00441	DB06595	Gemcitabine	Midostaurin	0.4166666666666665	L	L	False	False
+DB00197	DB00734	Troglitazone	Risperidone	0.4107142857142856	A	N	False	False
+DB00734	DB00482	Risperidone	Celecoxib	0.40931372549019596	N	C, L, G, M	False	False
+DB02546	DB00441	Vorinostat	Gemcitabine	0.3999999999999999	L	L	True	False
+DB07232	DB08916	Veliparib	Afatinib	0.3999999999999999		L	False	False
+DB02375	DB02546	Myricetin	Vorinostat	0.3999999999999999		L	False	False
+DB01030	DB08916	Topotecan	Afatinib	0.3999999999999999	L	L	False	False
+DB00170	DB00995	Menadione	Auranofin	0.3999999999999999	B	M	False	False
+DB00995	DB02546	Auranofin	Vorinostat	0.3999999999999999	M	L	False	False
+DB02656	DB02546	LY-294002	Vorinostat	0.3999999999999999		L	False	False
+DB00334	DB00482	Olanzapine	Celecoxib	0.3991228070175441	N	C, L, G, M	False	False
+DB00783	DB09241	Estradiol	Methylene blue	0.39682539682539675	G	V	False	False
+DB00783	DB06595	Estradiol	Midostaurin	0.3946886446886446	G	L	False	False
+DB08911	DB00197	Trametinib	Troglitazone	0.3939393939393938	L	A	False	False
+DB01645	DB05134	Genistein	Tanespimycin	0.3897435897435897			False	False
+DB00313	DB08916	Valproic acid	Afatinib	0.38888888888888906	N	L	False	False
+DB08059	DB01645	Wortmannin	Genistein	0.3863122171945701			False	False
+DB00783	DB00441	Estradiol	Gemcitabine	0.3857142857142857	G	L	False	False
+DB00313	DB08912	Valproic acid	Dabrafenib	0.37936507936507935	N	L	False	False
+DB00197	DB00334	Troglitazone	Olanzapine	0.37531328320801993	A	N	False	False
+DB00288	DB01656	Amcinonide	Roflumilast	0.375	D	R	False	False
+DB00482	DB00642	Celecoxib	Pemetrexed	0.375	C, L, G, M	L	False	False
+DB00641	DB00642	Simvastatin	Pemetrexed	0.375	C, A	L	False	False
+DB02656	DB00642	LY-294002	Pemetrexed	0.375		L	False	False
+DB01656	DB00441	Roflumilast	Gemcitabine	0.375	R	L	False	False
+DB01656	DB09241	Roflumilast	Methylene blue	0.375	R	V	False	False
+DB00642	DB09241	Pemetrexed	Methylene blue	0.375	L	V	False	False
+DB08059	DB01782	Wortmannin	Pyrazolanthrone	0.375			False	False
+DB00288	DB00642	Amcinonide	Pemetrexed	0.375	D	L	False	False
+DB08059	DB00288	Wortmannin	Amcinonide	0.375		D	False	False
+DB00642	DB00995	Pemetrexed	Auranofin	0.375	L	M	False	False
+DB08059	DB09241	Wortmannin	Methylene blue	0.375		V	True	False
+DB00995	DB01656	Auranofin	Roflumilast	0.375	M	R	False	False
+DB00641	DB01656	Simvastatin	Roflumilast	0.375	C, A	R	False	False
+DB08059	DB00441	Wortmannin	Gemcitabine	0.375		L	True	False
+DB12483	DB00642	Copanlisib	Pemetrexed	0.375	L	L	False	False
+DB00820	DB01782	Tadalafil	Pyrazolanthrone	0.36904761904761885	C, G		False	False
+DB00313	DB08059	Valproic acid	Wortmannin	0.3664529914529915	N		True	False
+DB00334	DB02656	Olanzapine	LY-294002	0.36340852130325807	N		False	False
+DB00334	DB00288	Olanzapine	Amcinonide	0.36340852130325807	N	D	False	False
+DB00334	DB12483	Olanzapine	Copanlisib	0.36340852130325807	N	L	False	False
+DB00334	DB02375	Olanzapine	Myricetin	0.36340852130325807	N		False	False
+DB00334	DB00995	Olanzapine	Auranofin	0.36340852130325807	N	M	False	False
+DB00288	DB00734	Amcinonide	Risperidone	0.36309523809523814	D	N	False	False
+DB00734	DB09241	Risperidone	Methylene blue	0.36309523809523814	N	V	False	False
+DB00334	DB00641	Olanzapine	Simvastatin	0.36124401913875603	N	C, A	False	False
+DB00820	DB06595	Tadalafil	Midostaurin	0.36111111111111116	C, G	L	False	False
+DB06080	DB00820	Linifanib	Tadalafil	0.36111111111111116		C, G	False	False
+DB01645	DB08916	Genistein	Afatinib	0.36057692307692313		L	False	False
+DB00734	DB00641	Risperidone	Simvastatin	0.3583333333333334	N	C, A	False	False
+DB00820	DB00642	Tadalafil	Pemetrexed	0.35119047619047605	C, G	L	False	False
+DB07232	DB00783	Veliparib	Estradiol	0.34126984126984117		G	False	False
+DB00783	DB06075	Estradiol	Linsitinib	0.34126984126984117	G		False	False
+DB07715	DB00783	Emodin	Estradiol	0.34126984126984117		G	False	False
+DB04573	DB00482	Estriol	Celecoxib	0.3333333333333335	G	C, L, G, M	False	False
+DB04573	DB02656	Estriol	LY-294002	0.3333333333333335	G		False	False
+DB02424	DB12483	Geldanamycin	Copanlisib	0.3333333333333335		L	False	False
+DB04573	DB00441	Estriol	Gemcitabine	0.3333333333333335	G	L	False	False
+DB02424	DB00441	Geldanamycin	Gemcitabine	0.3333333333333335		L	False	False
+DB05134	DB00862	Tanespimycin	Vardenafil	0.33333333333333326		G	False	False
+DB00862	DB02910	Vardenafil	Octanoyl-Coenzyme A	0.33333333333333326	G		False	False
+DB00862	DB06075	Vardenafil	Linsitinib	0.33333333333333326	G		False	False
+DB00203	DB08916	Sildenafil	Afatinib	0.33333333333333326	G	L	False	False
+DB01092	DB00862	Ouabain	Vardenafil	0.33333333333333326	C	G	False	False
+DB00820	DB08916	Tadalafil	Afatinib	0.33333333333333326	C, G	L	False	False
+DB00203	DB02910	Sildenafil	Octanoyl-Coenzyme A	0.33333333333333326	G		False	False
+DB00203	DB06075	Sildenafil	Linsitinib	0.33333333333333326	G		False	False
+DB01092	DB00820	Ouabain	Tadalafil	0.33333333333333326	C	C, G	False	False
+DB05134	DB00203	Tanespimycin	Sildenafil	0.33333333333333326		G	False	False
+DB05134	DB00820	Tanespimycin	Tadalafil	0.33333333333333326		C, G	False	False
+DB01092	DB00203	Ouabain	Sildenafil	0.33333333333333326	C	G	False	False
+DB07715	DB00820	Emodin	Tadalafil	0.33333333333333326		C, G	False	False
+DB07715	DB00203	Emodin	Sildenafil	0.33333333333333326		G	False	False
+DB07232	DB00862	Veliparib	Vardenafil	0.33333333333333326		G	False	False
+DB07232	DB00203	Veliparib	Sildenafil	0.33333333333333326		G	False	False
+DB07715	DB00862	Emodin	Vardenafil	0.33333333333333326		G	False	False
+DB00862	DB08916	Vardenafil	Afatinib	0.33333333333333326	G	L	False	False
+DB08911	DB00203	Trametinib	Sildenafil	0.33333333333333326	L	G	False	False
+DB08911	DB00862	Trametinib	Vardenafil	0.33333333333333326	L	G	False	False
+DB00170	DB00783	Menadione	Estradiol	0.3327731092436974	B	G	False	False
+DB08912	DB01782	Dabrafenib	Pyrazolanthrone	0.3277777777777777	L		False	False
+DB01645	DB07715	Genistein	Emodin	0.32307692307692304			False	False
+DB01645	DB01782	Genistein	Pyrazolanthrone	0.3201357466063348			False	False
+DB00783	DB00820	Estradiol	Tadalafil	0.31904761904761925	G	C, G	False	False
+DB01645	DB00820	Genistein	Tadalafil	0.3189102564102564		C, G	False	False
+DB01645	DB00203	Genistein	Sildenafil	0.3189102564102564		G	False	False
+DB01645	DB00862	Genistein	Vardenafil	0.3189102564102564		G	False	False
+DB01782	DB02546	Pyrazolanthrone	Vorinostat	0.31666666666666665		L	False	False
+DB00313	DB02375	Valproic acid	Myricetin	0.31313131313131315	N		False	False
+DB00313	DB02656	Valproic acid	LY-294002	0.31313131313131315	N		False	False
+DB00313	DB00862	Valproic acid	Vardenafil	0.30555555555555536	N	G	False	False
+DB00313	DB00203	Valproic acid	Sildenafil	0.30555555555555536	N	G	False	False
+DB08912	DB09241	Dabrafenib	Methylene blue	0.30000000000000004	L	V	False	False
+DB08912	DB08916	Dabrafenib	Afatinib	0.30000000000000004	L	L	False	False
+DB08912	DB02656	Dabrafenib	LY-294002	0.30000000000000004	L		False	False
+DB08912	DB00441	Dabrafenib	Gemcitabine	0.30000000000000004	L	L	False	False
+DB08912	DB00482	Dabrafenib	Celecoxib	0.30000000000000004	L	C, L, G, M	False	False
+DB00783	DB00482	Estradiol	Celecoxib	0.2857142857142856	G	C, L, G, M	False	False
+DB00482	DB09241	Celecoxib	Methylene blue	0.2857142857142856	C, L, G, M	V	False	False
+DB08059	DB04573	Wortmannin	Estriol	0.2797619047619049		G	False	False
+DB04573	DB00170	Estriol	Menadione	0.27179487179487194	G	B	False	False
+DB01645	DB02546	Genistein	Vorinostat	0.2675213675213677		L	False	False
+DB00783	DB01782	Estradiol	Pyrazolanthrone	0.2629870129870129	G		False	False
+DB00197	DB01782	Troglitazone	Pyrazolanthrone	0.2628205128205128	A		False	False
+DB08912	DB06595	Dabrafenib	Midostaurin	0.2621212121212122	L	L	False	False
+DB01645	DB00482	Genistein	Celecoxib	0.2564102564102564		C, L, G, M	False	False
+DB06080	DB00862	Linifanib	Vardenafil	0.25		G	False	False
+DB02656	DB01782	LY-294002	Pyrazolanthrone	0.25			False	False
+DB01782	DB00441	Pyrazolanthrone	Gemcitabine	0.25		L	False	False
+DB00482	DB08916	Celecoxib	Afatinib	0.25	C, L, G, M	L	False	False
+DB05134	DB06075	Tanespimycin	Linsitinib	0.25			False	False
+DB05134	DB01782	Tanespimycin	Pyrazolanthrone	0.25			False	False
+DB08911	DB01782	Trametinib	Pyrazolanthrone	0.25	L		False	False
+DB12483	DB01782	Copanlisib	Pyrazolanthrone	0.25	L		False	False
+DB00203	DB06595	Sildenafil	Midostaurin	0.25	G	L	False	False
+DB01782	DB00641	Pyrazolanthrone	Simvastatin	0.25		C, A	False	False
+DB01782	DB00995	Pyrazolanthrone	Auranofin	0.25		M	False	False
+DB00482	DB00441	Celecoxib	Gemcitabine	0.25	C, L, G, M	L	False	False
+DB02375	DB01782	Myricetin	Pyrazolanthrone	0.25			False	False
+DB06080	DB00203	Linifanib	Sildenafil	0.25		G	False	False
+DB00862	DB06595	Vardenafil	Midostaurin	0.25	G	L	False	False
+DB00288	DB01782	Amcinonide	Pyrazolanthrone	0.25	D		False	False
+DB08916	DB06595	Afatinib	Midostaurin	0.24999999999999978	L	L	False	False
+DB00313	DB01782	Valproic acid	Pyrazolanthrone	0.24145299145299148	N		False	False
+DB00862	DB02546	Vardenafil	Vorinostat	0.2333333333333334	G	L	True	False
+DB00203	DB02546	Sildenafil	Vorinostat	0.2333333333333334	G	L	False	False
+DB00820	DB02546	Tadalafil	Vorinostat	0.2333333333333334	C, G	L	False	False
+DB00170	DB00288	Menadione	Amcinonide	0.23333333333333317	B	D	False	False
+DB00862	DB09241	Vardenafil	Methylene blue	0.23333333333333295	G	V	False	False
+DB00203	DB09241	Sildenafil	Methylene blue	0.23333333333333295	G	V	False	False
+DB08059	DB08912	Wortmannin	Dabrafenib	0.23055555555555562		L	False	False
+DB08912	DB06075	Dabrafenib	Linsitinib	0.22857142857142865	L		False	False
+DB08911	DB08912	Trametinib	Dabrafenib	0.22857142857142865	L	L	True	False
+DB00862	DB01782	Vardenafil	Pyrazolanthrone	0.22619047619047605	G		False	False
+DB00203	DB01782	Sildenafil	Pyrazolanthrone	0.22619047619047605	G		False	False
+DB01645	DB12483	Genistein	Copanlisib	0.22307692307692317		L	False	False
+DB01645	DB02375	Genistein	Myricetin	0.22307692307692317			False	False
+DB00313	DB12483	Valproic acid	Copanlisib	0.22222222222222232	N	L	False	False
+DB00313	DB00441	Valproic acid	Gemcitabine	0.22222222222222232	N	L	False	False
+DB00313	DB00820	Valproic acid	Tadalafil	0.22222222222222188	N	C, G	False	False
+DB00783	DB00203	Estradiol	Sildenafil	0.21904761904761916	G	G	False	False
+DB00783	DB00862	Estradiol	Vardenafil	0.21904761904761916	G	G	False	False
+DB05134	DB00482	Tanespimycin	Celecoxib	0.2142857142857142		C, L, G, M	False	False
+DB08911	DB00482	Trametinib	Celecoxib	0.2142857142857142	L	C, L, G, M	False	False
+DB00482	DB00337	Celecoxib	Pimecrolimus	0.2142857142857142	C, L, G, M	D	False	False
+DB08059	DB00862	Wortmannin	Vardenafil	0.20833333333333326		G	False	False
+DB08059	DB00203	Wortmannin	Sildenafil	0.20833333333333326		G	False	False
+DB08911	DB08059	Trametinib	Wortmannin	0.20833333333333326	L		False	False
+DB00820	DB01656	Tadalafil	Roflumilast	0.20833333333333326	C, G	R	False	False
+DB00862	DB01656	Vardenafil	Roflumilast	0.20833333333333326	G	R	False	False
+DB08059	DB00820	Wortmannin	Tadalafil	0.20833333333333326		C, G	False	False
+DB08059	DB06075	Wortmannin	Linsitinib	0.20833333333333326			False	False
+DB00203	DB01656	Sildenafil	Roflumilast	0.20833333333333326	G	R	False	False
+DB08059	DB00783	Wortmannin	Estradiol	0.206168831168831		G	False	False
+DB08911	DB08916	Trametinib	Afatinib	0.19999999999999996	L	L	False	False
+DB06075	DB08916	Linsitinib	Afatinib	0.19999999999999996		L	False	False
+DB01645	DB02424	Genistein	Geldanamycin	0.1939102564102564			False	False
+DB00783	DB02546	Estradiol	Vorinostat	0.18571428571428572	G	L	False	False
+DB07232	DB02546	Veliparib	Vorinostat	0.18571428571428572		L	False	False
+DB00783	DB08916	Estradiol	Afatinib	0.1857142857142855	G	L	False	False
+DB00197	DB06595	Troglitazone	Midostaurin	0.18333333333333335	A	L	False	False
+DB01782	DB08916	Pyrazolanthrone	Afatinib	0.1785714285714286		L	False	False
+DB00313	DB05134	Valproic acid	Tanespimycin	0.1767676767676769	N		False	False
+DB00783	DB02656	Estradiol	LY-294002	0.17460317460317443	G		False	False
+DB01645	DB00641	Genistein	Simvastatin	0.17307692307692313		C, A	False	False
+DB02910	DB00441	Octanoyl-Coenzyme A	Gemcitabine	0.16666666666666674		L	False	False
+DB00641	DB08916	Simvastatin	Afatinib	0.16666666666666674	C, A	L	False	False
+DB01092	DB00641	Ouabain	Simvastatin	0.16666666666666674	C	C, A	False	False
+DB00203	DB00441	Sildenafil	Gemcitabine	0.16666666666666652	G	L	False	False
+DB06080	DB00995	Linifanib	Auranofin	0.16666666666666652		M	False	False
+DB02656	DB06595	LY-294002	Midostaurin	0.16666666666666652		L	False	False
+DB09241	DB06595	Methylene blue	Midostaurin	0.16666666666666652	V	L	False	False
+DB00197	DB09241	Troglitazone	Methylene blue	0.16666666666666652	A	V	False	False
+DB05134	DB06080	Tanespimycin	Linifanib	0.16666666666666652			False	False
+DB02375	DB06080	Myricetin	Linifanib	0.16666666666666652			False	False
+DB00197	DB02375	Troglitazone	Myricetin	0.16666666666666652	A		False	False
+DB00197	DB02656	Troglitazone	LY-294002	0.16666666666666652	A		False	False
+DB00197	DB12483	Troglitazone	Copanlisib	0.16666666666666652	A	L	False	False
+DB06080	DB02656	Linifanib	LY-294002	0.16666666666666652			False	False
+DB02424	DB00862	Geldanamycin	Vardenafil	0.16666666666666652		G	False	False
+DB02424	DB00203	Geldanamycin	Sildenafil	0.16666666666666652		G	False	False
+DB00862	DB00441	Vardenafil	Gemcitabine	0.16666666666666652	G	L	False	False
+DB02424	DB00820	Geldanamycin	Tadalafil	0.16666666666666652		C, G	False	False
+DB04573	DB00862	Estriol	Vardenafil	0.16666666666666652	G	G	False	False
+DB04573	DB00203	Estriol	Sildenafil	0.16666666666666652	G	G	False	False
+DB04573	DB00820	Estriol	Tadalafil	0.16666666666666652	G	C, G	False	False
+DB05134	DB06595	Tanespimycin	Midostaurin	0.16666666666666652		L	False	False
+DB01645	DB00995	Genistein	Auranofin	0.15641025641025652		M	False	False
+DB04573	DB01782	Estriol	Pyrazolanthrone	0.15476190476190488	G		False	False
+DB02424	DB01782	Geldanamycin	Pyrazolanthrone	0.15476190476190488			False	False
+DB00313	DB00482	Valproic acid	Celecoxib	0.15079365079365092	N	C, L, G, M	False	False
+DB00482	DB01782	Celecoxib	Pyrazolanthrone	0.13888888888888884	C, L, G, M		False	False
+DB00862	DB08912	Vardenafil	Dabrafenib	0.1333333333333333	G	L	False	False
+DB00203	DB08912	Sildenafil	Dabrafenib	0.1333333333333333	G	L	False	False
+DB00820	DB08912	Tadalafil	Dabrafenib	0.1333333333333333	C, G	L	False	False
+DB08059	DB01656	Wortmannin	Roflumilast	0.125		R	False	False
+DB00197	DB05134	Troglitazone	Tanespimycin	0.1212121212121211	A		False	False
+DB05134	DB00783	Tanespimycin	Estradiol	0.11904761904761885		G	False	False
+DB07232	DB00641	Veliparib	Simvastatin	0.10000000000000009		C, A	False	False
+DB06075	DB00641	Linsitinib	Simvastatin	0.10000000000000009		C, A	False	False
+DB07715	DB00641	Emodin	Simvastatin	0.10000000000000009		C, A	False	False
+DB07715	DB00441	Emodin	Gemcitabine	0.10000000000000009		L	False	False
+DB08911	DB00641	Trametinib	Simvastatin	0.10000000000000009	L	C, A	False	False
+DB00288	DB01092	Amcinonide	Ouabain	0.10000000000000009	D	C	False	False
+DB08059	DB00641	Wortmannin	Simvastatin	0.08928571428571419		C, A	False	False
+DB02424	DB00482	Geldanamycin	Celecoxib	0.08333333333333348		C, L, G, M	False	False
+DB00197	DB04573	Troglitazone	Estriol	0.08333333333333326	A	G	False	False
+DB00482	DB06075	Celecoxib	Linsitinib	0.0714285714285714	C, L, G, M		False	False
+DB00197	DB02546	Troglitazone	Vorinostat	0.06666666666666665	A	L	False	False
+DB00288	DB00783	Amcinonide	Estradiol	0.06349206349206327	D	G	False	False
+DB12483	DB00783	Copanlisib	Estradiol	0.06349206349206327	L	G	False	False
+DB00783	DB00995	Estradiol	Auranofin	0.06349206349206327	G	M	False	False
+DB00313	DB02424	Valproic acid	Geldanamycin	0.05555555555555558	N		False	False
+DB00482	DB06595	Celecoxib	Midostaurin	0.05303030303030298	C, L, G, M	L	False	False
+DB08912	DB00641	Dabrafenib	Simvastatin	0.050000000000000044	L	C, A	False	False
+DB05134	DB02546	Tanespimycin	Vorinostat	0.042857142857142705		L	False	False
+DB07715	DB02546	Emodin	Vorinostat	0.042857142857142705		L	False	False
+DB02656	DB01656	LY-294002	Roflumilast	0.04166666666666674		R	False	False
+DB12483	DB01656	Copanlisib	Roflumilast	0.04166666666666674	L	R	False	False
+DB08059	DB00995	Wortmannin	Auranofin	0.04166666666666674		M	False	False
+DB02375	DB01656	Myricetin	Roflumilast	0.04166666666666674		R	False	False
+DB02375	DB00642	Myricetin	Pemetrexed	0.04166666666666674		L	False	False
+DB00995	DB06595	Auranofin	Midostaurin	0.04166666666666652	M	L	False	False
+DB06080	DB12483	Linifanib	Copanlisib	0.04166666666666652		L	False	False
+DB00288	DB06595	Amcinonide	Midostaurin	0.04166666666666652	D	L	False	False
+DB00313	DB09241	Valproic acid	Methylene blue	0.04040404040404044	N	V	False	False
+DB00313	DB00995	Valproic acid	Auranofin	0.04040404040404044	N	M	False	False
+DB04573	DB06075	Estriol	Linsitinib	0.03333333333333344	G		False	False
+DB08911	DB02424	Trametinib	Geldanamycin	0.03333333333333344	L		False	False
+DB04573	DB07715	Estriol	Emodin	0.03333333333333344	G		False	False
+DB04573	DB07232	Estriol	Veliparib	0.03333333333333344	G		False	False
+DB04573	DB05134	Estriol	Tanespimycin	0.03333333333333344	G		False	False
+DB02424	DB06075	Geldanamycin	Linsitinib	0.03333333333333344			False	False
+DB00820	DB09241	Tadalafil	Methylene blue	0.033333333333333215	C, G	V	False	False
+DB12483	DB00820	Copanlisib	Tadalafil	0.033333333333333215	L	C, G	False	False
+DB12483	DB00203	Copanlisib	Sildenafil	0.033333333333333215	L	G	False	False
+DB02375	DB00820	Myricetin	Tadalafil	0.033333333333333215		C, G	False	False
+DB00820	DB02656	Tadalafil	LY-294002	0.033333333333333215	C, G		False	False
+DB12483	DB00862	Copanlisib	Vardenafil	0.033333333333333215	L	G	False	False
+DB02546	DB08916	Vorinostat	Afatinib	0.02499999999999991	L	L	False	False
+DB01645	DB00288	Genistein	Amcinonide	0.023076923076923217		D	False	False
+DB00197	DB00783	Troglitazone	Estradiol	0.014880952380952328	A	G	False	False
+DB08912	DB00995	Dabrafenib	Auranofin	0.014285714285714235	L	M	False	False
+DB12483	DB08912	Copanlisib	Dabrafenib	0.014285714285714235	L	L	False	False
+DB02375	DB08912	Myricetin	Dabrafenib	0.014285714285714235		L	False	False
+DB00288	DB08912	Amcinonide	Dabrafenib	0.014285714285714235	D	L	False	False
+DB00313	DB01645	Valproic acid	Genistein	0.008935508935508762	N		False	False
+DB04573	DB08916	Estriol	Afatinib	2.220446049250313e-16	G	L	False	False
+DB00641	DB00995	Simvastatin	Auranofin	0.0	C, A	M	False	False
+DB00482	DB00995	Celecoxib	Auranofin	0.0	C, L, G, M	M	False	False
+DB00482	DB02546	Celecoxib	Vorinostat	0.0	C, L, G, M	L	False	False
+DB12483	DB00441	Copanlisib	Gemcitabine	0.0	L	L	False	False
+DB12483	DB09241	Copanlisib	Methylene blue	0.0	L	V	False	False
+DB00197	DB00203	Troglitazone	Sildenafil	0.0	A	G	False	False
+DB01030	DB00288	Topotecan	Amcinonide	0.0	L	D	False	False
+DB09241	DB00441	Methylene blue	Gemcitabine	0.0	V	L	False	False
+DB00482	DB00641	Celecoxib	Simvastatin	0.0	C, L, G, M	C, A	False	False
+DB00288	DB12483	Amcinonide	Copanlisib	0.0	D	L	False	False
+DB02656	DB00995	LY-294002	Auranofin	0.0		M	False	False
+DB02656	DB00441	LY-294002	Gemcitabine	0.0		L	False	False
+DB02656	DB09241	LY-294002	Methylene blue	0.0		V	False	False
+DB12483	DB00641	Copanlisib	Simvastatin	0.0	L	C, A	False	False
+DB12483	DB00995	Copanlisib	Auranofin	0.0	L	M	False	False
+DB00197	DB00862	Troglitazone	Vardenafil	0.0	A	G	False	False
+DB00197	DB00820	Troglitazone	Tadalafil	0.0	A	C, G	False	False
+DB02375	DB00288	Myricetin	Amcinonide	0.0		D	False	False
+DB12483	DB00482	Copanlisib	Celecoxib	0.0	L	C, L, G, M	False	False
+DB12483	DB00337	Copanlisib	Pimecrolimus	0.0	L	D	False	False
+DB12483	DB06075	Copanlisib	Linsitinib	0.0	L		False	False
+DB07232	DB00995	Veliparib	Auranofin	0.0		M	False	False
+DB05134	DB07715	Tanespimycin	Emodin	0.0			False	False
+DB00337	DB08916	Pimecrolimus	Afatinib	0.0	D	L	False	False
+DB00337	DB00995	Pimecrolimus	Auranofin	0.0	D	M	False	False
+DB02375	DB00337	Myricetin	Pimecrolimus	0.0		D	False	False
+DB02375	DB00995	Myricetin	Auranofin	0.0		M	False	False
+DB02375	DB09241	Myricetin	Methylene blue	0.0		V	False	False
+DB02656	DB06075	LY-294002	Linsitinib	0.0			False	False
+DB00288	DB00441	Amcinonide	Gemcitabine	0.0	D	L	False	False
+DB00288	DB09241	Amcinonide	Methylene blue	0.0	D	V	False	False
+DB02375	DB00641	Myricetin	Simvastatin	0.0		C, A	False	False
+DB08911	DB05134	Trametinib	Tanespimycin	0.0	L		False	False
+DB08911	DB00288	Trametinib	Amcinonide	0.0	L	D	False	False
+DB08911	DB12483	Trametinib	Copanlisib	0.0	L	L	False	False
+DB00288	DB02656	Amcinonide	LY-294002	0.0	D		False	False
+DB02375	DB00441	Myricetin	Gemcitabine	0.0		L	False	False
+DB00288	DB00482	Amcinonide	Celecoxib	0.0	D	C, L, G, M	False	False
+DB05134	DB08916	Tanespimycin	Afatinib	0.0		L	False	False
+DB01030	DB02375	Topotecan	Myricetin	0.0	L		False	False
+DB00288	DB07232	Amcinonide	Veliparib	0.0	D		False	False
+DB00641	DB00441	Simvastatin	Gemcitabine	0.0	C, A	L	False	False
+DB00995	DB09241	Auranofin	Methylene blue	0.0	M	V	False	False
+DB00995	DB00441	Auranofin	Gemcitabine	0.0	M	L	False	False
+DB02656	DB00641	LY-294002	Simvastatin	0.0		C, A	False	False
+DB00197	DB00641	Troglitazone	Simvastatin	-2.220446049250313e-16	A	C, A	False	False
+DB00197	DB00441	Troglitazone	Gemcitabine	-2.220446049250313e-16	A	L	False	False
+DB00820	DB00441	Tadalafil	Gemcitabine	-4.440892098500626e-16	C, G	L	False	False
+DB00783	DB00641	Estradiol	Simvastatin	-0.014285714285714457	G	C, A	False	False
+DB00197	DB00995	Troglitazone	Auranofin	-0.01515151515151536	A	M	False	False
+DB04573	DB02546	Estriol	Vorinostat	-0.016666666666666607	G	L	False	False
+DB00313	DB04573	Valproic acid	Estriol	-0.02777777777777768	N	G	False	False
+DB12483	DB02546	Copanlisib	Vorinostat	-0.028571428571428692	L	L	False	False
+DB02546	DB09241	Vorinostat	Methylene blue	-0.028571428571428692	L	V	False	False
+DB00820	DB00482	Tadalafil	Celecoxib	-0.04166666666666696	C, G	C, L, G, M	False	False
+DB00203	DB00482	Sildenafil	Celecoxib	-0.04166666666666696	G	C, L, G, M	False	False
+DB00862	DB00482	Vardenafil	Celecoxib	-0.04166666666666696	G	C, L, G, M	False	False
+DB00313	DB00783	Valproic acid	Estradiol	-0.05456349206349209	N	G	False	False
+DB05134	DB08912	Tanespimycin	Dabrafenib	-0.05714285714285716		L	False	False
+DB04573	DB02375	Estriol	Myricetin	-0.06666666666666643	G		False	False
+DB04573	DB12483	Estriol	Copanlisib	-0.06666666666666643	G	L	False	False
+DB04573	DB00995	Estriol	Auranofin	-0.06666666666666643	G	M	False	False
+DB04573	DB00288	Estriol	Amcinonide	-0.06666666666666643	G	D	False	False
+DB08059	DB00482	Wortmannin	Celecoxib	-0.06944444444444442		C, L, G, M	False	False
+DB02424	DB00783	Geldanamycin	Estradiol	-0.08095238095238089		G	False	False
+DB00197	DB01645	Troglitazone	Genistein	-0.09207459207459201	A		False	False
+DB00995	DB08916	Auranofin	Afatinib	-0.10000000000000009	M	L	False	False
+DB00288	DB08916	Amcinonide	Afatinib	-0.10000000000000009	D	L	False	False
+DB05134	DB00641	Tanespimycin	Simvastatin	-0.10000000000000009		C, A	False	False
+DB00197	DB00288	Troglitazone	Amcinonide	-0.10606060606060619	A	D	True	False
+DB08059	DB06595	Wortmannin	Midostaurin	-0.10833333333333339		L	False	False
+DB08059	DB06080	Wortmannin	Linifanib	-0.10833333333333339			False	False
+DB08059	DB02546	Wortmannin	Vorinostat	-0.11388888888888893		L	True	False
+DB00197	DB00482	Troglitazone	Celecoxib	-0.11904761904761929	A	C, L, G, M	False	False
+DB08059	DB08916	Wortmannin	Afatinib	-0.125		L	False	False
+DB02424	DB06595	Geldanamycin	Midostaurin	-0.13888888888888884		L	False	False
+DB02424	DB06080	Geldanamycin	Linifanib	-0.13888888888888884			False	False
+DB02424	DB02546	Geldanamycin	Vorinostat	-0.1416666666666666		L	False	False
+DB02656	DB00482	LY-294002	Celecoxib	-0.1428571428571428		C, L, G, M	False	False
+DB02375	DB00783	Myricetin	Estradiol	-0.15873015873015883		G	False	False
+DB00313	DB02546	Valproic acid	Vorinostat	-0.16349206349206358	N	L	True	False
+DB02424	DB08916	Geldanamycin	Afatinib	-0.16666666666666652		L	False	False
+DB04573	DB00641	Estriol	Simvastatin	-0.16666666666666652	G	C, A	False	False
+DB04573	DB02424	Estriol	Geldanamycin	-0.16666666666666652	G		False	False
+DB02424	DB07715	Geldanamycin	Emodin	-0.16666666666666652			False	False
+DB02424	DB00641	Geldanamycin	Simvastatin	-0.16666666666666652		C, A	False	False
+DB00197	DB02424	Troglitazone	Geldanamycin	-0.16666666666666674	A		False	False
+DB00862	DB00995	Vardenafil	Auranofin	-0.16666666666666696	G	M	False	False
+DB00288	DB00820	Amcinonide	Tadalafil	-0.16666666666666696	D	C, G	False	False
+DB00203	DB02656	Sildenafil	LY-294002	-0.16666666666666696	G		False	False
+DB00862	DB02656	Vardenafil	LY-294002	-0.16666666666666696	G		False	False
+DB00862	DB00641	Vardenafil	Simvastatin	-0.16666666666666696	G	C, A	False	False
+DB00203	DB00641	Sildenafil	Simvastatin	-0.16666666666666696	G	C, A	False	False
+DB00288	DB00203	Amcinonide	Sildenafil	-0.16666666666666696	D	G	False	False
+DB00288	DB00862	Amcinonide	Vardenafil	-0.16666666666666696	D	G	False	False
+DB00203	DB00995	Sildenafil	Auranofin	-0.16666666666666696	G	M	False	False
+DB02375	DB00862	Myricetin	Vardenafil	-0.16666666666666696		G	False	False
+DB02375	DB00203	Myricetin	Sildenafil	-0.16666666666666696		G	False	False
+DB00820	DB00641	Tadalafil	Simvastatin	-0.16666666666666696	C, G	C, A	False	False
+DB00820	DB00995	Tadalafil	Auranofin	-0.16666666666666696	C, G	M	False	False
+DB00288	DB02546	Amcinonide	Vorinostat	-0.17142857142857149	D	L	False	False
+DB00313	DB00641	Valproic acid	Simvastatin	-0.19444444444444442	N	C, A	False	False
+DB12483	DB06595	Copanlisib	Midostaurin	-0.20833333333333348	L	L	False	False
+DB00313	DB00288	Valproic acid	Amcinonide	-0.23232323232323226	N	D	False	False
+DB02424	DB08912	Geldanamycin	Dabrafenib	-0.2416666666666667		L	False	False
+DB05134	DB09241	Tanespimycin	Methylene blue	-0.25		V	False	False
+DB02375	DB05134	Myricetin	Tanespimycin	-0.25			False	False
+DB05134	DB00995	Tanespimycin	Auranofin	-0.25		M	False	False
+DB05134	DB00288	Tanespimycin	Amcinonide	-0.25		D	False	False
+DB05134	DB02656	Tanespimycin	LY-294002	-0.25			False	False
+DB02424	DB09241	Geldanamycin	Methylene blue	-0.2666666666666666		V	False	False
+DB02424	DB00995	Geldanamycin	Auranofin	-0.2666666666666666		M	False	False
+DB02424	DB02656	Geldanamycin	LY-294002	-0.2666666666666666			False	False
+DB02424	DB02375	Geldanamycin	Myricetin	-0.2666666666666666			False	False
+DB02375	DB00482	Myricetin	Celecoxib	-0.2857142857142858		C, L, G, M	False	False
+DB02656	DB08916	LY-294002	Afatinib	-0.30000000000000004		L	False	False
+DB02375	DB06595	Myricetin	Midostaurin	-0.3333333333333335		L	False	False
+DB00642	DB00441	Pemetrexed	Gemcitabine	-0.3392857142857142	L	L	True	False
+DB00641	DB02546	Simvastatin	Vorinostat	-0.3500000000000001	C, A	L	False	False
+DB04573	DB00783	Estriol	Estradiol	-0.38095238095238093	G	G	False	True
+DB00641	DB09241	Simvastatin	Methylene blue	-0.3999999999999999	C, A	V	False	False
+DB00288	DB00641	Amcinonide	Simvastatin	-0.3999999999999999	D	C, A	False	False
+DB00313	DB00197	Valproic acid	Troglitazone	-0.4444444444444444	N	A	False	False
+DB08059	DB02656	Wortmannin	LY-294002	-0.45833333333333326			False	False
+DB02424	DB00288	Geldanamycin	Amcinonide	-0.46666666666666656		D	False	False
+DB04573	DB01645	Estriol	Genistein	-0.4935897435897436	G		False	False
+DB12483	DB02656	Copanlisib	LY-294002	-0.5	L		False	False
+DB12483	DB08916	Copanlisib	Afatinib	-0.5	L	L	False	False
+DB02375	DB08916	Myricetin	Afatinib	-0.5		L	False	False
+DB02375	DB06075	Myricetin	Linsitinib	-0.5			False	False
+DB02375	DB12483	Myricetin	Copanlisib	-0.5		L	False	False
+DB00288	DB00995	Amcinonide	Auranofin	-0.5	D	M	False	False
+DB01645	DB00783	Genistein	Estradiol	-0.5412087912087911		G	False	False
+DB00334	DB00734	Olanzapine	Risperidone	-0.553834182229768	N	N	False	False
+DB08059	DB02375	Wortmannin	Myricetin	-0.625			False	False
+DB06080	DB06595	Linifanib	Midostaurin	-0.6666666666666667		L	False	False
+DB02424	DB05134	Geldanamycin	Tanespimycin	-0.7666666666666665			False	False
+DB08059	DB12483	Wortmannin	Copanlisib	-0.7916666666666666		L	False	False
+DB02375	DB02656	Myricetin	LY-294002	-1.0			False	False
+DB00203	DB00820	Sildenafil	Tadalafil	-1.666666666666667	G	C, G	True	False
+DB00862	DB00820	Vardenafil	Tadalafil	-1.666666666666667	G	C, G	True	False
+DB00862	DB00203	Vardenafil	Sildenafil	-2.3333333333333335	G	G	True	False

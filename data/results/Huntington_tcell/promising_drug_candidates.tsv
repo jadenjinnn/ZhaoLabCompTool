@@ -1,0 +1,88 @@
+	DrugBank_ID	DrugBank_Name	Indication	Targets	Proximity	Normalized_Enrichment_Score	FDR
+0	DB00846	Flurandrenolide	For relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses, particularly dry, scaling localized lesions	NR3C1	-11.13309696181394	-1.6785649005874685	<0.0001
+1	DB08080	Latrunculin B		SPIRE2, MRTFA, ACTA1	-2.953084983378013	1.8791612640621205	<0.0001
+2	DB01234	Dexamethasone	Dexamethasone and [ciprofloxacin] otic suspension is indicated for bacterial infections with inflammation in acute otitis media and acute otitis externa.[L10698] Intramuscular and intravenous injections are indicated for a number of endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, gastrointestinal, respiratory, hematologic, neoplastic, edematous, and other conditions.[L10701] Oral tablets are indicated for the treatment of multiple myeloma.[L10710] An intravitreal implant is indicated for some forms of macular edema and non-infectious posterior uveitis affecting the posterior of the eye.[L10719] Various ophthalmic formulations are indicated for inflammatory conditions of the eye.[L10704,L10707,L10713,L10716,L10722,L10725]	NOS2, NR0B1, NR3C1, NR1I2, ANXA1	-2.4131284636662964	-1.7176723783049703	<0.0001
+3	DB00630	Alendronic acid	Alendronic acid is indicated for the treatment and prevention of osteoporosis in men and postmenopausal women, treatment of glucocorticoid-induced osteoporosis, and Paget's disease of bone[FDA Label][A959,A176750]. However, alendronic acid is not indicated for use in pediatric populations or patients with a creatinine clearance <35mL/min[FDA Label].	PTPN4, FDPS, PTPRE, ATP6V1A, PTPRS	-1.9549222764716794	-1.740051130983161	<0.0001
+4	DB07859	4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE		AKT2, GSK3B, PKIA, PRKACA	-1.841017330080417	-1.940098617207402	<0.0001
+5	DB08756	Y-27632		ROCK1, ROCK2, PKIA, PRKACA	-1.841017330080417	-1.6719379569666075	<0.0001
+6	DB01254	Dasatinib	For the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia with resistance or intolerance to prior therapy. Also indicated for the treatment of adults with Philadelphia chromosome-positive acute lymphoblastic leukemia with resistance or intolerance to prior therapy.	STAT5B, PPAT, SRC, YES1, LCK, ABL1, EPHA5, CSK, HSPA8, KIT, FYN, NR4A3, ABL2, LYN, EPHA2, BTK, MAPK14, FRK, EPHB4, BCR, FGR, MAP3K20, PDGFRB	-0.8810617989877464	-2.0114377797791088	<0.0001
+7	DB00313	Valproic acid	"**Indicated** for:[Label] 
+
+1) Use as monotherapy or adjunctive therapy in the management of complex partial seizures and simple or complex absence seizures. 
+
+2) Adjunctive therapy in the management of multiple seizure types that include absence seizures. 
+
+3) Prophylaxis of migraine headaches.
+
+4) Acute management of mania associated with bipolar disorder.
+
+
+**Off-label** uses include:
+ 
+1) Maintenance therapy for bipolar disorder.[A177919]
+
+2) Treatment for acute bipolar depression.[A177928,A177931,A177934]
+
+3) Emergency treatment of status epilepticus.[A177955]"	HDAC9, ALDH5A1, PPARA, PPARD, HDAC2, ACADSB, PPARG, OGDH, SCN1A	-0.7971948987161065	-1.8513099348155848	<0.0001
+8	DB00564	Carbamazepine	Carbamazepine is indicated for the treatment of epilepsy and pain associated with true trigeminal neuralgia.[L1335] In particular, carbamazepine has shown efficacy in treating mixed seizures, partial seizures with complex symptoms, and generalized tonic-clonic seizures.[A180301,L1335] Carbamazepine is also indicated for the treatment of manic episodes and mixed manic-depressive episodes caused by bipolar I disorder.[L1335] Some off-label, unapproved uses of carbamazepine include the treatment of alcohol withdrawal syndrome and restless leg syndrome.[A180415,A180421]	NR1I2, CHRNA4, SCN1A	-1.7035298236579939	-1.5996991647774832	0.002696757172460497
+9	DB11781	Tosedostat		NPEPPS, LTA4H	-4.474852092125454	1.563570028628578	0.0029060606392083263
+10	DB01222	Budesonide	Budesonide extended release capsules are indicated for the treatment and maintenance of mild to moderate Crohn’s disease.[L10601,L10604] Various inhaled budesonide products are indicated for prophylactic therapy in asthma[L10607,L10613,L10619] and reducing exacerbations of COPD.[L10619] A budesonide nasal spray is available over the counter for symptoms of hay fever and upper respiratory allergies.[L10616] Extended-release capsules are indicated to induce remission of mild to moderate ulcerative colitis[L10622] and a rectal foam is used for mild to moderate distal ulcerative colitis.[L10625] In addition, a delayed-release capsule formulation of budesonide is indicated to reduce proteinuria in adults with IgA nephropathy at risk of rapid disease progression.[L39479]	NR3C1, ANXA1	-5.849453296145329	1.5388842788720147	0.003502746821535081
+11	DB00864	Tacrolimus	For use after allogenic organ transplant to reduce the activity of the patient's immune system and so the risk of organ rejection. It was given FDA approval in 1994 for use in liver transplantation. Since then, this indication has expanded to kidney, heart, small bowel, pancreas, lung, trachea, skin, cornea, and limb transplants. It has also been used in a topical preparation in the treatment of severe atopic dermatitis.	FKBP1A	-8.68286019577022	1.590590923693705	0.0035976882966471013
+12	DB01782	Pyrazolanthrone		MAPK8, MAPK8IP1, MAPK10, TTK	-2.03180742650776	1.6318774674489445	0.0036311212933795
+13	DB00396	Progesterone	"**Gelatinized capsules**
+
+The gelatinized capsules are indicated for use in the prevention of endometrial hyperplasia in non-hysterectomized postmenopausal women who are receiving conjugated estrogens tablets. They are also indicated for use in secondary amenorrhea [FDA label]. 
+
+**Vaginal gel**
+
+Progesterone gel (8%) is indicated as progesterone supplementation or replacement as part of an Assisted Reproductive Technology (“ART”) treatment for infertile women with progesterone deficiency.  The lower concentration progesterone gel (4%) is used in the treatment of secondary amenorrhea, with the use of the 8% concentration if there is no therapeutic response to the 4% gel [F3898].
+
+**Vaginal insert**
+
+This form is indicated to support embryo implantation and early pregnancy by supplementation of corpus luteal function as part of an Assisted Reproductive Technology (ART) treatment program for infertile women [F3901].
+
+**Injection (intramuscular)**
+
+This drug is indicated in amenorrhea and abnormal uterine bleeding due to hormonal imbalance in the absence of organic pathology, such as submucous fibroids or uterine cancer [F3907]. 
+
+**Tablets, contraceptive**
+
+The tablet form of progesterone in contraceptive formulations is indicated for the prevention of pregnancy [F3904]. "	ORM1, ESR1, OPRK1, CYP17A1, NR3C1, ESR2, NR3C2, PGR, SHBG, AR	-1.3563997305325741	1.6015245610069588	0.004487883358471593
+14	DB00635	Prednisone	Prednisone is indicated as an anti-inflammatory or immunosuppressive drug for allergic, dermatologic, gastrointestinal, hematologic, ophthalmologic, nervous system, renal, respiratory, rheumatologic, infectious, endocrine, or neoplastic conditions as well as in organ transplant.[L10502]	NR3C1	-11.13309696181394	-1.5615777024332622	0.004704277274942619
+15	DB00547	Desoximetasone	For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.	NR3C1	-11.13309696181394	-1.498836560551967	0.0070520988178664964
+16	DB03374	3,5-Diiodotyrosine		PRSS1, IYD, PKIA, PRKACA	-1.5083440387330838	1.5000405978661715	0.009865320718706033
+17	DB00834	Mifepristone	For the medical termination of intrauterine pregnancy through 49 days' pregnancy. Also indicated to control hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and are not candidates for surgery or have had unsuccessful surgery.	KLK3, NR3C1, NR1I2, PGR	-2.2096115892690245	-1.470463001112887	0.010168607227521219
+18	DB08597	Dorsomorphin		FKBP1A, ACVR1	-4.6243349131234694	1.4753889044201955	0.013835477596768366
+19	DB00201	Caffeine	Caffeine is indicated for the short term treatment of apnea of prematurity in infants and off label for the prevention and treatment of bronchopulmonary dysplasia caused by premature birth.[T716,L9851] In addition, it is indicated in combination with sodium benzoate to treat respiratory depression resulting from an overdose with CNS depressant drugs.[L9899] Caffeine has a broad range of over the counter uses, and is found in energy supplements, athletic enhancement products, pain relief products, as well as cosmetic products.[T716,L9854,L9872]	ITPR1, ADORA2B, PDE1A, ADORA1, PRKDC, PDE4B, ADORA2A, ADORA3, RYR1, PIK3CB, PDE1B, ATM, PIK3CA, PIK3CD	-1.377744549542695	1.4453778939455735	0.018759325652848238
+20	DB14649	Dexamethasone acetate		NOS2, NR0B1, NR3C1, NR1I2, ANXA1	-2.4131284636662964	-1.4585363603702586	0.021569728270789512
+21	DB12695	Phenethyl Isothiocyanate		PSMC3, FBXO41, YWHAQ, TPM4, TUBA1A, ATP5F1B, ATP5MG, DIABLO, HSPB1, TPM1, TXN, ACTB, SMARCE1, S100A10, RANBP1, TUBA4A, TPM3, HSPA4, YWHAZ, PSMA3, HSPH1, NUDC, UCHL1, YWHAH, SF3A3, TUBB2A, ATP5ME, USP14, ACTA2, SUCLG2, PAPPA, HSPE1, TUBB3, TUBB1, YWHAB, TPD52L2, TUBA3C, TUBB4B, VIM, HNRNPK, MT-ND1, HNRNPF, VCP, CYB5B, YWHAE	-0.925522928106268	-1.4458839707833426	0.027227403513982514
+22	DB00421	Spironolactone	"Spironolactone is indicated for the treatment of New York Heart Association Class III-IV heart failure, management of edema in cirrhotic adults not responsive to fluid and sodium restrictions, primary hyperaldosteronism short-term preoperatively, primary hyperaldosteronism long-term in patients with aldosterone producing adrenal adenomas that are not candidates for surgery or patients with bilarteral micro/macronodular adrenal hyperplasia, as an add-on therapy in hypertension, and in nephrotic syndrome when treatment of the disease as well as fluid and sodium restriction with other diuretics is inadequate.[Label]
+
+Spironolactone has antiandrogenic activity which leads to many of its off label uses. Spironolactone is used off label in the treatment of hirsutism, female pattern hair loss, and adult acne vulgaris.[A178135]
+
+Spironolactone is also frequently used for its antiandrogenic effects in transgender female patients due to its low cost and reducing male-pattern hair growth.[A178138]"	SRD5A1, CACNG1, CYP17A1, NR1I2, NR3C1, NR3C2, PGR, SHBG, AR, CYP11B2	-0.9571917809157744	-1.3858334517817708	0.04175691202114747
+23	DB01438	Phenazopyridine	Phenazopyridine hydrochloride is indicated to relieve uncomfortable symptoms that occur as a consequence of mucosal irritation of the lower urinary tract in adults.  The irritation may be a result of trauma, surgery, endoscopic procedures, infection, or the insertion of instruments or urinary catheters.[L7826] Phenazopyridine may be used in combination with antimicrobial therapy but is not used as an antimicrobial agent. It contributes to the relief of discomfort and pain before antimicrobial therapy begins to take effect.  It is important to note that the duration of treatment with this drug should last a maximum of 2 days.[L7826] Phenazopyridine is available in many countries as an over the counter drug.[A182147]	SCN1A	-5.309663375409877	1.3552335006068121	0.04545439114756925
+24	DB00203	Sildenafil	"Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor that is predominantly employed for two primary indications:
+
+(1) the treatment of erectile dysfunction [A175582, L5611, F3853, F3856, F3886]; and
+
+(2) treatment of pulmonary hypertension, where:
+a) the US FDA specifically indicates sildenafil for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) in adults to improve exercise ability and delay clinical worsening [F3850]. The delay in clinical worsening was demonstrated when sildenafil was added to background epoprostenol therapy [F3850]. Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II-III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%) [F3850];
+
+b) the Canadian product monograph specifically indicates sildenafil for the treatment of primary pulmonary arterial hypertension (PPH) or pulmonary hypertension secondary to connective tissue disease (CTD) in adult patients with WHO functional class II or III who have not responded to conventional therapy [F3859]. In addition, improvement in exercise ability and delay in clinical worsening was demonstrated in adult patients who were already stabilized on background epoprostenol therapy [F3859]; and
+
+c) the EMA product information specifically indicates sildenafil for the treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity [F3883]. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease [F3883]. The EMA label also indicates sildenafil for the treatment of pediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension [F3883]. Efficacy in terms of improvement of exercise capacity or pulmonary hemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease [F3883]."	PDE6H, PDE6G, PDE5A	-2.380450374477224	-1.3961692972271806	0.04803429493514615
+25	DB00663	Flumethasone	For the treatment of contact dermatitis, atopic dermatitis, exczema, psoriasis, diaper rash and other skin conditions	NR3C1	-11.13309696181394	1.3352763796532559	0.05466251979580171
+26	DB00394	Beclomethasone dipropionate	"Indicated for oral inhalation use in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older. The aerosol form of beclomethasone diproprionate is not indicated for the relief of acute bronchospasm.[L6871]
+
+Indicated for intranasal use to relieve the symptoms of seasonal or perennial allergic and nonallergic (vasomotor) rhinitis and prevent the recurrence of nasal polyps following surgical removal.[L6880]
+
+Indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 13 years of age and older.[L10782] Corticosteroid-responsive dermatoses include psoriasis, contact dermatitis (dermatitis venenata), atopic dermatitis (infantile eczema, allergic dermatitis), neurodermatitis (lichen simplex chronicus, lichen planus, eczema, eczematous dermatitis), intertrigo, dyshidroses (pompholyx), seborrheic dermatitis, exfoliative dermatitis, solar dermatitis, stasis dermatitis, and anogenital and senile pruritus.[L6886]"	NR3C1	-11.13309696181394	1.3382635193273693	0.06761570637623336
+27	DB00253	Medrysone	For the treatment of allergic conjunctivitis, vernal conjunctivitis, episcleritis, and epinephrine sensitivity.	NR3C1	-11.13309696181394	1.3726643358648494	0.06903468280909336
+28	DB00280	Disopyramide	For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.	CHRM1, ORM2, CHRM2, KCND2, KCND3, CHRM3, KCNH2, SCN5A	-0.8587617500812589	1.2806469577842612	0.07875494071146245
+29	DB07995	H-89		HASPIN, PKIA, PRKACA	-2.26608656328165	1.2886575694260818	0.0969238200022257
+30	DB00794	Primidone	Primidone is commonly indicated for the management of grand mal, psychomotor, and focal epileptic seizures.[L4645,L11112] In addition, it has also been studied and utilized as an effective management of essential tremor.[A39414,A39415,L4645]	GRIA2, GRIK2, CHRNA7, GABRA1, CHRNA4, GABRA2, GABRA6, GABRA4, GABRA3, GABRA5	-1.151473958007444	1.2817334697057967	0.14099354453512597
+31	DB01380	Cortisone acetate	Cortisone acetate is indicated to treat a wide variety of endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, respiratory, hematologic, neoplastic, edematous, and gastrointestinal diseases and disorders.[A226300,L13203]	NR3C1, ANXA1	-5.849453296145329	1.231636214790716	0.15698046217520095
+32	DB07996	5-(2-methylpiperazine-1-sulfonyl)isoquinoline		PKIA, PRKACA	-3.1162250296841156	1.259762828137219	0.17034899659413522
+33	DB00862	Vardenafil	Used for the treatment of erectile dysfunction	PDE6H, PDE6G, PDE5A	-2.380450374477224	1.215993255198687	0.18225892261053042
+34	DB00588	Fluticasone propionate	Fluticasone propionate is indicated as an inhaler for the treatment and management of asthma by prophylaxis[FDA Label]as well as inflammatory and pruritic dermatoses[F4355]. Fluticasone propionate nasal spray is indicated for managing allergic and nonallergic rhinitis[L8309,F4358].	PLA2G4A, NR3C2, NR3C1, PGR	-2.8749581719636903	-1.2179633440200546	0.2250902447391008

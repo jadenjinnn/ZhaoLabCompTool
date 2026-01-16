@@ -1,0 +1,173 @@
+	DrugBank_ID	DrugBank_Name	Indication	Targets	Proximity	FDR
+0	DB04690	camptothecin	Investigated for the treatment of cancer.	TOP1	-3.3117889412782677	2.60562009034531e-30
+1	DB01030	topotecan	For the treatment of advanced ovarian cancer in patients with disease that has recurred or progressed following therapy with platinum-based regimens. Also used as a second-line therapy for treatment-sensitive small cell lung cancer, as well as in combination with cisplatin for the treatment of stage IV-B, recurrent, or persistent cervical cancer not amenable to curative treatment with surgery and/or radiation therapy.	TOP1, TOP1MT	-1.4304117720219596	1.8651387819059347e-23
+2	DB02424	geldanamycin		HSP90AB1, HSP90B1, HSP90AA1	-3.73244503397612	1.573336132348376e-19
+3	DB03496	alvocidib	Investigated for use/treatment in esophageal cancer, leukemia (lymphoid), lung cancer, liver cancer, and lymphoma (unspecified).	PYGM, EGFR, CDK5, CDK7, CDK2, CDK6, CDK9, PYGB, CDK4, CDK8, CDK1	-0.1818128118931283	2.512453614070111e-17
+4	DB00313	valproic-acid	"**Indicated** for:[Label] 
+
+1) Use as monotherapy or adjunctive therapy in the management of complex partial seizures and simple or complex absence seizures. 
+
+2) Adjunctive therapy in the management of multiple seizure types that include absence seizures. 
+
+3) Prophylaxis of migraine headaches.
+
+4) Acute management of mania associated with bipolar disorder.
+
+
+**Off-label** uses include:
+ 
+1) Maintenance therapy for bipolar disorder.[A177919]
+
+2) Treatment for acute bipolar depression.[A177928,A177931,A177934]
+
+3) Emergency treatment of status epilepticus.[A177955]"	OGDH, HDAC2, PPARD, ALDH5A1, PPARG, SCN1A, HDAC9, ACADSB, PPARA	-1.6016193517964474	1.6240394006606124e-14
+5	DB00993	azathioprine	Azathioprine is indicated to treat rheumatoid arthritis and prevent renal transplant rejection.[L11214]	RAC1	-3.888180915281793	2.62019385394648e-12
+6	DB05490	MG-132	Investigated for use/treatment in diabetes mellitus type 2.	PPARG	-3.299665070192196	6.178604793979124e-12
+7	DB08911	trametinib	"Trametinib is indicated for the treatment of unresectable or metastatic melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test [FDA].
+
+In May 2018, it was approved for use with [DB08912] for the treatment of treat anaplastic thyroid cancer caused by an abnormal BRAF V600E gene [L2726]."	MAP2K1, MAP2K2	-1.34993332950037	6.178604793979124e-12
+8	DB07374	anisomycin		RPL10L, RPL15, RSL24D1, RPL19, SNU13, RPL23A, RPL8, RPL11, RPL23, RPL37, RPL3, RPL13A, RPL26L1	-0.7035371406414503	6.178604793979124e-12
+9	DB00824	enprofylline	Used in the management of symptoms of asthma. Also used in the treatment of peripheral vascular diseases and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy.	PDE4A, ADORA3, ADORA2B, ADORA2A, ADORA1, PDE4B	-0.4307068797254009	3.9105325372813446e-11
+10	DB00938	salmeterol	Salmeterol is indicated in the treatment of asthma with an inhaled corticosteroid, prevention of exercise induced bronchospasm, and the maintenance of airflow obstruction and prevention of exacerbations of chronic obstructive pulmonary disease.[L11545,L11548,L11551,L11554,L11557]	ADRB3, ADRB1, ADRB2	-0.3088161241672065	3.9105325372813446e-11
+11	DB00499	flutamide	For the management of locally confined Stage B2-C and Stage D2 metastatic carcinoma of the prostate	NR1I2, AHR, AR	-0.6333813701893425	9.209075165035136e-11
+12	DB07101	KD-025		MAP2K1	-3.1508320562350884	2.1719792231342456e-10
+13	DB05814	IPI-145	Investigated for use/treatment in erectile dysfunction and parkinson's disease.	FKBP1A	-2.8768273860093565	5.271448030812225e-10
+14	DB01202	levetiracetam	"Levetiracetam is indicated as an adjunctive therapy in the treatment of partial onset seizures in epileptic patients who are one month of age and older. Additionally, it is indicated as an adjunct in the treatment of myoclonic seizures in patients with juvenile myoclonic epilepsy who are 12 years of age and older, and in primary generalized tonic-clonic seizures in patients with idiopathic generalized epilepsy who are 6 years of age and older.[L8606]
+
+Levetiracetam is also available as an orally dissolvable tablet that is indicated as an adjunct in the treatment of partial onset seizures in patients with epilepsy who are 4 years of age and older and weigh more than 20kg.[L8609]"	CACNA1B, SV2A	-2.096812223185863	5.271448030812225e-10
+15	DB00197	troglitazone	For the treatment of Type II diabetes mellitus. It is used alone or in combination with a sulfonylurea, metformin, or insulin as an adjunct to diet and exercise.	ACSL4, ESRRA, PPARD, SERPINE1, SLC29A1, ESRRG, PPARG, GSTP1, PPARA	-0.6406859386790725	5.271448030812225e-10
+16	DB09241	methylene-blue	"Indicated for the treatment of pediatric and adult patients with acquired methemoglobinemia. 
+
+Other clinical applications of methylene blue include improvement of hypotension associated with various clinical states, an antiseptic in urinary tract infections, treatment of hypoxia and hyperdynamic circulation in cirrhosis of liver and severe hepatopulmonary syndrome, and treatment of ifofosamide induced neurotoxicity."	GUCY1A2, NOS1	-0.6102341563335733	5.271448030812225e-10
+17	DB00482	celecoxib	"Celecoxib is indicated for symptomatic treatment of adult osteoarthritis (OA) and adult rheumatoid arthritis (RA).[L7646] Celecoxib is not a substitute for aspirin for cardiovascular event prophylaxis.[L7646] 
+
+It may be also be used to treat acute pain from various sources, juvenile rheumatoid arthritis in children over 2, ankylosing spondylitis, and primary dysmenorrhea.[L7646]
+
+Celecoxib, in combination with [tramadol], is indicated for the management of acute pain in adults severe enough to require an opioid analgesic and in whom alternative treatments are inadequate.[L38949]"	PTGS2, CA3, PDPK1, CA2, CDH11	-0.4989670855432475	5.271448030812225e-10
+18	DB01394	colchicine	Colchicine is indicated for the prophylaxis and treatment of gout flares. It is also indicated in Familial Mediterranean fever (FMF) in children and adults of 4 years of age and older. It is important to note that this medication is not a pain reliever to be used for other painful conditions. Consider analgesics for this purpose.[L8138] Some off-label uses of colchicine include the treatment of the manifestations of Behcet's syndrome, pericarditis, and postpericardiotomy syndrome.[A183932,A183935]	TUBB	-3.659106261219861	1.2455968292787252e-09
+19	DB00393	riodipine	For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.	CACNB1, CACNB4, NR3C2, AHR, CACNA1S, CACNB2, CACNA1D, CACNB3, CACNA1F, CACNA1C	-0.7510915699633085	1.2455968292787252e-09
+20	DB06595	midostaurin	Investigated for use/treatment in adult patients with high-risk acute myeloid leukemia (AML) who are FLT3 mutation-positive, agressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL). 	KDR, PDGFRA, KIT, FLT3, PRKCA, PDGFRB	-0.2280372831853421	1.2455968292787252e-09
+21	DB00363	clozapine	For use in patients with treatment-resistant schizophrenia.	HTR1A, ADRA2B, ADRA1A, DRD2, GSTP1, ADRA1B, HRH1, DRD3, DRD4, HTR6, ADRA2C, DRD1, HTR3A, CHRM4, CALY, CHRM3, HTR1D, HTR7, CHRM5, ADRA2A, HRH4, HTR1E, HTR2C, CHRM2, HTR1B, HTR2A, CHRM1	-0.0760289808270513	1.2455968292787252e-09
+22	DB00924	cyclobenzaprine	Cyclobenzaprine is indicated as a short-term (2-3 weeks) adjunct therapy, along with rest and physical therapy, for relief of muscle spasm associated with acute, painful musculoskeletal conditions. It has not been found effective in the treatment of spasticity originating from cerebral or spinal cord disease, or spasticity in children with cerebral palsy.[L8408,L8411] Cyclobenzaprine is also occasionally used off-label for reducing pain and sleep disturbances in patients with fibromyalgia.[A184946]	HTR2C, HTR7, HTR6, HTR2B, SLC6A2, HTR2A, TLR4, SLC6A4, AOX1	0.0886745603823539	1.2455968292787252e-09
+23	DB11772	pilaralisib		PIK3CA	-2.968475568387934	2.8053688874020834e-09
+24	DB14068	dexniguldipine		ABCB1	-2.337280765613432	2.8053688874020834e-09
+25	DB00201	caffeine	Caffeine is indicated for the short term treatment of apnea of prematurity in infants and off label for the prevention and treatment of bronchopulmonary dysplasia caused by premature birth.[T716,L9851] In addition, it is indicated in combination with sodium benzoate to treat respiratory depression resulting from an overdose with CNS depressant drugs.[L9899] Caffeine has a broad range of over the counter uses, and is found in energy supplements, athletic enhancement products, pain relief products, as well as cosmetic products.[T716,L9854,L9872]	PIK3CD, ATM, PDE1A, PRKDC, PIK3CA, ADORA3, ADORA2A, ADORA2B, PDE1B, PIK3CB, RYR1, ADORA1, PDE4B, ITPR1	-1.1009094989221817	2.8053688874020834e-09
+26	DB00540	nortriptyline	Nortriptyline is indicated for the relief of the symptoms of major depressive disorder (MDD).[L11878] Some off-label uses for this drug include treatment of chronic pain, myofascial pain, neuralgia, and irritable bowel syndrome.[A191083,L11878]	CHRM1, ADRA1D, HTR1A, HTR2C, ADRA1A, SLC6A2, ADRB1, HTR2A, DRD2, SLC6A4, ADRA2A, ADRA1B, HRH1, PGRMC1	-0.20216095635935	2.8053688874020834e-09
+27	DB00641	simvastatin	"Simvastatin is indicated for the treatment of hyperlipidemia to reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL‑C), apolipoprotein B (Apo B), and triglycerides (TG), and to increase high-density lipoprotein cholesterol (HDL-C).[F4655, F4658]
+
+This includes the treatment of primary hyperlipidemia (Fredrickson type IIa, heterozygous familial and nonfamilial), mixed dyslipidemia (Fredrickson type IIb), hypertriglyceridemia (Fredrickson type IV hyperlipidemia), primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia), homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments, as well as adolescent patients with Heterozygous Familial Hypercholesterolemia (HeFH).[F4655, F4658]
+
+Simvastatin is also indicated to reduce the risk of cardiovascular morbidity and mortality including myocardial infarction, stroke, and the need for revascularization procedures. It is primarily used in patients at high risk of coronary events because of existing coronary heart disease, diabetes, peripheral vessel disease, history of stroke or other cerebrovascular disease.[F4655, F4658]
+
+Prescribing of statin medications is considered standard practice following any cardiovascular events and for people with a moderate to high risk of development of CVD. Statin-indicated conditions include diabetes mellitus, clinical atherosclerosis (including myocardial infarction, acute coronary syndromes, stable angina, documented coronary artery disease, stroke, trans ischemic attack (TIA), documented carotid disease, peripheral artery disease, and claudication), abdominal aortic aneurysm, chronic kidney disease, and severely elevated LDL-C levels.[A181087, A181406]"	ITGAL, HDAC2, HMGCR	-2.0114393241838706	6.425102113342837e-09
+28	DB01092	ouabain	For the treatment of atrial fibrillation and flutter and heart failure	ATP1A2, ATP1A3, ATP1A1	-1.9717439629622315	6.425102113342837e-09
+29	DB08059	wortmannin		PIK3R1, PIK3CA, PLK1, PIK3CG	-1.393491621070636	6.425102113342837e-09
+30	DB02546	vorinostat	For the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies.	HDAC2, HDAC1, HDAC3, HDAC6, HDAC8	-1.035006021285456	6.425102113342837e-09
+31	DB08910	pomalidomide	Pomalidomide is indicated for patients with multiple myeloma who have received at least two prior therapies including lenalidomide and bortezomib and have demonstrated disease progression on or within 60 days of completion of the last therapy.	TNF, CRBN, PTGS2	-0.6961967560451897	6.425102113342837e-09
+32	DB00246	ziprasidone	In its oral form, ziprasidone is approved for the treatment of schizophrenia, as monotherapy for acute treatment of manic or mixed episodes related to bipolar I disorder, and as adjunctive therapy to lithium or valproate for maintenance treatment of bipolar I disorder.[L7342] The injectable formulation is approved only for treatment of acute agitation in schizophrenia.[L7342]	HTR1A, ADRA2B, ADRA1A, HTR5A, DRD2, ADRA1B, HRH1, DRD3, DRD4, HTR6, ADRA2C, DRD1, HTR3A, CHRM4, DRD5, CHRM3, HTR1D, HTR7, CHRM5, ADRA2A, HTR1E, HTR2C, CHRM2, HTR1B, HTR2A, CHRM1	-0.0107000546796684	6.425102113342837e-09
+33	DB12442	alvespimycin	Investigated for use as an antineoplastic agent for solid tumors, advanced solid tumours or acute myeloid leukaemia. 	HSP90AA1	-3.915616672162836	1.457597305417195e-08
+34	DB00762	irinotecan	For the treatment of metastatic colorectal cancer (first-line therapy when administered with 5-fluorouracil and leucovorin). Also used in combination with cisplatin for the treatment of extensive small cell lung cancer. Irinotecan is currently under investigation for the treatment of metastatic or recurrent cervical cancer. Also used in combination with fluorouracil and leucovorin for the treatment of patients with metastatic adenocarcinoma of the pancreas after disease progression following gemcitabine-based therapy. 	TOP1, TOP1MT	-1.4304117720219596	1.457597305417195e-08
+35	DB01041	thalidomide	For the acute treatment of the cutaneous manifestations of moderate to severe erythema nodosum leprosum (ENL). Also for use as maintenance therapy for prevention and suppression of the cutaneous manifestations of ENL recurrence.	CRBN, PTGS2, FGFR2, NFKB1, TNF, ORM1	-0.7856037258994123	1.457597305417195e-08
+36	DB00270	isradipine	For the management of mild to moderate essential hypertension. It may be used alone or concurrently with thiazide-type diuretics.	CACNB2, CACNA1S, CACNA2D2, CACNA1D, CACNA2D1, CACNA1C, CACNA1H	-0.5339555646622635	1.457597305417195e-08
+37	DB00480	lenalidomide	"Lenalidomide is indicated for the treatment of adult patients with multiple myeloma (MM) in combination with dexamethasone. It is also indicated as maintenance therapy in multiple myeloma following autologous hematopoietic stem cell transplantation (auto-HSCT).
+
+It is indicated for the treatment of adult patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+
+Lenalidomide is indicated for the treatment of adult patients with mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two prior therapies, one of which included bortezomib.
+
+In combination with a rituximab product, lenalidomide is indicated for the treatment of adult patients with previously treated follicular lymphoma (FL) or previously treated marginal zone lymphoma (MZL).[L16028]"	CDH5, PTGS2, CRBN, TNFSF11	-0.4094062177253051	1.457597305417195e-08
+38	DB00273	topiramate	"Topiramate is indicated  for the following conditions: 1)Monotherapy for partial onset or primary generalized tonic-clonic seizures for patients 2 years of age and above 2)Adjunctive therapy for partial onset seizures or primary generalized tonic-clonic seizures for both adult and pediatric patients above 2 years old 3)Adjunctive therapy for seizures associated with Lennox-Gastaut syndrome in patients above 2 years of age 4)Prophylaxis of migraine in children 12 years of age and older and adults.[L10544]
+
+Topiramate is also used off-label as an adjunct therapy for weight management[L10550] and for mood disorders.[A188312]"	GRIK1, CA1, CACNA1E, SCN1A, CA3, CA4, CACNA1C, CA2, GABRA1	-0.1333886064923818	1.457597305417195e-08
+39	DB00321	amitriptyline	"This drug in indicated for the following conditions [FDA label]:
+
+Major depressive disorder in adults
+
+Management of neuropathic pain in adults
+
+Prophylactic treatment of chronic tension-type headache (CTTH) in adults
+
+Prophylactic treatment of migraine in adults
+
+Treatment of nocturnal enuresis in children aged 6 years and above when organic pathology, including spina bifida and related disorders, have been excluded and no response has been achieved to all other non-drug and drug treatments, including antispasmodics and vasopressin-related products. This product should only be prescribed by a healthcare professional with expertise in the management of persistent enuresis [FDA label]
+
+Off-label uses: irritable bowel syndrome, sleep disorders, diabetic neuropathy, agitation, fibromyalgia, and insomnia "	HTR1A, OPRK1, KCNQ3, ADRA1A, KCNA1, ADRA1B, HRH1, NTRK1, HTR6, SLC6A2, SIGMAR1, SLC6A4, OPRD1, ADRA1D, OPRM1, HTR1D, KCNH2, HTR7, ADRA2A, HRH4, KCNQ2, HRH2, NTRK2, HTR2C, HTR1B, HTR2A, CHRM1	-0.0097680842836897	1.457597305417195e-08
+40	DB00679	thioridazine	For the treatment of schizophrenia and generalized anxiety disorder.	ADRA1A, HTR2A, KCNH2, DRD2, DRD1, ADRA1B	0.0507852441761802	1.457597305417195e-08
+41	DB08877	ruxolitinib	"Ruxolitinib is indicated for the treatment of inte1mediate or high-risk myelofibrosis (MF), including prima1y MF, post-polycythemia vera MF and post-essential thrombocythemia MF in adults.[L31938] It is also indicated to treat disease-related splenomegaly or symptoms in adult patients with these conditions.[L32073]
+
+Ruxolitinib is indicated for the treatment of polycythemia vera (PV) in adults who have had an inadequate response to or are intolerant of hydroxyurea.[L31938]
+
+Ruxolitinib is indicated for the treatment of steroid-refracto1y acute graft-versus-host disease (GVHD) in adult and pediatric patients 12 years and older.[L31938]
+
+Ruxolitinib is indicated for topical non-continuous and short-term treatment of mild to moderate atopic dermatitis in immunocompetent patients who are 12 years and older and whose disease is not adequately controlled with topical prescription therapies or when the topical prescription therapies are not advisable.[L39125]"	JAK3, JAK2, JAK1, TYK2	-1.2931830573305696	3.117729896679825e-08
+42	DB12010	fostamatinib	Fostamatinib is indicated for use in the treatment of chronic immune thrombocytopenia (ITP) in patients who have had insufficient response to previous therapy [FDA Label].	MYLK2, TIE1, PDGFRA, RPS6KA3, DYRK1A, MYO3A, LYN, SLC18A2, EPHA6, CAMK1, HCK, MATK, SIK2, LIMK1, PAK4, BMX, STK24, PAK1, STK3, MTOR, ADORA3, COQ8A, PIP4K2C, FLT3, MAP4K4, ERBB4, JAK1, OXSR1, NUAK2, FLT4, FGR, LTK, TNK1, SGK3, RPS6KA6, STK38L, YES1, FES, LRRK2, BMP2K, CSNK1A1, STK36, CIT, MARK4, CLK2, TTK, TAOK3, MAP3K10, PRKCQ, ROS1, MARK2, LATS1, NUAK1, RIPK1, CAMK2D, MKNK2, CDK16, TYK2, TLK2, TNIK, PRKACA, STK33, EPHB2, ACVR1, CAMK1G, TSSK1B, IKBKE, CAMKK2, ITK, TESK1, RAF1, HIPK3, FER, MAP2K2, ULK3, EPHA1, PAK5, GSK3A, CDK17, PIK3C2G, AAK1, CAMK2G, MAP3K15, PRKACB, CHEK2, PRKCE, IKBKB, MYLK3, MELK, SIK3, NEK9, EPHA3, PDPK1, RIOK1, ABL2, BTK, MINK1, KIT, BMPR1B, PIK3C2B, CDC42BPG, MYLK, PTK6, EPHB6, TEC, DAPK2, CDKL2, DDR2, FLT1, INSRR, LCK, ULK1, PRKD1, JAK3, AURKA, CAMK2A, WEE1, GAK, INSR, MAP3K12, PAK2, IRAK1, EPHA4, CSNK2A2, PTK2B, PDGFRB, MARK1, MAPK7, BMPR2, PIK3CD, CLK3, PKN1, RPS6KA1, PAK3, SRMS, STK16, ANKK1, PRKCD, FRK, FAAH, COQ8B, ALOX5, ULK2, DAPK3, MAPK13, MAPK9, MKNK1, DAPK1, NTRK3, STK17A, MAP4K1, STK26, PIK3CG, PDE5A, PKN2, SNRK, RET, MYLK4, RIOK2, MAST1, MAP3K4, FGFR1, EPHA7, SIK1, STK10, MAP4K3, CSK, HIPK2, SBK1, PTK2, CTSL, PIP4K2B, MAP3K6, CSN3, MST1R, GSK3B, EIF2AK2, LIMK2, MAP3K1, MAP4K2, EPHB4, PAK6, PLK2, CLK4, PRKAA1, AXL, DCLK3, FYN, JAK2, NEK5, TAOK2, ROCK2, STK32A, PRKG2, PRKCG, NEK3, AURKB, TEK, DCLK1, CILK1, PHKG1, ALK, BLK, CLK1, MAP3K19, MAPK15, NEK1, UGT1A1, NEK4, SYK, CAMKK1, DYRK1B, ERBB2, MET, ACVR1B, ERN1, SLC29A1, STK39, NIM1K, ZAP70, MAP3K9, PRP4K, AURKC, STK38, EIF2AK4, KDR, MAPK10, MAPKAPK5, PIM3, CDK15, NTRK1, TAOK1, CAMK2B, STK35, CSF1R, TGFBR1, DDR1, FGFR2, CHEK1, NEK11, MAP3K13, FGFR3, MAP3K3, MAP3K20, TNNI3K, TBK1, CLASP1, MAP2K5, MAPK14, MUSK, PLK4, RIPK2, CASK, EGFR, MAP2K6, STK17B, TXK, CDKL1, EIF2AK1, EPHA8, IRAK4, MAP4K5, TYRO3, EPHB1, MERTK, NEK2, PIM1, PKMYT1, IRAK3, PLK1, RIPK4, SBK3, CSNK2A1, SRC, PI4KB, NTRK2, TGFBR2, TNK2, BRAF, CAMK1D, DCLK2, MAP2K3, MARK3, EPHA2, EPHA5, RIOK3, SLK, CTSS, MAP3K2, ABL1, PLK3, PRKCI, TLK1, MAPK4, CDK4, MAP3K11, CDK1	-0.4667260702208441	3.117729896679825e-08
+43	DB00203	sildenafil	"Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor that is predominantly employed for two primary indications:
+
+(1) the treatment of erectile dysfunction [A175582, L5611, F3853, F3856, F3886]; and
+
+(2) treatment of pulmonary hypertension, where:
+a) the US FDA specifically indicates sildenafil for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) in adults to improve exercise ability and delay clinical worsening [F3850]. The delay in clinical worsening was demonstrated when sildenafil was added to background epoprostenol therapy [F3850]. Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II-III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%) [F3850];
+
+b) the Canadian product monograph specifically indicates sildenafil for the treatment of primary pulmonary arterial hypertension (PPH) or pulmonary hypertension secondary to connective tissue disease (CTD) in adult patients with WHO functional class II or III who have not responded to conventional therapy [F3859]. In addition, improvement in exercise ability and delay in clinical worsening was demonstrated in adult patients who were already stabilized on background epoprostenol therapy [F3859]; and
+
+c) the EMA product information specifically indicates sildenafil for the treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity [F3883]. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease [F3883]. The EMA label also indicates sildenafil for the treatment of pediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension [F3883]. Efficacy in terms of improvement of exercise capacity or pulmonary hemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease [F3883]."	PDE5A, PDE6H, PDE6G	-0.2929930546059129	3.117729896679825e-08
+44	DB00783	alpha-estradiol	"Estradiol is indicated in various preparations for the treatment of moderate to severe vasomotor symptoms and vulvar and vaginal atrophy due to menopause, for the treatment of hypoestrogenism due to hypogonadism, castration, or primary ovarian failure, and for the prevention of postmenopausal osteoporosis. It is also used for the treatment of breast cancer (only for palliation therapy) in certain men or women with metastatic disease, and for the treatment of androgen-dependent prostate cancer (only for palliation therapy).[L11485,L11494,L11497] It is also used in combination with other hormones as a component of oral contraceptive pills for preventing pregnancy (most commonly as [DB00977], a synthetic form of estradiol).
+
+**A note on duration of treatment**
+
+Recommendations for treatment of menopausal symptoms changed drastically following the release of results and early termination of the Women's Health Initiative (WHI) studies in 2002 as concerns were raised regarding estrogen use.[A31626] Specifically, the combined estrogen–progestin group was discontinued after about 5 years of follow up due to a statistically significant increase in invasive breast cancer and in cardiovascular events.[A31627] 
+
+Following extensive critique of the WHI results, Hormone Replacement Therapy (HRT) is now recommended to be used only for a short period (for 3-5 years postmenopause) in low doses, and in women without a history of breast cancer or increased risk of cardiovascular or thromboembolic disease.[A31628] Estrogen for postmenopausal symptoms should always be given with a progestin component due to estrogen's stimulatory effects on the endometrium; in women with an intact uterus, unopposed estrogen has been shown to promote the growth of the endometrium which can lead to endometrial hyperplasia and possibly cancer over the long-term. 
+
+"	ESR1, GPER1, ESR2, NR1I2, BECN1, MT-ATP6, CHRNA4	0.1105959875739809	3.117729896679825e-08
+45	DB00741	hydrocortisone	Otic solutions are indicated for infections of the external auditory canal caused by susceptible organisms and with inflammation.[L10529,L10532] Hydrocortisone tablets are indicated for certain endocrine, rheumatic, collagen, allergic, ophthalmic, respiratory, hematologic, neoplastic, edematous, gastrointestinal, and other conditions.[L10535] A hydrocortisone enema is indicated for ulcerative colitis,[L10538] a topical ointment with antibiotics is indicated for corticosteroid responsive dermatoses with infections,[L7772] and a topical cream with [acyclovir] is indicated to treat cold sores.[L7321] Oral granules of hydrocortisone are used as a replacement therapy for Adrenocortical Insufficiency (AI) in children under 17 years of age.[L16533]	NR3C1, ANXA1	-1.7151996547641353	6.730589829848739e-08
+46	DB04868	nilotinib	For the potential treatment of various leukemias, including chronic myeloid leukemia (CML).	KIT, ABL1	-1.4906797819141486	6.730589829848739e-08
+47	DB01067	glipizide	Indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[label] 	ABCC8, PPARG	-1.4243498364789238	6.730589829848739e-08
+48	DB06448	lonafarnib	Lonafarnib is a farnesyltransferase inhibitor indicated in patients aged 12 months and older with a body surface area of at least 0.39 m<sup>2</sup> to reduce the risk of mortality associated with Hutchinson-Gilford progeria syndrome (HGPS). It is also indicated in this same population for the treatment of processing-deficient progeroid laminopathies that either involve a heterozygous _LMNA_ mutation resulting in the accumulation of a progerin-like protein or homozygous/compound heterozygous mutations in _ZMPSTE24_.[L23414]	FNTA, FNTB	-1.0860527231159671	6.730589829848739e-08
+49	DB00780	phenelzine	"Phenelzine is indicated for the treatment of nonendogenous, neurotic or atypical depression for patients that do not tolerate other forms of therapy.[L1356] 
+
+Atypical depression has a high prevalence rate, starts in early life, tends to last longer, is more likely to occur in people with bipolar disorder, has a high comorbidity with anxiety disorder and carries more risk of suicidal behavior. It is important to specify the atypical feature to predict the clinical course of depression and hence generate the best treatment and service. The featuring symptoms of the atypical feature include mood reactivity, two or more of this symptoms: 1) increased appetite, 2) increased sleep, 3) leaden paralysis and 4) interpersonal rejection sensitivity and should not have melancholic or catatonic features of depression.[A31917]
+
+Neurotic depression is a depression of an emotionally unstable person. It is a secondary condition to major personality disorder, neuroses and drug use disorders. Likewise, a primary depression with a family history of depression spectrum disease would fit in this category.[A31922]
+
+A nonendogenous depression is characterized by a disturbance in mood and general outlook. The physical symptoms tend to be less severe and it often occurs in response to stressful life events that keep occurring over a large period of time generating a continuous stress in the daily living.[A31924]"	ABAT, MAOB, GPT, MAOA, AOC3, GPT2, GAD2	-0.7194473173091835	6.730589829848739e-08
+50	DB00396	progesterone	"**Gelatinized capsules**
+
+The gelatinized capsules are indicated for use in the prevention of endometrial hyperplasia in non-hysterectomized postmenopausal women who are receiving conjugated estrogens tablets. They are also indicated for use in secondary amenorrhea [FDA label]. 
+
+**Vaginal gel**
+
+Progesterone gel (8%) is indicated as progesterone supplementation or replacement as part of an Assisted Reproductive Technology (“ART”) treatment for infertile women with progesterone deficiency.  The lower concentration progesterone gel (4%) is used in the treatment of secondary amenorrhea, with the use of the 8% concentration if there is no therapeutic response to the 4% gel [F3898].
+
+**Vaginal insert**
+
+This form is indicated to support embryo implantation and early pregnancy by supplementation of corpus luteal function as part of an Assisted Reproductive Technology (ART) treatment program for infertile women [F3901].
+
+**Injection (intramuscular)**
+
+This drug is indicated in amenorrhea and abnormal uterine bleeding due to hormonal imbalance in the absence of organic pathology, such as submucous fibroids or uterine cancer [F3907]. 
+
+**Tablets, contraceptive**
+
+The tablet form of progesterone in contraceptive formulations is indicated for the prevention of pregnancy [F3904]. "	ESR1, SHBG, OPRK1, NR3C2, ESR2, ORM1, AR, PGR, NR3C1, CYP17A1	-0.4755711145297008	6.730589829848739e-08
+51	DB01410	ciclesonide	For the treatment of nasal symptoms associated with seasonal and perennial allergic rhinitis in adults and adolescents 12 years of age and older.	NR3C1	-3.881364706762619	1.4547973483690756e-07
+52	DB14065	lomerizine		ABCB1	-2.337280765613432	1.4547973483690756e-07
+53	DB00541	vincristine	Treatment of acute lymphocytic leukemia (ALL), Hodgkin lymphoma, non-Hodgkin lymphomas, Wilms' tumor, neuroblastoma, rhabdomyosarcoma. Liposomal vincristine is indicated for the treatment of relapsed Philadelphia chromosome-negative (Ph-) acute lymphoblastic leukemia (ALL). 	TUBB, TUBA4A	-1.6040704319927566	1.4547973483690756e-07
+54	DB01115	nifedipine	Nifedipine capsules are indicated to treat vasospastic angina and chronic stable angina.[L11383] Extended release tablets are indicated to treat vasospastic angina, chronic stable angina, and hypertension.[L11389,L1245]	CACNA1S, NR1I2, CACNB2, CACNA1D, CACNA1G, CALM1, KCND3, CACNA1C	-0.8826094907777312	1.4547973483690756e-07
+55	DB02659	cholic-acid	Oral cholic acid is indicated for: treatment of bile acid synthesis disorders due to single enzyme defects; and as adjunctive treatment of peroxisomal disorders including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease, steatorrhea or complications from decreased fat soluble vitamin absorption. 	COX7B, COX8A, COX5B, PLA2G1B, GPBAR1, CES1, COX5A, COX6C, COX6A2, ESRRG, NR1H4, FECH, COX6B1, MT-CO2, COX4I1, FABP6, MT-CO3, COX7A1, ADH1C, MT-CO1, COX7C	-0.3946626028587083	1.4547973483690756e-07
+56	DB00862	vardenafil	Used for the treatment of erectile dysfunction	PDE5A, PDE6H, PDE6G	-0.2929930546059129	1.4547973483690756e-07
+57	DB00458	imipramine	"For the relief of symptoms of depression and as temporary adjunctive therapy in reducing enuresis in children aged 6 years and older [FDA Label]. 
+
+May also be used off-label to manage panic disorders with or without agoraphobia, as a second line agent for ADHD in children and adolescents, to manage bulimia nervosa, for short-term management of acute depressive episodes in bipolar disorder and schizophrenia, for the treatment of acute stress disorder and posttraumatic stress disorder, and for symptomatic treatment of postherpetic neuralgia and painful diabetic neuropathy [L1349,L1348,A31900,L1351,L1352,L1353,A31904]. "	HTR1A, ORM2, ADRA1A, DRD2, KCND3, ADRA1B, HRH1, HTR6, SLC6A2, SLC6A3, DRD1, SLC6A4, CHRM4, ADRA1D, KCNH1, CHRM3, KCNH2, HTR7, CHRM5, HTR2C, CHRM2, HTR2A, KCND2, CHRM1	-0.2043394672845798	1.4547973483690756e-07
+58	DB00543	amoxapine	For the relief of symptoms of depression in patients with neurotic or reactive depressive disorders as well as endogenous and psychotic depressions. May also be used to treat depression accompanied by anxiety or agitation.	HTR1A, ADRA1A, DRD2, HRH1, DRD3, DRD4, HTR6, SLC6A2, SLC6A3, SLC6A4, DRD1, HTR3A, HTR7, ADRA2A, HRH4, HTR2C, HTR2B, HTR1B, HTR2A, CHRM1, GABRA1	-0.0455213220598314	1.4547973483690756e-07
+59	DB00734	risperidone	"Risperidone is indicated for the treatment of schizophrenia and irritability associated with autistic disorder.[L12885] It is also indicated as monotherapy, or adjunctly with lithium or valproic acid, for the treatment of acute mania or mixed episodes associated with bipolar I disorder.[L12885]
+
+Risperidone is additionally indicated in Canada for the short-term symptomatic management of aggression or psychotic symptoms in patients with severe dementia of the Alzheimer type unresponsive to nonpharmacological approaches.[L12906]
+
+Risperidone is also used off-label for a number of conditions including as an adjunct to antidepressants in treatment-resistant depression.[A177226]"	HTR2C, HTR1A, ADRA2B, DRD1, ADRA1A, HTR2A, HTR1D, DRD2, ADRA2C, HTR7, ADRA1B, HRH1	0.0246198386096769	1.4547973483690756e-07
+60	DB06266	lonidamine	Investigated for use/treatment in benign prostatic hyperplasia, prostate disorders, and cancer/tumors (unspecified).	CFTR, HK1	-3.409585188072207	3.021300427119368e-07
+61	DB01188	ciclopirox	Used as a topical treatment in immunocompetent patients with mild to moderate onychomycosis of fingernails and toenails without lunula involvement, due to <i>Trichophyton rubrum</i>.	ATP1A1	-3.2793703904561764	3.021300427119368e-07
+62	DB01791	piclamilast		PDE4C, PDE4D, PDE4A, PDE4B	-1.5985907392128778	3.021300427119368e-07
+63	DB02910	A-443654		ECHS1, ECI1, ACADM	-0.608916848984663	3.021300427119368e-07
+64	DB00939	meclofenamic-acid	For the relief of mild to moderate pain, for the treatment of primary dysmenorrhea and for the treatment of idiopathic heavy menstrual blood loss. Also for relief of the signs and symptoms of acute and chronic rheumatoid arthritis and osteoarthritis.	KCNQ3, PTGS2, PTGS1, ALOX5, KCNQ2	0.0619925275900067	3.021300427119368e-07
+65	DB09068	vortioxetine	Vortioxetine is indicated for the treatment of major depressive disorder (MDD).	HTR1A, HTR1B, ADRB1, SLC6A2, SLC6A4, HTR7, HTR3A	0.1253447452051105	3.021300427119368e-07

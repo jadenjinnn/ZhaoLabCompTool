@@ -1,0 +1,39 @@
+	DrugBank_ID	DrugBank_Name	Indication	Targets	Proximity	Normalized_Enrichment_Score	FDR
+0	DB15399	BMS-754807		INSR, IGF1R	-5.278518615637837	1.9124434871181606	<0.0001
+1	DB08597	Dorsomorphin		FKBP1A, ACVR1	-4.950538022877015	1.7315515219736666	<0.0001
+2	DB08080	Latrunculin B		SPIRE2, MRTFA, ACTA1	-2.7432149107298365	-1.7411156203149318	<0.0001
+3	DB00313	Valproic acid	"**Indicated** for:[Label] 
+
+1) Use as monotherapy or adjunctive therapy in the management of complex partial seizures and simple or complex absence seizures. 
+
+2) Adjunctive therapy in the management of multiple seizure types that include absence seizures. 
+
+3) Prophylaxis of migraine headaches.
+
+4) Acute management of mania associated with bipolar disorder.
+
+
+**Off-label** uses include:
+ 
+1) Maintenance therapy for bipolar disorder.[A177919]
+
+2) Treatment for acute bipolar depression.[A177928,A177931,A177934]
+
+3) Emergency treatment of status epilepticus.[A177955]"	HDAC9, ALDH5A1, PPARA, PPARD, HDAC2, ACADSB, PPARG, OGDH, SCN1A	-1.1103090115135879	1.9112092420175588	<0.0001
+4	DB00831	Trifluoperazine	For the treatment of anxiety disorders, depressive symptoms secondary to anxiety and agitation.	CALM1, S100A4, DRD2, ADRA1A, TNNC1, CALY	-0.96435284564908	1.7864578822860893	<0.0001
+5	DB01069	Promethazine	Promethazine tablets and suppositories are indicated to treat rhinitis, allergic conjunctivitis, allergic reactions to blood or plasma, dermographism, anaphylactic reactions, sedation, nausea, vomiting, pain, motion sickness, and allergic skin reactions.[A189907,L4000] Promethazine cough syrup with phenylephrine and codeine is indicated to relieve cough and upper respiratory symptoms, and nasal congestion associated with allergy or the common cold.[L11326]	CHRM1, CALM1, CHRM2, DRD2, ADRA1A, CHRM5, CHRM3, HRH2, CHRM4, HRH1, SCN1A	-0.9120762417783173	1.82879315586778	<0.0001
+6	DB00564	Carbamazepine	Carbamazepine is indicated for the treatment of epilepsy and pain associated with true trigeminal neuralgia.[L1335] In particular, carbamazepine has shown efficacy in treating mixed seizures, partial seizures with complex symptoms, and generalized tonic-clonic seizures.[A180301,L1335] Carbamazepine is also indicated for the treatment of manic episodes and mixed manic-depressive episodes caused by bipolar I disorder.[L1335] Some off-label, unapproved uses of carbamazepine include the treatment of alcohol withdrawal syndrome and restless leg syndrome.[A180415,A180421]	NR1I2, CHRNA4, SCN1A	-1.9019675055771508	-1.7479925402851548	0.0017276211285679605
+7	DB11781	Tosedostat		NPEPPS, LTA4H	-4.100065355020519	-1.6582883488228306	0.00221217533085483
+8	DB02587	Colforsin		ADCY5, ADCY2, CFTR, GNAS	-2.118841062905701	-1.5081773052819496	0.017464083433000648
+9	DB01103	Quinacrine	For the treatment of giardiasis and cutaneous leishmaniasis and the management of malignant effusions.	PLCL1, PLA2G4A, PLA2G6	-0.9966296041536741	1.4634285252301589	0.023556412135300533
+10	DB08770	4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol		ADORA2A	-7.226873689574293	-1.4471634490836405	0.04479139619195099
+11	DB00555	Lamotrigine	"Lamotrigine is indicated as adjunctive therapy for the following seizure types in patients ≥2 years of age: partial seizures, primary generalized tonic-clonic seizures, and generalized seizures due to Lennox-Gastaut syndrome.[L9404]
+
+It is also indicated for the process of conversion to drug monotherapy for those at least 16 years of age or older with partial seizures and currently are receiving treatment with carbamazepine, phenytoin, phenobarbital, primidone, or valproate as the single antiepileptic drug (AED).[L9404]
+
+In addition to the above, lamotrigine is also indicated for the maintenance treatment of bipolar I disorder, delaying the time to mood episodes (which may include mania, hypomania, depression, mixed episodes) in adults at least 18 years or older, who have been treated for acute mood symptoms with standard therapy.[L9404]
+
+Limitations of use
+
+It is important to note that lamotirigine should not be used in the treatment of acute mood episodes, as efficacy has not been established in this context.[L9404]"	DRD1, GRIA1, ADORA1, CHRNA1, OPRK1, ADORA2A, DRD2, GABRA1, HTR2A, ADRA1A, HTR3A, ADRA2A, ADRB1, HRH1, SCN1A, CACNA1E	-1.2642479950651395	-1.3844008917498365	0.062051920576632516
+12	DB01438	Phenazopyridine	Phenazopyridine hydrochloride is indicated to relieve uncomfortable symptoms that occur as a consequence of mucosal irritation of the lower urinary tract in adults.  The irritation may be a result of trauma, surgery, endoscopic procedures, infection, or the insertion of instruments or urinary catheters.[L7826] Phenazopyridine may be used in combination with antimicrobial therapy but is not used as an antimicrobial agent. It contributes to the relief of discomfort and pain before antimicrobial therapy begins to take effect.  It is important to note that the duration of treatment with this drug should last a maximum of 2 days.[L7826] Phenazopyridine is available in many countries as an over the counter drug.[A182147]	SCN1A	-5.6658449607922545	1.1829642654962984	0.2490604354410213

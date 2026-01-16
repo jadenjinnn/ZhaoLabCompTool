@@ -1,0 +1,2146 @@
+ID1	ID2	Name1	Name2	Separation	ATC_Codes1	ATC_Codes2	Reported_Interaction	Reported_Combination
+DB00773	DB01069	Etoposide	Promethazine	1.1118881118881119	L	V, R, D	False	False
+DB05022	DB01069	Amonafide	Promethazine	1.1118881118881119		V, R, D	False	False
+DB00380	DB01069	Dexrazoxane	Promethazine	1.1118881118881119	V	V, R, D	False	False
+DB00694	DB01069	Daunorubicin	Promethazine	1.1118881118881119	L	V, R, D	False	False
+DB05022	DB02659	Amonafide	Cholic Acid	1.098343685300207		A	False	False
+DB00380	DB02659	Dexrazoxane	Cholic Acid	1.098343685300207	V	A	False	False
+DB00694	DB02659	Daunorubicin	Cholic Acid	1.098343685300207	L	A	False	False
+DB00773	DB02659	Etoposide	Cholic Acid	1.098343685300207	L	A	False	False
+DB00773	DB00818	Etoposide	Propofol	1.0857142857142856	L	N	False	False
+DB00694	DB00818	Daunorubicin	Propofol	1.0857142857142856	L	N	False	False
+DB00380	DB00818	Dexrazoxane	Propofol	1.0857142857142856	V	N	False	False
+DB05022	DB00818	Amonafide	Propofol	1.0857142857142856		N	False	False
+DB00694	DB06080	Daunorubicin	Linifanib	1.0416666666666665	L		False	False
+DB00773	DB06080	Etoposide	Linifanib	1.0416666666666665	L		False	False
+DB00380	DB06080	Dexrazoxane	Linifanib	1.0416666666666665	V		False	False
+DB05022	DB06080	Amonafide	Linifanib	1.0416666666666665			False	False
+DB00773	DB01268	Etoposide	Sunitinib	1.0375	L	L	False	False
+DB00380	DB01268	Dexrazoxane	Sunitinib	1.0375	V	L	True	False
+DB00694	DB01268	Daunorubicin	Sunitinib	1.0375	L	L	False	False
+DB05022	DB01268	Amonafide	Sunitinib	1.0375		L	False	False
+DB00380	DB03566	Dexrazoxane	Spermidine	1.0333333333333337	V		False	False
+DB00694	DB03566	Daunorubicin	Spermidine	1.0333333333333337	L		False	False
+DB05022	DB03566	Amonafide	Spermidine	1.0333333333333337			False	False
+DB00773	DB03566	Etoposide	Spermidine	1.0333333333333337	L		False	False
+DB00773	DB06589	Etoposide	Pazopanib	1.0333333333333334	L	L	False	False
+DB00773	DB00794	Etoposide	Primidone	1.0333333333333334	L	N	False	False
+DB00380	DB00794	Dexrazoxane	Primidone	1.0333333333333334	V	N	False	False
+DB00694	DB00794	Daunorubicin	Primidone	1.0333333333333334	L	N	False	False
+DB05022	DB00794	Amonafide	Primidone	1.0333333333333334		N	False	False
+DB05022	DB06589	Amonafide	Pazopanib	1.0333333333333334		L	False	False
+DB00380	DB06589	Dexrazoxane	Pazopanib	1.0333333333333334	V	L	True	False
+DB00694	DB06589	Daunorubicin	Pazopanib	1.0333333333333334	L	L	False	False
+DB01092	DB00518	Ouabain	Albendazole	1.0	C	P	False	False
+DB00380	DB00643	Dexrazoxane	Mebendazole	1.0	V	P	False	False
+DB08877	DB00570	Ruxolitinib	Vinblastine	1.0	L	L	False	False
+DB08877	DB08437	Ruxolitinib	Puromycin	1.0	L		False	False
+DB04868	DB00643	Nilotinib	Mebendazole	1.0	L	P	False	False
+DB01092	DB08437	Ouabain	Puromycin	1.0	C		True	False
+DB00694	DB00518	Daunorubicin	Albendazole	1.0	L	P	False	False
+DB08877	DB00518	Ruxolitinib	Albendazole	1.0	L	P	False	False
+DB08877	DB00643	Ruxolitinib	Mebendazole	1.0	L	P	False	False
+DB00694	DB00643	Daunorubicin	Mebendazole	1.0	L	P	False	False
+DB00773	DB04513	Etoposide	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0	L		False	False
+DB00773	DB07080	Etoposide	TO-901317	1.0	L		False	False
+DB00773	DB01092	Etoposide	Ouabain	1.0	L	C	False	False
+DB00773	DB08399	Etoposide	Piceatannol	1.0	L		False	False
+DB00694	DB08877	Daunorubicin	Ruxolitinib	1.0	L	L	False	False
+DB00694	DB08895	Daunorubicin	Tofacitinib	1.0	L	L	False	False
+DB00694	DB00541	Daunorubicin	Vincristine	1.0	L	L	False	False
+DB04868	DB00541	Nilotinib	Vincristine	1.0	L	L	False	False
+DB04513	DB00541	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Vincristine	1.0		L	False	False
+DB04513	DB00518	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Albendazole	1.0		P	False	False
+DB04513	DB00643	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Mebendazole	1.0		P	False	False
+DB07080	DB00541	TO-901317	Vincristine	1.0		L	False	False
+DB00773	DB00518	Etoposide	Albendazole	1.0	L	P	False	False
+DB00380	DB00541	Dexrazoxane	Vincristine	1.0	V	L	True	False
+DB05134	DB00773	Tanespimycin	Etoposide	1.0		L	False	False
+DB00773	DB07780	Etoposide	Farnesyl diphosphate	1.0	L		False	False
+DB05134	DB00694	Tanespimycin	Daunorubicin	1.0		L	False	False
+DB00773	DB00541	Etoposide	Vincristine	1.0	L	L	False	False
+DB00380	DB00518	Dexrazoxane	Albendazole	1.0	V	P	False	False
+DB07374	DB08895	Anisomycin	Tofacitinib	1.0		L	False	False
+DB05134	DB05022	Tanespimycin	Amonafide	1.0			False	False
+DB05022	DB08895	Amonafide	Tofacitinib	1.0		L	False	False
+DB05022	DB08877	Amonafide	Ruxolitinib	1.0		L	False	False
+DB01092	DB08895	Ouabain	Tofacitinib	1.0	C	L	False	False
+DB01092	DB07374	Ouabain	Anisomycin	1.0	C		False	False
+DB01092	DB04513	Ouabain	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0	C		False	False
+DB08895	DB07080	Tofacitinib	TO-901317	1.0	L		False	False
+DB07374	DB08877	Anisomycin	Ruxolitinib	1.0		L	False	False
+DB00694	DB07080	Daunorubicin	TO-901317	1.0	L		False	False
+DB00380	DB07780	Dexrazoxane	Farnesyl diphosphate	1.0	V		False	False
+DB00773	DB00643	Etoposide	Mebendazole	1.0	L	P	False	False
+DB08877	DB07080	Ruxolitinib	TO-901317	1.0	L		False	False
+DB07374	DB07080	Anisomycin	TO-901317	1.0			False	False
+DB08895	DB08437	Tofacitinib	Puromycin	1.0	L		False	False
+DB08895	DB00643	Tofacitinib	Mebendazole	1.0	L	P	False	False
+DB08895	DB00570	Tofacitinib	Vinblastine	1.0	L	L	False	False
+DB01092	DB08877	Ouabain	Ruxolitinib	1.0	C	L	False	False
+DB01092	DB07080	Ouabain	TO-901317	1.0	C		False	False
+DB05022	DB00518	Amonafide	Albendazole	1.0		P	False	False
+DB05022	DB07780	Amonafide	Farnesyl diphosphate	1.0			False	False
+DB00380	DB04513	Dexrazoxane	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0	V		False	False
+DB00380	DB01092	Dexrazoxane	Ouabain	1.0	V	C	False	False
+DB00380	DB08877	Dexrazoxane	Ruxolitinib	1.0	V	L	True	False
+DB05022	DB00541	Amonafide	Vincristine	1.0		L	False	False
+DB00694	DB01092	Daunorubicin	Ouabain	1.0	L	C	False	False
+DB08399	DB08877	Piceatannol	Ruxolitinib	1.0		L	False	False
+DB05022	DB07080	Amonafide	TO-901317	1.0			False	False
+DB00380	DB07080	Dexrazoxane	TO-901317	1.0	V		False	False
+DB00380	DB08895	Dexrazoxane	Tofacitinib	1.0	V	L	False	False
+DB07780	DB00643	Farnesyl diphosphate	Mebendazole	1.0		P	False	False
+DB07780	DB00541	Farnesyl diphosphate	Vincristine	1.0		L	False	False
+DB05134	DB00380	Tanespimycin	Dexrazoxane	1.0		V	False	False
+DB07780	DB00518	Farnesyl diphosphate	Albendazole	1.0		P	False	False
+DB08399	DB08437	Piceatannol	Puromycin	1.0			False	False
+DB07080	DB00518	TO-901317	Albendazole	1.0		P	False	False
+DB05134	DB01092	Tanespimycin	Ouabain	1.0		C	False	False
+DB08895	DB00518	Tofacitinib	Albendazole	1.0	L	P	False	False
+DB07080	DB00619	TO-901317	Imatinib	1.0		L	False	False
+DB04513	DB00570	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Vinblastine	1.0		L	False	False
+DB05022	DB00643	Amonafide	Mebendazole	1.0		P	False	False
+DB00694	DB07780	Daunorubicin	Farnesyl diphosphate	1.0	L		False	False
+DB05022	DB04513	Amonafide	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0			False	False
+DB05022	DB01092	Amonafide	Ouabain	1.0		C	False	False
+DB05022	DB08399	Amonafide	Piceatannol	1.0			False	False
+DB00694	DB04513	Daunorubicin	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0	L		False	False
+DB07080	DB00643	TO-901317	Mebendazole	1.0		P	False	False
+DB04513	DB07080	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	TO-901317	1.0			False	False
+DB00380	DB08399	Dexrazoxane	Piceatannol	1.0	V		False	False
+DB00694	DB08399	Daunorubicin	Piceatannol	1.0	L		False	False
+DB04513	DB00619	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Imatinib	1.0		L	False	False
+DB01092	DB00541	Ouabain	Vincristine	1.0	C	L	False	False
+DB01092	DB00643	Ouabain	Mebendazole	1.0	C	P	False	False
+DB07594	DB05022	CCT-018159	Amonafide	1.0			False	False
+DB07594	DB00773	CCT-018159	Etoposide	1.0		L	False	False
+DB07080	DB08437	TO-901317	Puromycin	1.0			False	False
+DB04868	DB00518	Nilotinib	Albendazole	1.0	L	P	False	False
+DB07594	DB00694	CCT-018159	Daunorubicin	1.0		L	False	False
+DB07594	DB00380	CCT-018159	Dexrazoxane	1.0		V	False	False
+DB04868	DB07080	Nilotinib	TO-901317	1.0	L		False	False
+DB04868	DB07780	Nilotinib	Farnesyl diphosphate	1.0	L		True	False
+DB04868	DB04513	Nilotinib	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0	L		False	False
+DB08399	DB08895	Piceatannol	Tofacitinib	1.0		L	False	False
+DB08399	DB07080	Piceatannol	TO-901317	1.0			False	False
+DB08399	DB07374	Piceatannol	Anisomycin	1.0			False	False
+DB08399	DB04513	Piceatannol	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	1.0			False	False
+DB00773	DB08877	Etoposide	Ruxolitinib	1.0	L	L	True	False
+DB00773	DB08895	Etoposide	Tofacitinib	1.0	L	L	False	False
+DB04868	DB08399	Nilotinib	Piceatannol	1.0	L		False	False
+DB04868	DB01092	Nilotinib	Ouabain	1.0	L	C	False	False
+DB07594	DB01092	CCT-018159	Ouabain	1.0		C	False	False
+DB00773	DB11800	Etoposide	Tivozanib	0.9860139860139863	L	L	False	False
+DB00694	DB11800	Daunorubicin	Tivozanib	0.9860139860139863	L	L	False	False
+DB00380	DB11800	Dexrazoxane	Tivozanib	0.9860139860139863	V	L	False	False
+DB05022	DB11800	Amonafide	Tivozanib	0.9860139860139863		L	False	False
+DB00380	DB00514	Dexrazoxane	Dextromethorphan	0.976470588235294	V	N, R	False	False
+DB00773	DB00514	Etoposide	Dextromethorphan	0.976470588235294	L	N, R	False	False
+DB05022	DB00514	Amonafide	Dextromethorphan	0.976470588235294		N, R	False	False
+DB00694	DB00514	Daunorubicin	Dextromethorphan	0.976470588235294	L	N, R	False	False
+DB02659	DB08437	Cholic Acid	Puromycin	0.9718614718614718	A		False	False
+DB07374	DB02659	Anisomycin	Cholic Acid	0.9691876750700281		A	False	False
+DB02659	DB00643	Cholic Acid	Mebendazole	0.9679089026915113	A	P	False	False
+DB04868	DB02659	Nilotinib	Cholic Acid	0.9679089026915113	L	A	False	False
+DB02659	DB00518	Cholic Acid	Albendazole	0.9679089026915113	A	P	False	False
+DB02659	DB00541	Cholic Acid	Vincristine	0.9679089026915113	A	L	False	False
+DB00773	DB00477	Etoposide	Chlorpromazine	0.9596273291925463	L	N	False	False
+DB00694	DB00477	Daunorubicin	Chlorpromazine	0.9596273291925463	L	N	False	False
+DB05022	DB00477	Amonafide	Chlorpromazine	0.9596273291925463		N	False	False
+DB00380	DB00477	Dexrazoxane	Chlorpromazine	0.9596273291925463	V	N	False	False
+DB08895	DB00514	Tofacitinib	Dextromethorphan	0.9578947368421054	L	N, R	False	False
+DB08877	DB00514	Ruxolitinib	Dextromethorphan	0.9578947368421054	L	N, R	False	False
+DB03010	DB07080	Patupilone	TO-901317	0.9545454545454546			False	False
+DB03010	DB05022	Patupilone	Amonafide	0.9545454545454546			False	False
+DB03010	DB04513	Patupilone	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.9545454545454546			False	False
+DB03010	DB00380	Patupilone	Dexrazoxane	0.9545454545454546		V	False	False
+DB03010	DB00773	Patupilone	Etoposide	0.9545454545454546		L	False	False
+DB03010	DB00694	Patupilone	Daunorubicin	0.9545454545454546		L	False	False
+DB03010	DB04868	Patupilone	Nilotinib	0.9545454545454546		L	False	False
+DB02659	DB00818	Cholic Acid	Propofol	0.9501831501831501	A	N	False	False
+DB01100	DB07080	Pimozide	TO-901317	0.9500000000000002	N		False	False
+DB06589	DB00643	Pazopanib	Mebendazole	0.95	L	P	False	False
+DB06589	DB00541	Pazopanib	Vincristine	0.95	L	L	False	False
+DB01092	DB06589	Ouabain	Pazopanib	0.95	C	L	False	False
+DB06589	DB00518	Pazopanib	Albendazole	0.95	L	P	False	False
+DB04513	DB06589	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Pazopanib	0.95		L	False	False
+DB06080	DB02659	Linifanib	Cholic Acid	0.9457671957671958		A	False	False
+DB00850	DB07080	Perphenazine	TO-901317	0.9444444444444446	N		False	False
+DB03566	DB07080	Spermidine	TO-901317	0.9444444444444446			False	False
+DB00818	DB00643	Propofol	Mebendazole	0.9428571428571428	N	P	False	False
+DB04868	DB00818	Nilotinib	Propofol	0.9428571428571428	L	N	False	False
+DB00818	DB00541	Propofol	Vincristine	0.9428571428571428	N	L	False	False
+DB00518	DB00818	Albendazole	Propofol	0.9428571428571428	P	N	False	False
+DB07080	DB01268	TO-901317	Sunitinib	0.9375		L	False	False
+DB01268	DB00643	Sunitinib	Mebendazole	0.9375	L	P	False	False
+DB01268	DB00570	Sunitinib	Vinblastine	0.9375	L	L	False	False
+DB04513	DB01268	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Sunitinib	0.9375		L	False	False
+DB01268	DB07780	Sunitinib	Farnesyl diphosphate	0.9375	L		True	False
+DB01268	DB00541	Sunitinib	Vincristine	0.9375	L	L	False	False
+DB01092	DB01268	Ouabain	Sunitinib	0.9375	C	L	False	False
+DB01268	DB00518	Sunitinib	Albendazole	0.9375	L	P	False	False
+DB07080	DB00477	TO-901317	Chlorpromazine	0.933862433862434		N	False	False
+DB00836	DB00643	Loperamide	Mebendazole	0.9285714285714286	A	P	False	False
+DB00836	DB00570	Loperamide	Vinblastine	0.9285714285714286	A	L	False	False
+DB00773	DB00836	Etoposide	Loperamide	0.9285714285714286	L	A	False	False
+DB00836	DB00541	Loperamide	Vincristine	0.9285714285714286	A	L	False	False
+DB04868	DB00836	Nilotinib	Loperamide	0.9285714285714286	L	A	False	False
+DB00694	DB00836	Daunorubicin	Loperamide	0.9285714285714286	L	A	False	False
+DB01092	DB00836	Ouabain	Loperamide	0.9285714285714286	C	A	False	False
+DB00380	DB00836	Dexrazoxane	Loperamide	0.9285714285714286	V	A	False	False
+DB00836	DB00518	Loperamide	Albendazole	0.9285714285714286	A	P	False	False
+DB05022	DB00836	Amonafide	Loperamide	0.9285714285714286		A	False	False
+DB00836	DB00619	Loperamide	Imatinib	0.9285714285714286	A	L	False	False
+DB08399	DB00836	Piceatannol	Loperamide	0.9285714285714286		A	False	False
+DB01092	DB00818	Ouabain	Propofol	0.925	C	N	False	False
+DB07594	DB02659	CCT-018159	Cholic Acid	0.9244306418219463		A	False	False
+DB05134	DB02659	Tanespimycin	Cholic Acid	0.9244306418219463		A	False	False
+DB03566	DB02659	Spermidine	Cholic Acid	0.9226190476190479		A	False	False
+DB00514	DB00541	Dextromethorphan	Vincristine	0.9176470588235295	N, R	L	False	False
+DB06595	DB00643	Midostaurin	Mebendazole	0.9166666666666665	L	P	False	False
+DB07557	DB00643	3,20-Pregnanedione	Mebendazole	0.9166666666666665		P	False	False
+DB06080	DB00570	Linifanib	Vinblastine	0.9166666666666665		L	False	False
+DB06080	DB00643	Linifanib	Mebendazole	0.9166666666666665		P	False	False
+DB06595	DB00541	Midostaurin	Vincristine	0.9166666666666665	L	L	False	False
+DB00773	DB00831	Etoposide	Trifluoperazine	0.9166666666666665	L	N	False	False
+DB07374	DB06080	Anisomycin	Linifanib	0.9166666666666665			False	False
+DB06595	DB00518	Midostaurin	Albendazole	0.9166666666666665	L	P	False	False
+DB04513	DB06080	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Linifanib	0.9166666666666665			False	False
+DB05022	DB00831	Amonafide	Trifluoperazine	0.9166666666666665		N	False	False
+DB06080	DB00541	Linifanib	Vincristine	0.9166666666666665		L	False	False
+DB07080	DB08896	TO-901317	Regorafenib	0.9166666666666665		L	False	False
+DB06080	DB08437	Linifanib	Puromycin	0.9166666666666665			False	False
+DB00380	DB00831	Dexrazoxane	Trifluoperazine	0.9166666666666665	V	N	False	False
+DB06080	DB00518	Linifanib	Albendazole	0.9166666666666665		P	False	False
+DB07557	DB00518	3,20-Pregnanedione	Albendazole	0.9166666666666665		P	False	False
+DB07080	DB06080	TO-901317	Linifanib	0.9166666666666665			False	False
+DB06080	DB07780	Linifanib	Farnesyl diphosphate	0.9166666666666665			False	False
+DB01092	DB06080	Ouabain	Linifanib	0.9166666666666665	C		False	False
+DB00694	DB00831	Daunorubicin	Trifluoperazine	0.9166666666666665	L	N	False	False
+DB04868	DB00477	Nilotinib	Chlorpromazine	0.9161490683229814	L	N	False	False
+DB08399	DB00514	Piceatannol	Dextromethorphan	0.9111111111111112		N, R	False	False
+DB07080	DB11800	TO-901317	Tivozanib	0.9090909090909092		L	False	False
+DB01092	DB11800	Ouabain	Tivozanib	0.9090909090909092	C	L	False	False
+DB04513	DB11800	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Tivozanib	0.9090909090909092		L	False	False
+DB03010	DB06589	Patupilone	Pazopanib	0.9045454545454545		L	False	False
+DB07080	DB01069	TO-901317	Promethazine	0.9037433155080212		V, R, D	False	False
+DB01205	DB01069	Flumazenil	Promethazine	0.893939393939394	V	V, R, D	False	False
+DB08399	DB07557	Piceatannol	3,20-Pregnanedione	0.8928571428571428			False	False
+DB01092	DB07557	Ouabain	3,20-Pregnanedione	0.8928571428571428	C		False	False
+DB03010	DB01268	Patupilone	Sunitinib	0.8920454545454546		L	False	False
+DB00380	DB01115	Dexrazoxane	Nifedipine	0.8875000000000002	V	C	False	False
+DB05022	DB01115	Amonafide	Nifedipine	0.8875000000000002		C	False	False
+DB00773	DB01115	Etoposide	Nifedipine	0.8875000000000002	L	C	False	False
+DB00694	DB01115	Daunorubicin	Nifedipine	0.8875000000000002	L	C	False	False
+DB01268	DB02659	Sunitinib	Cholic Acid	0.8874178981937604	L	A	False	False
+DB04868	DB01069	Nilotinib	Promethazine	0.881118881118881	L	V, R, D	False	False
+DB08877	DB02659	Ruxolitinib	Cholic Acid	0.8809523809523809	L	A	False	False
+DB08895	DB02659	Tofacitinib	Cholic Acid	0.8809523809523809	L	A	False	False
+DB12500	DB02659	Fedratinib	Cholic Acid	0.8809523809523809	L	A	False	False
+DB00619	DB02659	Imatinib	Cholic Acid	0.8809523809523809	L	A	False	False
+DB00619	DB07780	Imatinib	Farnesyl diphosphate	0.875	L		True	False
+DB03010	DB06080	Patupilone	Linifanib	0.8712121212121211			False	False
+DB05022	DB12695	Amonafide	Phenethyl Isothiocyanate	0.8695035460992908			False	False
+DB00694	DB12695	Daunorubicin	Phenethyl Isothiocyanate	0.8695035460992908	L		False	False
+DB00773	DB12695	Etoposide	Phenethyl Isothiocyanate	0.8695035460992908	L		False	False
+DB00380	DB12695	Dexrazoxane	Phenethyl Isothiocyanate	0.8695035460992908	V		False	False
+DB03010	DB02659	Patupilone	Cholic Acid	0.8667478354978355		A	False	False
+DB07374	DB00541	Anisomycin	Vincristine	0.8666666666666667		L	False	False
+DB00773	DB07374	Etoposide	Anisomycin	0.8666666666666667	L		False	False
+DB04868	DB07374	Nilotinib	Anisomycin	0.8666666666666667	L		False	False
+DB00380	DB07374	Dexrazoxane	Anisomycin	0.8666666666666667	V		False	False
+DB00694	DB07374	Daunorubicin	Anisomycin	0.8666666666666667	L		False	False
+DB05022	DB07374	Amonafide	Anisomycin	0.8666666666666667			False	False
+DB00140	DB00794	Riboflavin	Primidone	0.8666666666666665	A, S	N	False	False
+DB00836	DB01268	Loperamide	Sunitinib	0.8660714285714286	A	L	False	False
+DB04868	DB00514	Nilotinib	Dextromethorphan	0.8588235294117645	L	N, R	False	False
+DB00514	DB00643	Dextromethorphan	Mebendazole	0.8588235294117645	N, R	P	False	False
+DB00514	DB00518	Dextromethorphan	Albendazole	0.8588235294117645	N, R	P	False	False
+DB00773	DB08437	Etoposide	Puromycin	0.8571428571428572	L		False	False
+DB00694	DB08437	Daunorubicin	Puromycin	0.8571428571428572	L		False	False
+DB05022	DB08437	Amonafide	Puromycin	0.8571428571428572			False	False
+DB00380	DB08437	Dexrazoxane	Puromycin	0.8571428571428572	V		False	False
+DB04868	DB08437	Nilotinib	Puromycin	0.8571428571428572	L		False	False
+DB00541	DB08437	Vincristine	Puromycin	0.8571428571428572	L		False	False
+DB12500	DB00514	Fedratinib	Dextromethorphan	0.8555555555555556	L	N, R	False	False
+DB04513	DB08901	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Ponatinib	0.8555555555555556		L	False	False
+DB01092	DB00514	Ouabain	Dextromethorphan	0.8555555555555554	C	N, R	False	False
+DB04513	DB00794	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Primidone	0.8538461538461537		N	False	False
+DB12695	DB01268	Phenethyl Isothiocyanate	Sunitinib	0.8519654088050315		L	False	False
+DB01092	DB12695	Ouabain	Phenethyl Isothiocyanate	0.8500000000000001	C		False	False
+DB07080	DB00514	TO-901317	Dextromethorphan	0.8476190476190475		N, R	False	False
+DB07780	DB00570	Farnesyl diphosphate	Vinblastine	0.8461538461538463		L	False	False
+DB07080	DB07780	TO-901317	Farnesyl diphosphate	0.8461538461538463			False	False
+DB00836	DB06080	Loperamide	Linifanib	0.8452380952380953	A		False	False
+DB03010	DB07780	Patupilone	Farnesyl diphosphate	0.8434343434343434			False	False
+DB07374	DB01268	Anisomycin	Sunitinib	0.8422619047619047		L	False	False
+DB01092	DB04216	Ouabain	Quercetin	0.8407407407407408	C		False	False
+DB03777	DB02659	Bisindolylmaleimide I	Cholic Acid	0.8392857142857144		A	False	False
+DB01205	DB02659	Flumazenil	Cholic Acid	0.839285714285714	V	A	False	False
+DB08877	DB00836	Ruxolitinib	Loperamide	0.8376623376623378	L	A	False	False
+DB08895	DB00836	Tofacitinib	Loperamide	0.8376623376623378	L	A	False	False
+DB00836	DB11800	Loperamide	Tivozanib	0.8376623376623376	A	L	False	False
+DB01268	DB08437	Sunitinib	Puromycin	0.8374999999999999	L		False	False
+DB00514	DB08437	Dextromethorphan	Puromycin	0.8370370370370372	N, R		False	False
+DB07374	DB00514	Anisomycin	Dextromethorphan	0.8357142857142856		N, R	False	False
+DB00380	DB12500	Dexrazoxane	Fedratinib	0.8333333333333335	V	L	False	False
+DB00850	DB00570	Perphenazine	Vinblastine	0.8333333333333335	N	L	False	False
+DB03777	DB00643	Bisindolylmaleimide I	Mebendazole	0.8333333333333335		P	False	False
+DB04868	DB00850	Nilotinib	Perphenazine	0.8333333333333335	L	N	False	False
+DB03777	DB01092	Bisindolylmaleimide I	Ouabain	0.8333333333333335		C	False	False
+DB04868	DB03777	Nilotinib	Bisindolylmaleimide I	0.8333333333333335	L		False	False
+DB03777	DB07374	Bisindolylmaleimide I	Anisomycin	0.8333333333333335			False	False
+DB03777	DB04513	Bisindolylmaleimide I	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.8333333333333335			False	False
+DB00850	DB00619	Perphenazine	Imatinib	0.8333333333333335	N	L	False	False
+DB07374	DB03566	Anisomycin	Spermidine	0.8333333333333335			False	False
+DB08877	DB03566	Ruxolitinib	Spermidine	0.8333333333333335	L		False	False
+DB08399	DB12500	Piceatannol	Fedratinib	0.8333333333333335		L	False	False
+DB05134	DB03566	Tanespimycin	Spermidine	0.8333333333333335			False	False
+DB02424	DB05022	Geldanamycin	Amonafide	0.8333333333333335			False	False
+DB02424	DB00380	Geldanamycin	Dexrazoxane	0.8333333333333335		V	False	False
+DB02424	DB01092	Geldanamycin	Ouabain	0.8333333333333335		C	False	False
+DB00850	DB00541	Perphenazine	Vincristine	0.8333333333333335	N	L	False	False
+DB00850	DB01092	Perphenazine	Ouabain	0.8333333333333335	N	C	False	False
+DB03777	DB00518	Bisindolylmaleimide I	Albendazole	0.8333333333333335		P	False	False
+DB00850	DB00643	Perphenazine	Mebendazole	0.8333333333333335	N	P	False	False
+DB03777	DB08895	Bisindolylmaleimide I	Tofacitinib	0.8333333333333335		L	False	False
+DB03777	DB08877	Bisindolylmaleimide I	Ruxolitinib	0.8333333333333335		L	False	False
+DB07594	DB03566	CCT-018159	Spermidine	0.8333333333333335			False	False
+DB00850	DB00518	Perphenazine	Albendazole	0.8333333333333335	N	P	False	False
+DB03777	DB00570	Bisindolylmaleimide I	Vinblastine	0.8333333333333335		L	False	False
+DB03777	DB07080	Bisindolylmaleimide I	TO-901317	0.8333333333333335			False	False
+DB00694	DB00850	Daunorubicin	Perphenazine	0.8333333333333335	L	N	False	False
+DB02424	DB00694	Geldanamycin	Daunorubicin	0.8333333333333335		L	False	False
+DB08895	DB03566	Tofacitinib	Spermidine	0.8333333333333335	L		False	False
+DB12500	DB07374	Fedratinib	Anisomycin	0.8333333333333335	L		False	False
+DB03566	DB07780	Spermidine	Farnesyl diphosphate	0.8333333333333335			False	False
+DB00694	DB03777	Daunorubicin	Bisindolylmaleimide I	0.8333333333333335	L		False	False
+DB00694	DB12500	Daunorubicin	Fedratinib	0.8333333333333335	L	L	False	False
+DB05022	DB03777	Amonafide	Bisindolylmaleimide I	0.8333333333333335			False	False
+DB05022	DB12500	Amonafide	Fedratinib	0.8333333333333335		L	False	False
+DB00380	DB00850	Dexrazoxane	Perphenazine	0.8333333333333335	V	N	False	False
+DB03777	DB00541	Bisindolylmaleimide I	Vincristine	0.8333333333333335		L	False	False
+DB03777	DB08437	Bisindolylmaleimide I	Puromycin	0.8333333333333335			False	False
+DB00850	DB08399	Perphenazine	Piceatannol	0.8333333333333335	N		False	False
+DB03566	DB08437	Spermidine	Puromycin	0.8333333333333335			False	False
+DB12500	DB07080	Fedratinib	TO-901317	0.8333333333333335	L		False	False
+DB00773	DB12500	Etoposide	Fedratinib	0.8333333333333335	L	L	False	False
+DB05022	DB00850	Amonafide	Perphenazine	0.8333333333333335		N	False	False
+DB00380	DB03777	Dexrazoxane	Bisindolylmaleimide I	0.8333333333333335	V		False	False
+DB12500	DB00518	Fedratinib	Albendazole	0.8333333333333335	L	P	False	False
+DB12500	DB00570	Fedratinib	Vinblastine	0.8333333333333335	L	L	False	False
+DB12500	DB00643	Fedratinib	Mebendazole	0.8333333333333335	L	P	False	False
+DB12500	DB00541	Fedratinib	Vincristine	0.8333333333333335	L	L	False	False
+DB12500	DB08437	Fedratinib	Puromycin	0.8333333333333335	L		False	False
+DB00773	DB00850	Etoposide	Perphenazine	0.8333333333333335	L	N	False	False
+DB00773	DB03777	Etoposide	Bisindolylmaleimide I	0.8333333333333335	L		False	False
+DB04868	DB03566	Nilotinib	Spermidine	0.8333333333333335	L		False	False
+DB02424	DB00773	Geldanamycin	Etoposide	0.8333333333333335		L	False	False
+DB08399	DB03777	Piceatannol	Bisindolylmaleimide I	0.8333333333333335			False	False
+DB12500	DB01092	Fedratinib	Ouabain	0.8333333333333335	L	C	False	False
+DB06589	DB07780	Pazopanib	Farnesyl diphosphate	0.8323529411764705	L		True	False
+DB12695	DB06080	Phenethyl Isothiocyanate	Linifanib	0.8303921568627453			False	False
+DB07374	DB11800	Anisomycin	Tivozanib	0.8257575757575759		L	False	False
+DB07080	DB06589	TO-901317	Pazopanib	0.825		L	False	False
+DB06589	DB00570	Pazopanib	Vinblastine	0.825	L	L	False	False
+DB01645	DB07780	Genistein	Farnesyl diphosphate	0.823076923076923			False	False
+DB11800	DB08437	Tivozanib	Puromycin	0.8221343873517788	L		False	False
+DB04513	DB08896	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Regorafenib	0.8214285714285712		L	False	False
+DB08877	DB07780	Ruxolitinib	Farnesyl diphosphate	0.8181818181818181	L		False	False
+DB00619	DB00541	Imatinib	Vincristine	0.8181818181818181	L	L	False	False
+DB08895	DB07780	Tofacitinib	Farnesyl diphosphate	0.8181818181818181	L		False	False
+DB06589	DB00818	Pazopanib	Propofol	0.8166666666666669	L	N	False	False
+DB04513	DB07374	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Anisomycin	0.8125			False	False
+DB07557	DB08437	3,20-Pregnanedione	Puromycin	0.8125			False	False
+DB06080	DB00514	Linifanib	Dextromethorphan	0.8119047619047621		N, R	False	False
+DB03010	DB01092	Patupilone	Ouabain	0.8116883116883118		C	False	False
+DB07374	DB06595	Anisomycin	Midostaurin	0.8114035087719296		L	False	False
+DB07374	DB07557	Anisomycin	3,20-Pregnanedione	0.8088235294117645			False	False
+DB06595	DB08437	Midostaurin	Puromycin	0.8055555555555554	L		False	False
+DB04513	DB02709	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Resveratrol	0.8043766578249336			False	False
+DB08895	DB00818	Tofacitinib	Propofol	0.8	L	N	False	False
+DB07780	DB00818	Farnesyl diphosphate	Propofol	0.8		N	True	False
+DB08877	DB00818	Ruxolitinib	Propofol	0.8	L	N	False	False
+DB01092	DB07780	Ouabain	Farnesyl diphosphate	0.8	C		False	False
+DB04513	DB07780	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Farnesyl diphosphate	0.8			False	False
+DB00619	DB00818	Imatinib	Propofol	0.8	L	N	True	False
+DB00619	DB00514	Imatinib	Dextromethorphan	0.8	L	N, R	False	False
+DB05134	DB00514	Tanespimycin	Dextromethorphan	0.8		N, R	False	False
+DB04513	DB08437	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Puromycin	0.8			False	False
+DB07374	DB00818	Anisomycin	Propofol	0.8		N	False	False
+DB07594	DB00818	CCT-018159	Propofol	0.8		N	False	False
+DB01092	DB08901	Ouabain	Ponatinib	0.8	C	L	False	False
+DB07080	DB00818	TO-901317	Propofol	0.8		N	False	False
+DB05134	DB00818	Tanespimycin	Propofol	0.8		N	False	False
+DB00514	DB00570	Dextromethorphan	Vinblastine	0.8	N, R	L	False	False
+DB07594	DB00514	CCT-018159	Dextromethorphan	0.8		N, R	False	False
+DB00818	DB00570	Propofol	Vinblastine	0.8	N	L	False	False
+DB00818	DB08437	Propofol	Puromycin	0.8	N		False	False
+DB07780	DB11582	Farnesyl diphosphate	Thiocolchicoside	0.7999999999999998		M	False	False
+DB06589	DB02659	Pazopanib	Cholic Acid	0.7986943164362519	L	A	False	False
+DB04513	DB02659	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Cholic Acid	0.7976190476190477		A	False	False
+DB01092	DB02659	Ouabain	Cholic Acid	0.7976190476190477	C	A	False	False
+DB02659	DB08896	Cholic Acid	Regorafenib	0.7976190476190474	A	L	False	False
+DB08399	DB06589	Piceatannol	Pazopanib	0.7961538461538462		L	False	False
+DB04868	DB00831	Nilotinib	Trifluoperazine	0.7916666666666665	L	N	False	False
+DB00831	DB00518	Trifluoperazine	Albendazole	0.7916666666666665	N	P	False	False
+DB00831	DB00541	Trifluoperazine	Vincristine	0.7916666666666665	N	L	False	False
+DB00831	DB00643	Trifluoperazine	Mebendazole	0.7916666666666665	N	P	False	False
+DB11800	DB02659	Tivozanib	Cholic Acid	0.7900432900432901	L	A	False	False
+DB03010	DB00850	Patupilone	Perphenazine	0.7878787878787881		N	False	False
+DB03010	DB12500	Patupilone	Fedratinib	0.7878787878787881		L	False	False
+DB03010	DB03777	Patupilone	Bisindolylmaleimide I	0.7878787878787881			False	False
+DB04868	DB01115	Nilotinib	Nifedipine	0.7875000000000001	L	C	False	False
+DB00836	DB07780	Loperamide	Farnesyl diphosphate	0.7857142857142858	A		True	False
+DB08399	DB00477	Piceatannol	Chlorpromazine	0.7857142857142856		N	False	False
+DB01092	DB00477	Ouabain	Chlorpromazine	0.7857142857142856	C	N	False	False
+DB04868	DB12695	Nilotinib	Phenethyl Isothiocyanate	0.7843971631205673	L		False	False
+DB00694	DB01244	Daunorubicin	Bepridil	0.7833333333333334	L	C	False	False
+DB04868	DB01244	Nilotinib	Bepridil	0.7833333333333334	L	C	False	False
+DB07594	DB00794	CCT-018159	Primidone	0.7833333333333334		N	False	False
+DB05134	DB00794	Tanespimycin	Primidone	0.7833333333333334		N	False	False
+DB00773	DB01244	Etoposide	Bepridil	0.7833333333333334	L	C	False	False
+DB05022	DB01244	Amonafide	Bepridil	0.7833333333333334		C	False	False
+DB00380	DB01244	Dexrazoxane	Bepridil	0.7833333333333334	V	C	False	False
+DB04868	DB00794	Nilotinib	Primidone	0.7833333333333334	L	N	False	False
+DB03777	DB06589	Bisindolylmaleimide I	Pazopanib	0.7833333333333332		L	False	False
+DB00850	DB06589	Perphenazine	Pazopanib	0.7833333333333332	N	L	False	False
+DB03566	DB06589	Spermidine	Pazopanib	0.7833333333333332		L	False	False
+DB07374	DB00836	Anisomycin	Loperamide	0.7785714285714287		A	False	False
+DB08399	DB00831	Piceatannol	Trifluoperazine	0.7777777777777777		N	False	False
+DB01092	DB00570	Ouabain	Vinblastine	0.7777777777777777	C	L	False	False
+DB01092	DB00831	Ouabain	Trifluoperazine	0.7777777777777777	C	N	False	False
+DB08399	DB00794	Piceatannol	Primidone	0.776923076923077		N	False	False
+DB01092	DB00794	Ouabain	Primidone	0.776923076923077	C	N	False	False
+DB00694	DB00162	Daunorubicin	Vitamin A	0.776470588235294	L	R, D, V, S, A	False	False
+DB00773	DB00162	Etoposide	Vitamin A	0.776470588235294	L	R, D, V, S, A	False	False
+DB05022	DB00162	Amonafide	Vitamin A	0.776470588235294		R, D, V, S, A	False	False
+DB00380	DB00162	Dexrazoxane	Vitamin A	0.776470588235294	V	R, D, V, S, A	False	False
+DB07374	DB06589	Anisomycin	Pazopanib	0.776086956521739		L	False	False
+DB01092	DB08896	Ouabain	Regorafenib	0.7738095238095237	C	L	False	False
+DB07557	DB00818	3,20-Pregnanedione	Propofol	0.7722222222222224		N	False	False
+DB03010	DB00836	Patupilone	Loperamide	0.772005772005772		A	False	False
+DB08895	DB00794	Tofacitinib	Primidone	0.7714285714285716	L	N	False	False
+DB08877	DB00794	Ruxolitinib	Primidone	0.7714285714285716	L	N	False	False
+DB00850	DB01268	Perphenazine	Sunitinib	0.7708333333333335	N	L	False	False
+DB03566	DB01268	Spermidine	Sunitinib	0.7708333333333335		L	False	False
+DB03777	DB01268	Bisindolylmaleimide I	Sunitinib	0.7708333333333335		L	False	False
+DB00836	DB08437	Loperamide	Puromycin	0.7706766917293233	A		False	False
+DB01205	DB06589	Flumazenil	Pazopanib	0.7705128205128204	V	L	False	False
+DB01092	DB02709	Ouabain	Resveratrol	0.7698938992042441	C		False	False
+DB02659	DB00570	Cholic Acid	Vinblastine	0.7698412698412698	A	L	False	False
+DB00773	DB04216	Etoposide	Quercetin	0.7694763729246488	L		False	False
+DB05022	DB04216	Amonafide	Quercetin	0.7694763729246488			False	False
+DB00694	DB04216	Daunorubicin	Quercetin	0.7694763729246488	L		False	False
+DB00380	DB04216	Dexrazoxane	Quercetin	0.7694763729246488	V		False	False
+DB06589	DB08437	Pazopanib	Puromycin	0.7681818181818181	L		False	False
+DB05022	DB08896	Amonafide	Regorafenib	0.7666666666666666		L	False	False
+DB00773	DB08896	Etoposide	Regorafenib	0.7666666666666666	L	L	False	False
+DB00380	DB08896	Dexrazoxane	Regorafenib	0.7666666666666666	V	L	False	False
+DB00694	DB08896	Daunorubicin	Regorafenib	0.7666666666666666	L	L	False	False
+DB00836	DB08896	Loperamide	Regorafenib	0.7652380952380953	A	L	False	False
+DB02709	DB00643	Resveratrol	Mebendazole	0.7637362637362637		P	False	False
+DB05022	DB02709	Amonafide	Resveratrol	0.7637362637362637			False	False
+DB00694	DB02709	Daunorubicin	Resveratrol	0.7637362637362637	L		True	False
+DB00773	DB02709	Etoposide	Resveratrol	0.7637362637362637	L		False	False
+DB02709	DB00518	Resveratrol	Albendazole	0.7637362637362637		P	False	False
+DB04868	DB02709	Nilotinib	Resveratrol	0.7637362637362637	L		False	False
+DB00380	DB02709	Dexrazoxane	Resveratrol	0.7637362637362637	V		True	False
+DB06595	DB07780	Midostaurin	Farnesyl diphosphate	0.7628205128205128	L		False	False
+DB03777	DB00836	Bisindolylmaleimide I	Loperamide	0.7619047619047619		A	False	False
+DB00836	DB06589	Loperamide	Pazopanib	0.7609243697478991	A	L	False	False
+DB08896	DB00818	Regorafenib	Propofol	0.7601449275362322	L	N	False	False
+DB07780	DB00794	Farnesyl diphosphate	Primidone	0.7588235294117645		N	False	False
+DB12695	DB07080	Phenethyl Isothiocyanate	TO-901317	0.7568627450980392			False	False
+DB12695	DB06589	Phenethyl Isothiocyanate	Pazopanib	0.7560606060606061		L	False	False
+DB02659	DB11582	Cholic Acid	Thiocolchicoside	0.7559523809523809	A	M	False	False
+DB08399	DB01268	Piceatannol	Sunitinib	0.7556818181818181		L	False	False
+DB11800	DB00643	Tivozanib	Mebendazole	0.7552447552447554	L	P	False	False
+DB11800	DB00518	Tivozanib	Albendazole	0.7552447552447554	L	P	False	False
+DB03010	DB00818	Patupilone	Propofol	0.7545454545454546		N	False	False
+DB03010	DB06595	Patupilone	Midostaurin	0.7535650623885917		L	False	False
+DB01100	DB00643	Pimozide	Mebendazole	0.75	N	P	False	False
+DB01100	DB00541	Pimozide	Vincristine	0.75	N	L	False	False
+DB07557	DB00541	3,20-Pregnanedione	Vincristine	0.75		L	False	False
+DB03566	DB06595	Spermidine	Midostaurin	0.75		L	False	False
+DB03566	DB06080	Spermidine	Linifanib	0.75			False	False
+DB07557	DB00619	3,20-Pregnanedione	Imatinib	0.75		L	False	False
+DB05022	DB01100	Amonafide	Pimozide	0.75		N	False	False
+DB08877	DB07557	Ruxolitinib	3,20-Pregnanedione	0.75	L		False	False
+DB05022	DB03758	Amonafide	Radicicol	0.75			False	False
+DB08399	DB01100	Piceatannol	Pimozide	0.75		N	False	False
+DB01100	DB00570	Pimozide	Vinblastine	0.75	N	L	False	False
+DB00773	DB01100	Etoposide	Pimozide	0.75	L	N	False	False
+DB00831	DB07080	Trifluoperazine	TO-901317	0.75	N		False	False
+DB01092	DB00619	Ouabain	Imatinib	0.75	C	L	False	False
+DB07080	DB00570	TO-901317	Vinblastine	0.75		L	False	False
+DB00773	DB03758	Etoposide	Radicicol	0.75	L		False	False
+DB00773	DB07557	Etoposide	3,20-Pregnanedione	0.75	L		False	False
+DB00694	DB01100	Daunorubicin	Pimozide	0.75	L	N	False	False
+DB00380	DB07557	Dexrazoxane	3,20-Pregnanedione	0.75	V		False	False
+DB06589	DB00514	Pazopanib	Dextromethorphan	0.75	L	N, R	False	False
+DB00380	DB03758	Dexrazoxane	Radicicol	0.75	V		False	False
+DB00380	DB01100	Dexrazoxane	Pimozide	0.75	V	N	False	False
+DB00694	DB03758	Daunorubicin	Radicicol	0.75	L		False	False
+DB00694	DB07557	Daunorubicin	3,20-Pregnanedione	0.75	L		False	False
+DB03777	DB06080	Bisindolylmaleimide I	Linifanib	0.75			False	False
+DB01092	DB01100	Ouabain	Pimozide	0.75	C	N	False	False
+DB04868	DB07557	Nilotinib	3,20-Pregnanedione	0.75	L		False	False
+DB04868	DB01100	Nilotinib	Pimozide	0.75	L	N	False	False
+DB04868	DB00570	Nilotinib	Vinblastine	0.75	L	L	False	False
+DB00850	DB06080	Perphenazine	Linifanib	0.75	N		False	False
+DB01092	DB03758	Ouabain	Radicicol	0.75	C		False	False
+DB05022	DB07557	Amonafide	3,20-Pregnanedione	0.75			False	False
+DB08895	DB07557	Tofacitinib	3,20-Pregnanedione	0.75	L		False	False
+DB01100	DB00518	Pimozide	Albendazole	0.75	N	P	False	False
+DB00477	DB07780	Chlorpromazine	Farnesyl diphosphate	0.7499999999999998	N		True	False
+DB06595	DB00570	Midostaurin	Vinblastine	0.7499999999999998	L	L	False	False
+DB06080	DB01115	Linifanib	Nifedipine	0.7470238095238093		C	False	False
+DB00836	DB00794	Loperamide	Primidone	0.746218487394958	A	N	False	False
+DB08895	DB04216	Tofacitinib	Quercetin	0.7461170848267622	L		False	False
+DB08877	DB04216	Ruxolitinib	Quercetin	0.7461170848267622	L		False	False
+DB03777	DB00514	Bisindolylmaleimide I	Dextromethorphan	0.7444444444444445		N, R	False	False
+DB04513	DB00514	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Dextromethorphan	0.7444444444444445		N, R	False	False
+DB03566	DB11800	Spermidine	Tivozanib	0.7424242424242424		L	False	False
+DB00850	DB11800	Perphenazine	Tivozanib	0.7424242424242424	N	L	False	False
+DB03777	DB11800	Bisindolylmaleimide I	Tivozanib	0.7424242424242424		L	False	False
+DB08877	DB02709	Ruxolitinib	Resveratrol	0.7423076923076923	L		False	False
+DB02709	DB00818	Resveratrol	Propofol	0.7423076923076923		N	False	False
+DB08895	DB02709	Tofacitinib	Resveratrol	0.7423076923076923	L		False	False
+DB00477	DB00518	Chlorpromazine	Albendazole	0.7422360248447204	N	P	False	False
+DB00477	DB00643	Chlorpromazine	Mebendazole	0.7422360248447204	N	P	False	False
+DB01268	DB00818	Sunitinib	Propofol	0.7375	L	N	False	False
+DB01268	DB00514	Sunitinib	Dextromethorphan	0.7375	L	N, R	False	False
+DB08399	DB02709	Piceatannol	Resveratrol	0.7354111405835544			False	False
+DB06080	DB01645	Linifanib	Genistein	0.7344804318488529			False	False
+DB05022	DB08901	Amonafide	Ponatinib	0.7313725490196079		L	False	False
+DB00773	DB08901	Etoposide	Ponatinib	0.7313725490196079	L	L	False	False
+DB00694	DB08901	Daunorubicin	Ponatinib	0.7313725490196079	L	L	False	False
+DB08901	DB00518	Ponatinib	Albendazole	0.7313725490196079	L	P	False	False
+DB00380	DB08901	Dexrazoxane	Ponatinib	0.7313725490196079	V	L	True	False
+DB08901	DB00643	Ponatinib	Mebendazole	0.7313725490196079	L	P	False	False
+DB02709	DB07780	Resveratrol	Farnesyl diphosphate	0.7301864801864801			False	False
+DB12695	DB08895	Phenethyl Isothiocyanate	Tofacitinib	0.7292517006802721		L	False	False
+DB12695	DB08877	Phenethyl Isothiocyanate	Ruxolitinib	0.7292517006802721		L	False	False
+DB00140	DB00818	Riboflavin	Propofol	0.7285714285714284	A, S	N	False	False
+DB00836	DB11582	Loperamide	Thiocolchicoside	0.7285714285714284	A	M	False	False
+DB00619	DB00643	Imatinib	Mebendazole	0.7272727272727273	L	P	False	False
+DB00619	DB00518	Imatinib	Albendazole	0.7272727272727273	L	P	False	False
+DB00619	DB01069	Imatinib	Promethazine	0.7272727272727273	L	V, R, D	True	False
+DB03777	DB07557	Bisindolylmaleimide I	3,20-Pregnanedione	0.7261904761904763			False	False
+DB03566	DB07557	Spermidine	3,20-Pregnanedione	0.7261904761904763			False	False
+DB04513	DB12695	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Phenethyl Isothiocyanate	0.7250000000000001			False	False
+DB06595	DB02659	Midostaurin	Cholic Acid	0.7235449735449733	L	A	False	False
+DB01645	DB00643	Genistein	Mebendazole	0.7230769230769232		P	False	False
+DB01645	DB00818	Genistein	Propofol	0.7230769230769232		N	False	False
+DB01645	DB00518	Genistein	Albendazole	0.7230769230769232		P	False	False
+DB04868	DB01645	Nilotinib	Genistein	0.7230769230769232	L		False	False
+DB08877	DB00313	Ruxolitinib	Valproic acid	0.7222222222222223	L	N	False	False
+DB08895	DB00313	Tofacitinib	Valproic acid	0.7222222222222223	L	N	False	False
+DB01268	DB00313	Sunitinib	Valproic acid	0.7185457516339868	L	N	False	False
+DB04868	DB00162	Nilotinib	Vitamin A	0.7176470588235295	L	R, D, V, S, A	False	False
+DB06080	DB00818	Linifanib	Propofol	0.7166666666666668		N	False	False
+DB08896	DB00643	Regorafenib	Mebendazole	0.7166666666666666	L	P	False	False
+DB08896	DB00518	Regorafenib	Albendazole	0.7166666666666666	L	P	False	False
+DB03010	DB00514	Patupilone	Dextromethorphan	0.7160839160839161		N, R	False	False
+DB04513	DB08877	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Ruxolitinib	0.7142857142857142		L	False	False
+DB04513	DB08895	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Tofacitinib	0.7142857142857142		L	False	False
+DB00477	DB00570	Chlorpromazine	Vinblastine	0.7116402116402114	N	L	False	False
+DB02659	DB00794	Cholic Acid	Primidone	0.7099846390168969	A	N	False	False
+DB00514	DB07780	Dextromethorphan	Farnesyl diphosphate	0.7090909090909092	N, R		False	False
+DB11800	DB00818	Tivozanib	Propofol	0.709090909090909	L	N	False	False
+DB08877	DB00477	Ruxolitinib	Chlorpromazine	0.7057142857142855	L	N	False	False
+DB08895	DB00477	Tofacitinib	Chlorpromazine	0.7057142857142855	L	N	False	False
+DB06080	DB00313	Linifanib	Valproic acid	0.7055555555555557		N	False	False
+DB03010	DB00619	Patupilone	Imatinib	0.7045454545454546		L	False	False
+DB03010	DB07557	Patupilone	3,20-Pregnanedione	0.7045454545454546			False	False
+DB03010	DB01100	Patupilone	Pimozide	0.7045454545454546		N	False	False
+DB03777	DB00477	Bisindolylmaleimide I	Chlorpromazine	0.7023809523809526		N	False	False
+DB02659	DB07780	Cholic Acid	Farnesyl diphosphate	0.7023809523809523	A		False	False
+DB06080	DB00477	Linifanib	Chlorpromazine	0.7023809523809523		N	False	False
+DB04868	DB04216	Nilotinib	Quercetin	0.7005108556832695	L		False	False
+DB00380	DB08080	Dexrazoxane	Latrunculin B	0.7000000000000002	V		False	False
+DB00380	DB08348	Dexrazoxane	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.7000000000000002	V		False	False
+DB00694	DB08080	Daunorubicin	Latrunculin B	0.7000000000000002	L		False	False
+DB00694	DB08348	Daunorubicin	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.7000000000000002	L		False	False
+DB05022	DB08080	Amonafide	Latrunculin B	0.7000000000000002			False	False
+DB00773	DB08080	Etoposide	Latrunculin B	0.7000000000000002	L		False	False
+DB04513	DB00140	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Riboflavin	0.7000000000000002		A, S	False	False
+DB05022	DB08348	Amonafide	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.7000000000000002			False	False
+DB00773	DB08348	Etoposide	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.7000000000000002	L		False	False
+DB01244	DB00518	Bepridil	Albendazole	0.7	C	P	False	False
+DB00794	DB00643	Primidone	Mebendazole	0.7	N	P	False	False
+DB07080	DB00794	TO-901317	Primidone	0.7		N	False	False
+DB00518	DB00794	Albendazole	Primidone	0.7	P	N	False	False
+DB00794	DB08437	Primidone	Puromycin	0.7	N		False	False
+DB07374	DB00794	Anisomycin	Primidone	0.7		N	False	False
+DB07080	DB01244	TO-901317	Bepridil	0.7		C	False	False
+DB01100	DB06589	Pimozide	Pazopanib	0.7	N	L	False	False
+DB00794	DB00570	Primidone	Vinblastine	0.7	N	L	False	False
+DB00794	DB00541	Primidone	Vincristine	0.7	N	L	False	False
+DB01244	DB00643	Bepridil	Mebendazole	0.7	C	P	False	False
+DB00619	DB00794	Imatinib	Primidone	0.7	L	N	False	False
+DB07557	DB06589	3,20-Pregnanedione	Pazopanib	0.7		L	False	False
+DB01244	DB00541	Bepridil	Vincristine	0.7	C	L	False	False
+DB06589	DB00794	Pazopanib	Primidone	0.6999999999999997	L	N	False	False
+DB06589	DB01645	Pazopanib	Genistein	0.6991638795986621	L		False	False
+DB00477	DB00541	Chlorpromazine	Vincristine	0.6987577639751552	N	L	False	False
+DB00836	DB07080	Loperamide	TO-901317	0.6978021978021978	A		False	False
+DB07080	DB02659	TO-901317	Cholic Acid	0.6957671957671958		A	False	False
+DB07557	DB00477	3,20-Pregnanedione	Chlorpromazine	0.6957142857142857		N	False	False
+DB01205	DB00836	Flumazenil	Loperamide	0.6952380952380954	V	A	False	False
+DB07080	DB00162	TO-901317	Vitamin A	0.6952380952380954		R, D, V, S, A	False	False
+DB08399	DB06080	Piceatannol	Linifanib	0.6944444444444442			False	False
+DB01092	DB06595	Ouabain	Midostaurin	0.6944444444444442	C	L	False	False
+DB04513	DB06595	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Midostaurin	0.6944444444444442		L	False	False
+DB12695	DB00818	Phenethyl Isothiocyanate	Propofol	0.6933333333333334		N	False	False
+DB06589	DB01115	Pazopanib	Nifedipine	0.6930555555555553	L	C	False	False
+DB01268	DB00794	Sunitinib	Primidone	0.6930555555555553	L	N	False	False
+DB08399	DB08901	Piceatannol	Ponatinib	0.6888888888888891		L	False	False
+DB03566	DB08901	Spermidine	Ponatinib	0.6888888888888889		L	False	False
+DB00850	DB08901	Perphenazine	Ponatinib	0.6888888888888889	N	L	False	False
+DB03010	DB08895	Patupilone	Tofacitinib	0.687878787878788		L	False	False
+DB03010	DB08877	Patupilone	Ruxolitinib	0.687878787878788		L	False	False
+DB01100	DB01268	Pimozide	Sunitinib	0.6875	N	L	False	False
+DB00619	DB01115	Imatinib	Nifedipine	0.6875	L	C	True	False
+DB01115	DB00570	Nifedipine	Vinblastine	0.6875	C	L	False	False
+DB01115	DB00643	Nifedipine	Mebendazole	0.6875	C	P	False	False
+DB01115	DB00541	Nifedipine	Vincristine	0.6875	C	L	False	False
+DB01268	DB01115	Sunitinib	Nifedipine	0.6875	L	C	False	False
+DB01092	DB01115	Ouabain	Nifedipine	0.6875	C	C	False	False
+DB08399	DB01115	Piceatannol	Nifedipine	0.6875		C	False	False
+DB01115	DB00518	Nifedipine	Albendazole	0.6875	C	P	False	False
+DB07557	DB01268	3,20-Pregnanedione	Sunitinib	0.6875		L	False	False
+DB01645	DB00514	Genistein	Dextromethorphan	0.6873626373626374		N, R	False	False
+DB11800	DB07780	Tivozanib	Farnesyl diphosphate	0.6868686868686869	L		False	False
+DB00140	DB02659	Riboflavin	Cholic Acid	0.6853002070393375	A, S	A	False	False
+DB12500	DB12695	Fedratinib	Phenethyl Isothiocyanate	0.6833333333333333	L		False	False
+DB07374	DB08901	Anisomycin	Ponatinib	0.680952380952381		L	False	False
+DB07080	DB08901	TO-901317	Ponatinib	0.680952380952381		L	False	False
+DB02659	DB08901	Cholic Acid	Ponatinib	0.680952380952381	A	L	False	False
+DB06589	DB11582	Pazopanib	Thiocolchicoside	0.6807692307692308	L	M	False	False
+DB00831	DB06589	Trifluoperazine	Pazopanib	0.6791666666666667	N	L	False	False
+DB06080	DB01244	Linifanib	Bepridil	0.6791666666666667		C	False	False
+DB06080	DB00794	Linifanib	Primidone	0.6791666666666667		N	False	False
+DB01205	DB02709	Flumazenil	Resveratrol	0.6779398762157385	V		False	False
+DB07557	DB01069	3,20-Pregnanedione	Promethazine	0.6772727272727275		V, R, D	False	False
+DB04216	DB00818	Quercetin	Propofol	0.6761574074074075		N	False	False
+DB00831	DB01268	Trifluoperazine	Sunitinib	0.6755952380952381	N	L	False	False
+DB04513	DB04216	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Quercetin	0.674074074074074			False	False
+DB11800	DB00570	Tivozanib	Vinblastine	0.6737967914438503	L	L	False	False
+DB12695	DB06595	Phenethyl Isothiocyanate	Midostaurin	0.6735294117647059		L	False	False
+DB04513	DB01645	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Genistein	0.6730769230769231			False	False
+DB01092	DB01645	Ouabain	Genistein	0.6730769230769231	C		False	False
+DB08901	DB00541	Ponatinib	Vincristine	0.6725490196078432	L	L	False	False
+DB07780	DB01069	Farnesyl diphosphate	Promethazine	0.6717171717171717		V, R, D	True	False
+DB06080	DB02709	Linifanib	Resveratrol	0.671474358974359			False	False
+DB08901	DB08437	Ponatinib	Puromycin	0.6703703703703705	L		False	False
+DB01268	DB01645	Sunitinib	Genistein	0.6701007326007327	L		False	False
+DB12695	DB00836	Phenethyl Isothiocyanate	Loperamide	0.6695970695970697		A	False	False
+DB07374	DB00477	Anisomycin	Chlorpromazine	0.6680672268907561		N	False	False
+DB07594	DB07374	CCT-018159	Anisomycin	0.6666666666666667			False	False
+DB05134	DB07780	Tanespimycin	Farnesyl diphosphate	0.6666666666666667			False	False
+DB03777	DB03566	Bisindolylmaleimide I	Spermidine	0.6666666666666667			False	False
+DB03777	DB12500	Bisindolylmaleimide I	Fedratinib	0.6666666666666667		L	False	False
+DB12500	DB03566	Fedratinib	Spermidine	0.6666666666666667	L		False	False
+DB00850	DB03777	Perphenazine	Bisindolylmaleimide I	0.6666666666666667	N		False	False
+DB08399	DB01092	Piceatannol	Ouabain	0.6666666666666667		C	False	False
+DB07374	DB00518	Anisomycin	Albendazole	0.6666666666666667		P	False	False
+DB05134	DB07374	Tanespimycin	Anisomycin	0.6666666666666667			False	False
+DB00831	DB06080	Trifluoperazine	Linifanib	0.6666666666666667	N		False	False
+DB03566	DB00619	Spermidine	Imatinib	0.6666666666666667		L	False	False
+DB07374	DB00643	Anisomycin	Mebendazole	0.6666666666666667		P	False	False
+DB07594	DB07780	CCT-018159	Farnesyl diphosphate	0.6666666666666667			False	False
+DB08399	DB00619	Piceatannol	Imatinib	0.6666666666666667		L	False	False
+DB08896	DB00541	Regorafenib	Vincristine	0.6666666666666665	L	L	False	False
+DB01100	DB06080	Pimozide	Linifanib	0.6666666666666665	N		False	False
+DB08399	DB12742	Piceatannol	Amuvatinib	0.6666666666666665			False	False
+DB00831	DB00570	Trifluoperazine	Vinblastine	0.6666666666666665	N	L	False	False
+DB00694	DB01229	Daunorubicin	Paclitaxel	0.6666666666666665	L	L	False	False
+DB01205	DB00619	Flumazenil	Imatinib	0.6666666666666665	V	L	False	False
+DB01092	DB12742	Ouabain	Amuvatinib	0.6666666666666665	C		False	False
+DB00694	DB01205	Daunorubicin	Flumazenil	0.6666666666666665	L	V	False	False
+DB07080	DB12742	TO-901317	Amuvatinib	0.6666666666666665			False	False
+DB07080	DB06595	TO-901317	Midostaurin	0.6666666666666665		L	False	False
+DB04513	DB12742	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Amuvatinib	0.6666666666666665			False	False
+DB01205	DB00643	Flumazenil	Mebendazole	0.6666666666666665	V	P	False	False
+DB01205	DB00541	Flumazenil	Vincristine	0.6666666666666665	V	L	False	False
+DB01205	DB08437	Flumazenil	Puromycin	0.6666666666666665	V		False	False
+DB00380	DB01205	Dexrazoxane	Flumazenil	0.6666666666666665	V	V	False	False
+DB05022	DB01205	Amonafide	Flumazenil	0.6666666666666665		V	False	False
+DB07557	DB06080	3,20-Pregnanedione	Linifanib	0.6666666666666665			False	False
+DB00380	DB12742	Dexrazoxane	Amuvatinib	0.6666666666666665	V		False	False
+DB00380	DB06595	Dexrazoxane	Midostaurin	0.6666666666666665	V	L	False	False
+DB04868	DB01205	Nilotinib	Flumazenil	0.6666666666666665	L	V	False	False
+DB05022	DB12742	Amonafide	Amuvatinib	0.6666666666666665			False	False
+DB00380	DB01229	Dexrazoxane	Paclitaxel	0.6666666666666665	V	L	True	False
+DB01205	DB00570	Flumazenil	Vinblastine	0.6666666666666665	V	L	False	False
+DB01205	DB04513	Flumazenil	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.6666666666666665	V		False	False
+DB01205	DB07374	Flumazenil	Anisomycin	0.6666666666666665	V		False	False
+DB01205	DB08399	Flumazenil	Piceatannol	0.6666666666666665	V		False	False
+DB01205	DB01092	Flumazenil	Ouabain	0.6666666666666665	V	C	False	False
+DB12742	DB00541	Amuvatinib	Vincristine	0.6666666666666665		L	False	False
+DB08348	DB01092	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Ouabain	0.6666666666666665		C	False	False
+DB08348	DB04513	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.6666666666666665			False	False
+DB01205	DB08895	Flumazenil	Tofacitinib	0.6666666666666665	V	L	False	False
+DB01205	DB08877	Flumazenil	Ruxolitinib	0.6666666666666665	V	L	False	False
+DB01205	DB07080	Flumazenil	TO-901317	0.6666666666666665	V		False	False
+DB00694	DB06595	Daunorubicin	Midostaurin	0.6666666666666665	L	L	False	False
+DB00773	DB06595	Etoposide	Midostaurin	0.6666666666666665	L	L	False	False
+DB00773	DB01229	Etoposide	Paclitaxel	0.6666666666666665	L	L	False	False
+DB05022	DB06595	Amonafide	Midostaurin	0.6666666666666665		L	False	False
+DB05022	DB01229	Amonafide	Paclitaxel	0.6666666666666665		L	False	False
+DB01092	DB11582	Ouabain	Thiocolchicoside	0.6666666666666665	C	M	False	False
+DB00694	DB12742	Daunorubicin	Amuvatinib	0.6666666666666665	L		False	False
+DB01205	DB07780	Flumazenil	Farnesyl diphosphate	0.6666666666666665	V		False	False
+DB01205	DB00518	Flumazenil	Albendazole	0.6666666666666665	V	P	False	False
+DB05134	DB01205	Tanespimycin	Flumazenil	0.6666666666666665		V	False	False
+DB00773	DB12742	Etoposide	Amuvatinib	0.6666666666666665	L		False	False
+DB04513	DB11582	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Thiocolchicoside	0.6666666666666665		M	False	False
+DB00773	DB01205	Etoposide	Flumazenil	0.6666666666666665	L	V	False	False
+DB08399	DB01229	Piceatannol	Paclitaxel	0.6666666666666665		L	False	False
+DB07594	DB01205	CCT-018159	Flumazenil	0.6666666666666665		V	False	False
+DB08901	DB00818	Ponatinib	Propofol	0.6666666666666665	L	N	False	False
+DB00831	DB00619	Trifluoperazine	Imatinib	0.6666666666666665	N	L	False	False
+DB01092	DB01229	Ouabain	Paclitaxel	0.6666666666666665	C	L	False	False
+DB01645	DB00794	Genistein	Primidone	0.6665551839464885		N	False	False
+DB00477	DB08437	Chlorpromazine	Puromycin	0.6645021645021645	N		False	False
+DB12500	DB00836	Fedratinib	Loperamide	0.6619047619047618	L	A	False	False
+DB07374	DB02709	Anisomycin	Resveratrol	0.6602564102564101			False	False
+DB01100	DB11800	Pimozide	Tivozanib	0.6590909090909092	N	L	False	False
+DB00162	DB00541	Vitamin A	Vincristine	0.6588235294117646	R, D, V, S, A	L	False	False
+DB11800	DB00794	Tivozanib	Primidone	0.6567099567099564	L	N	False	False
+DB01645	DB00541	Genistein	Vincristine	0.6564102564102565		L	False	False
+DB08896	DB00514	Regorafenib	Dextromethorphan	0.6560606060606062	L	N, R	False	False
+DB08399	DB01069	Piceatannol	Promethazine	0.6558441558441559		V, R, D	False	False
+DB01069	DB11582	Promethazine	Thiocolchicoside	0.6558441558441557	V, R, D	M	False	False
+DB01092	DB00162	Ouabain	Vitamin A	0.6555555555555554	C	R, D, V, S, A	False	False
+DB08399	DB00162	Piceatannol	Vitamin A	0.6555555555555554		R, D, V, S, A	False	False
+DB07557	DB00514	3,20-Pregnanedione	Dextromethorphan	0.6552631578947368		N, R	False	False
+DB03566	DB08896	Spermidine	Regorafenib	0.6547619047619047		L	False	False
+DB03777	DB08896	Bisindolylmaleimide I	Regorafenib	0.6547619047619047		L	False	False
+DB00850	DB08896	Perphenazine	Regorafenib	0.6547619047619047	N	L	False	False
+DB03010	DB00794	Patupilone	Primidone	0.6545454545454545		N	False	False
+DB02709	DB08437	Resveratrol	Puromycin	0.652834008097166			False	False
+DB08895	DB00162	Tofacitinib	Vitamin A	0.6526315789473687	L	R, D, V, S, A	False	False
+DB08877	DB00162	Ruxolitinib	Vitamin A	0.6526315789473687	L	R, D, V, S, A	False	False
+DB00619	DB00477	Imatinib	Chlorpromazine	0.6523809523809523	L	N	False	False
+DB01205	DB01645	Flumazenil	Genistein	0.6522435897435899	V		False	False
+DB01069	DB00643	Promethazine	Mebendazole	0.6503496503496504	V, R, D	P	False	False
+DB00518	DB01069	Albendazole	Promethazine	0.6503496503496504	P	V, R, D	False	False
+DB08901	DB07780	Ponatinib	Farnesyl diphosphate	0.6484848484848487	L		False	False
+DB12695	DB11800	Phenethyl Isothiocyanate	Tivozanib	0.6459956709956709		L	False	False
+DB00850	DB07374	Perphenazine	Anisomycin	0.6458333333333335	N		False	False
+DB00836	DB00818	Loperamide	Propofol	0.6452380952380954	A	N	True	False
+DB07374	DB01069	Anisomycin	Promethazine	0.643939393939394		V, R, D	False	False
+DB00380	DB01104	Dexrazoxane	Sertraline	0.6428571428571428	V	N	False	False
+DB05022	DB01104	Amonafide	Sertraline	0.6428571428571428		N	False	False
+DB04868	DB01104	Nilotinib	Sertraline	0.6428571428571428	L	N	False	False
+DB02659	DB00477	Cholic Acid	Chlorpromazine	0.6428571428571428	A	N	False	False
+DB00694	DB01104	Daunorubicin	Sertraline	0.6428571428571428	L	N	False	False
+DB08348	DB08877	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Ruxolitinib	0.6428571428571428		L	False	False
+DB05134	DB08437	Tanespimycin	Puromycin	0.6428571428571428			False	False
+DB00773	DB01104	Etoposide	Sertraline	0.6428571428571428	L	N	False	False
+DB01104	DB00518	Sertraline	Albendazole	0.6428571428571428	N	P	False	False
+DB08348	DB08895	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Tofacitinib	0.6428571428571428		L	False	False
+DB00643	DB08437	Mebendazole	Puromycin	0.6428571428571428	P		False	False
+DB01104	DB00643	Sertraline	Mebendazole	0.6428571428571428	N	P	False	False
+DB01104	DB00541	Sertraline	Vincristine	0.6428571428571428	N	L	False	False
+DB07594	DB08437	CCT-018159	Puromycin	0.6428571428571428			False	False
+DB00518	DB08437	Albendazole	Puromycin	0.6428571428571428	P		False	False
+DB05913	DB02659	OSI-930	Cholic Acid	0.6418219461697721		A	False	False
+DB01069	DB08437	Promethazine	Puromycin	0.6403162055335969	V, R, D		False	False
+DB06589	DB00477	Pazopanib	Chlorpromazine	0.6389400921658988	L	N	False	False
+DB03566	DB02709	Spermidine	Resveratrol	0.6377099911582669			False	False
+DB00162	DB08437	Vitamin A	Puromycin	0.6370370370370373	R, D, V, S, A		False	False
+DB00380	DB00619	Dexrazoxane	Imatinib	0.6363636363636365	V	L	True	False
+DB05022	DB00619	Amonafide	Imatinib	0.6363636363636365		L	False	False
+DB00773	DB00619	Etoposide	Imatinib	0.6363636363636365	L	L	False	False
+DB00694	DB00619	Daunorubicin	Imatinib	0.6363636363636365	L	L	True	False
+DB07374	DB00162	Anisomycin	Vitamin A	0.6357142857142857		R, D, V, S, A	False	False
+DB00831	DB11800	Trifluoperazine	Tivozanib	0.6345811051693402	N	L	False	False
+DB00140	DB00477	Riboflavin	Chlorpromazine	0.6335403726708075	A, S	N	False	False
+DB03777	DB07780	Bisindolylmaleimide I	Farnesyl diphosphate	0.6333333333333335			False	False
+DB00514	DB11582	Dextromethorphan	Thiocolchicoside	0.6333333333333335	N, R	M	True	False
+DB00850	DB07780	Perphenazine	Farnesyl diphosphate	0.6333333333333335	N		False	False
+DB12500	DB07780	Fedratinib	Farnesyl diphosphate	0.6333333333333335	L		False	False
+DB00850	DB08437	Perphenazine	Puromycin	0.6333333333333335	N		False	False
+DB03566	DB00818	Spermidine	Propofol	0.6333333333333333		N	False	False
+DB12500	DB00818	Fedratinib	Propofol	0.6333333333333333	L	N	False	False
+DB03777	DB00818	Bisindolylmaleimide I	Propofol	0.6333333333333333		N	False	False
+DB11800	DB00514	Tivozanib	Dextromethorphan	0.6321678321678321	L	N, R	False	False
+DB00850	DB02659	Perphenazine	Cholic Acid	0.6309523809523812	N	A	False	False
+DB01205	DB08896	Flumazenil	Regorafenib	0.6309523809523807	V	L	False	False
+DB08895	DB01645	Tofacitinib	Genistein	0.6289592760180995	L		False	False
+DB08877	DB01645	Ruxolitinib	Genistein	0.6289592760180995	L		False	False
+DB08895	DB01244	Tofacitinib	Bepridil	0.6285714285714286	L	C	False	False
+DB08877	DB01244	Ruxolitinib	Bepridil	0.6285714285714286	L	C	False	False
+DB01205	DB01115	Flumazenil	Nifedipine	0.6268939393939394	V	C	False	False
+DB02659	DB00514	Cholic Acid	Dextromethorphan	0.6253968253968254	A	N, R	False	False
+DB00694	DB00570	Daunorubicin	Vinblastine	0.625	L	L	False	False
+DB00773	DB00570	Etoposide	Vinblastine	0.625	L	L	False	False
+DB00140	DB07080	Riboflavin	TO-901317	0.625	A, S		False	False
+DB08399	DB01104	Piceatannol	Sertraline	0.625		N	False	False
+DB05022	DB00570	Amonafide	Vinblastine	0.625		L	False	False
+DB04513	DB01104	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Sertraline	0.625		N	False	False
+DB00380	DB00570	Dexrazoxane	Vinblastine	0.625	V	L	True	False
+DB08399	DB11800	Piceatannol	Tivozanib	0.6233766233766234		L	False	False
+DB12742	DB02659	Amuvatinib	Cholic Acid	0.6216931216931214		A	False	False
+DB06595	DB00514	Midostaurin	Dextromethorphan	0.6214285714285714	L	N, R	False	False
+DB03010	DB07374	Patupilone	Anisomycin	0.6212121212121213			False	False
+DB03010	DB00831	Patupilone	Trifluoperazine	0.6212121212121211		N	False	False
+DB02709	DB00541	Resveratrol	Vincristine	0.6208791208791209		L	False	False
+DB01268	DB00477	Sunitinib	Chlorpromazine	0.6197660098522166	L	N	False	False
+DB08901	DB01069	Ponatinib	Promethazine	0.617016317016317	L	V, R, D	False	False
+DB01229	DB06589	Paclitaxel	Pazopanib	0.6166666666666667	L	L	False	False
+DB08896	DB00794	Regorafenib	Primidone	0.6166666666666667	L	N	False	False
+DB00140	DB06589	Riboflavin	Pazopanib	0.6166666666666665	A, S	L	False	False
+DB08877	DB06080	Ruxolitinib	Linifanib	0.6166666666666665	L		False	False
+DB08895	DB06080	Tofacitinib	Linifanib	0.6166666666666665	L		False	False
+DB00836	DB06595	Loperamide	Midostaurin	0.6144688644688645	A	L	False	False
+DB04216	DB07780	Quercetin	Farnesyl diphosphate	0.6132897603485838			False	False
+DB01268	DB01069	Sunitinib	Promethazine	0.6121411483253589	L	V, R, D	True	False
+DB06080	DB00162	Linifanib	Vitamin A	0.611904761904762		R, D, V, S, A	False	False
+DB00140	DB01069	Riboflavin	Promethazine	0.6118881118881119	A, S	V, R, D	False	False
+DB07594	DB00477	CCT-018159	Chlorpromazine	0.6118012422360246		N	False	False
+DB05134	DB00477	Tanespimycin	Chlorpromazine	0.6118012422360246		N	False	False
+DB03777	DB00831	Bisindolylmaleimide I	Trifluoperazine	0.6111111111111112		N	False	False
+DB03566	DB00794	Spermidine	Primidone	0.6102564102564103		N	False	False
+DB03777	DB01244	Bisindolylmaleimide I	Bepridil	0.6102564102564103		C	False	False
+DB12500	DB00794	Fedratinib	Primidone	0.6102564102564103	L	N	False	False
+DB03777	DB00794	Bisindolylmaleimide I	Primidone	0.6102564102564103		N	False	False
+DB01115	DB00794	Nifedipine	Primidone	0.6097222222222223	C	N	False	False
+DB01069	DB00570	Promethazine	Vinblastine	0.6096256684491979	V, R, D	L	False	False
+DB01205	DB04216	Flumazenil	Quercetin	0.6074074074074072	V		False	False
+DB04513	DB07557	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	3,20-Pregnanedione	0.6071428571428572			False	False
+DB03010	DB08437	Patupilone	Puromycin	0.6067193675889329			False	False
+DB12695	DB07780	Phenethyl Isothiocyanate	Farnesyl diphosphate	0.6064102564102565			False	False
+DB00619	DB01645	Imatinib	Genistein	0.604895104895105	L		False	False
+DB08877	DB01115	Ruxolitinib	Nifedipine	0.6041666666666667	L	C	False	False
+DB08895	DB01115	Tofacitinib	Nifedipine	0.6041666666666667	L	C	False	False
+DB01229	DB01268	Paclitaxel	Sunitinib	0.6041666666666665	L	L	False	False
+DB01205	DB01268	Flumazenil	Sunitinib	0.6041666666666665	V	L	False	False
+DB12500	DB02709	Fedratinib	Resveratrol	0.6032272325375774	L		False	False
+DB00850	DB02709	Perphenazine	Resveratrol	0.6032272325375774	N		False	False
+DB11800	DB00541	Tivozanib	Vincristine	0.6013986013986015	L	L	False	False
+DB00162	DB11582	Vitamin A	Thiocolchicoside	0.6000000000000001	R, D, V, S, A	M	False	False
+DB00140	DB11582	Riboflavin	Thiocolchicoside	0.6000000000000001	A, S	M	False	False
+DB05134	DB00162	Tanespimycin	Vitamin A	0.6000000000000001		R, D, V, S, A	False	False
+DB08399	DB00541	Piceatannol	Vincristine	0.6000000000000001		L	False	False
+DB08399	DB07780	Piceatannol	Farnesyl diphosphate	0.6000000000000001			False	False
+DB12695	DB08437	Phenethyl Isothiocyanate	Puromycin	0.6000000000000001			False	False
+DB07594	DB04513	CCT-018159	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.6000000000000001			False	False
+DB00162	DB00643	Vitamin A	Mebendazole	0.6000000000000001	R, D, V, S, A	P	False	False
+DB07594	DB00162	CCT-018159	Vitamin A	0.6000000000000001		R, D, V, S, A	False	False
+DB08399	DB12695	Piceatannol	Phenethyl Isothiocyanate	0.6000000000000001			False	False
+DB05134	DB04513	Tanespimycin	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.6000000000000001			False	False
+DB00162	DB00518	Vitamin A	Albendazole	0.6000000000000001	R, D, V, S, A	P	False	False
+DB12695	DB00514	Phenethyl Isothiocyanate	Dextromethorphan	0.6000000000000001		N, R	False	False
+DB00850	DB12695	Perphenazine	Phenethyl Isothiocyanate	0.5999999999999999	N		False	False
+DB06589	DB01244	Pazopanib	Bepridil	0.5999999999999999	L	C	True	False
+DB01104	DB00818	Sertraline	Propofol	0.5999999999999999	N	N	True	False
+DB01104	DB06080	Sertraline	Linifanib	0.5984848484848482	N		False	False
+DB00313	DB07780	Valproic acid	Farnesyl diphosphate	0.5972222222222223	N		True	False
+DB04216	DB00518	Quercetin	Albendazole	0.5970625798212006		P	False	False
+DB04216	DB00541	Quercetin	Vincristine	0.5970625798212006		L	False	False
+DB04216	DB00643	Quercetin	Mebendazole	0.5970625798212006		P	False	False
+DB08896	DB07780	Regorafenib	Farnesyl diphosphate	0.5966666666666665	L		False	False
+DB11800	DB01115	Tivozanib	Nifedipine	0.5965909090909092	L	C	False	False
+DB01100	DB00619	Pimozide	Imatinib	0.5961538461538463	N	L	False	False
+DB00836	DB12742	Loperamide	Amuvatinib	0.5952380952380953	A		False	False
+DB00836	DB02659	Loperamide	Cholic Acid	0.5952380952380953	A	A	False	False
+DB07374	DB08896	Anisomycin	Regorafenib	0.5940860215053763		L	False	False
+DB08895	DB01069	Tofacitinib	Promethazine	0.593939393939394	L	V, R, D	False	False
+DB08877	DB01069	Ruxolitinib	Promethazine	0.593939393939394	L	V, R, D	False	False
+DB07557	DB00794	3,20-Pregnanedione	Primidone	0.5928571428571427		N	False	False
+DB01645	DB00477	Genistein	Chlorpromazine	0.5911441499676795		N	False	False
+DB07557	DB02659	3,20-Pregnanedione	Cholic Acid	0.5909523809523809		A	False	False
+DB01104	DB07080	Sertraline	TO-901317	0.5909090909090908	N		False	False
+DB01069	DB00818	Promethazine	Propofol	0.5897727272727273	V, R, D	N	False	False
+DB00831	DB07780	Trifluoperazine	Farnesyl diphosphate	0.5897435897435896	N		False	False
+DB08348	DB02659	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Cholic Acid	0.5892857142857144		A	False	False
+DB08080	DB02659	Latrunculin B	Cholic Acid	0.5892857142857144		A	False	False
+DB05913	DB01115	OSI-930	Nifedipine	0.5874999999999999		C	False	False
+DB07374	DB00313	Anisomycin	Valproic acid	0.5858585858585859		N	False	False
+DB01268	DB02709	Sunitinib	Resveratrol	0.5856900452488687	L		False	False
+DB06080	DB01069	Linifanib	Promethazine	0.5851158645276293		V, R, D	False	False
+DB01229	DB02659	Paclitaxel	Cholic Acid	0.5846560846560847	L	A	False	False
+DB01092	DB01069	Ouabain	Promethazine	0.5844155844155845	C	V, R, D	False	False
+DB12500	DB07557	Fedratinib	3,20-Pregnanedione	0.5833333333333335	L		False	False
+DB03777	DB01100	Bisindolylmaleimide I	Pimozide	0.5833333333333335		N	False	False
+DB12500	DB01104	Fedratinib	Sertraline	0.5833333333333335	L	N	False	False
+DB08896	DB08437	Regorafenib	Puromycin	0.5833333333333333	L		False	False
+DB08399	DB08896	Piceatannol	Regorafenib	0.5833333333333333		L	False	False
+DB01205	DB06080	Flumazenil	Linifanib	0.5833333333333333	V		False	False
+DB06080	DB01229	Linifanib	Paclitaxel	0.5833333333333333		L	False	False
+DB00831	DB06595	Trifluoperazine	Midostaurin	0.5833333333333333	N	L	False	False
+DB06589	DB01069	Pazopanib	Promethazine	0.5820346320346319	L	V, R, D	False	False
+DB01268	DB01244	Sunitinib	Bepridil	0.5819444444444444	L	C	True	False
+DB04841	DB07080	Flunarizine	TO-901317	0.5818181818181816	N		False	False
+DB04216	DB00794	Quercetin	Primidone	0.5803803803803804		N	False	False
+DB00313	DB08437	Valproic acid	Puromycin	0.5793650793650795	N		False	False
+DB02424	DB00514	Geldanamycin	Dextromethorphan	0.5777777777777777		N, R	False	False
+DB01205	DB08901	Flumazenil	Ponatinib	0.5777777777777777	V	L	False	False
+DB03777	DB08901	Bisindolylmaleimide I	Ponatinib	0.5777777777777777		L	False	False
+DB12500	DB00477	Fedratinib	Chlorpromazine	0.5773809523809523	L	N	False	False
+DB00836	DB08901	Loperamide	Ponatinib	0.577056277056277	A	L	False	False
+DB02659	DB01069	Cholic Acid	Promethazine	0.5769751082251082	A	V, R, D	False	False
+DB06595	DB01645	Midostaurin	Genistein	0.5765856950067478	L		False	False
+DB07557	DB08896	3,20-Pregnanedione	Regorafenib	0.5757575757575757		L	False	False
+DB01205	DB11800	Flumazenil	Tivozanib	0.5757575757575757	V	L	False	False
+DB01229	DB11800	Paclitaxel	Tivozanib	0.5757575757575757	L	L	False	False
+DB01244	DB00570	Bepridil	Vinblastine	0.575	C	L	False	False
+DB12500	DB04216	Fedratinib	Quercetin	0.5740740740740742	L		False	False
+DB07374	DB01100	Anisomycin	Pimozide	0.5735294117647058		N	False	False
+DB07374	DB03758	Anisomycin	Radicicol	0.5735294117647058			False	False
+DB01069	DB00541	Promethazine	Vincristine	0.5734265734265735	V, R, D	L	False	False
+DB07594	DB01069	CCT-018159	Promethazine	0.5734265734265735		V, R, D	False	False
+DB05134	DB01069	Tanespimycin	Promethazine	0.5734265734265735		V, R, D	False	False
+DB07374	DB12695	Anisomycin	Phenethyl Isothiocyanate	0.571264367816092			False	False
+DB01069	DB00794	Promethazine	Primidone	0.57012987012987	V, R, D	N	False	False
+DB07374	DB01244	Anisomycin	Bepridil	0.5695652173913044		C	False	False
+DB06777	DB01069	Chenodeoxycholic acid	Promethazine	0.5689393939393941	A	V, R, D	False	False
+DB03566	DB01645	Spermidine	Genistein	0.5689102564102564			False	False
+DB07557	DB07780	3,20-Pregnanedione	Farnesyl diphosphate	0.5681818181818181			False	False
+DB03758	DB07780	Radicicol	Farnesyl diphosphate	0.5681818181818181			False	False
+DB01100	DB07780	Pimozide	Farnesyl diphosphate	0.5681818181818181	N		True	False
+DB00836	DB02709	Loperamide	Resveratrol	0.5678488178488179	A		False	False
+DB06589	DB00313	Pazopanib	Valproic acid	0.5669590643274851	L	N	False	False
+DB08437	DB11582	Puromycin	Thiocolchicoside	0.5666666666666669		M	False	False
+DB08901	DB00514	Ponatinib	Dextromethorphan	0.5666666666666667	L	N, R	False	False
+DB00140	DB08896	Riboflavin	Regorafenib	0.5666666666666664	A, S	L	False	False
+DB08895	DB00831	Tofacitinib	Trifluoperazine	0.5666666666666664	L	N	False	False
+DB01205	DB00140	Flumazenil	Riboflavin	0.5666666666666664	V	A, S	False	False
+DB08877	DB00831	Ruxolitinib	Trifluoperazine	0.5666666666666664	L	N	False	False
+DB00313	DB00514	Valproic acid	Dextromethorphan	0.5638888888888887	N	N, R	True	False
+DB01244	DB08437	Bepridil	Puromycin	0.5636363636363635	C		False	False
+DB01100	DB08437	Pimozide	Puromycin	0.5625	N		False	False
+DB07374	DB11582	Anisomycin	Thiocolchicoside	0.5625		M	False	False
+DB03758	DB08437	Radicicol	Puromycin	0.5625			False	False
+DB07374	DB12742	Anisomycin	Amuvatinib	0.5614035087719296			False	False
+DB07374	DB01229	Anisomycin	Paclitaxel	0.5614035087719296		L	False	False
+DB03777	DB01069	Bisindolylmaleimide I	Promethazine	0.5606060606060606		V, R, D	False	False
+DB12695	DB00794	Phenethyl Isothiocyanate	Primidone	0.5606060606060606		N	False	False
+DB01205	DB07557	Flumazenil	3,20-Pregnanedione	0.5595238095238093	V		False	False
+DB03010	DB01244	Patupilone	Bepridil	0.5593073593073592		C	False	False
+DB01104	DB08437	Sertraline	Puromycin	0.5588235294117645	N		False	False
+DB01205	DB00831	Flumazenil	Trifluoperazine	0.5555555555555556	V	N	False	False
+DB01092	DB00313	Ouabain	Valproic acid	0.5555555555555556	C	N	False	False
+DB04513	DB00313	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Valproic acid	0.5555555555555556		N	False	False
+DB12500	DB00313	Fedratinib	Valproic acid	0.5555555555555556	L	N	False	False
+DB03566	DB00313	Spermidine	Valproic acid	0.5555555555555556		N	False	False
+DB07374	DB01104	Anisomycin	Sertraline	0.5555555555555554		N	False	False
+DB12742	DB08437	Amuvatinib	Puromycin	0.5555555555555554			False	False
+DB01229	DB08437	Paclitaxel	Puromycin	0.5555555555555554	L		False	False
+DB03010	DB00162	Patupilone	Vitamin A	0.5545454545454547		R, D, V, S, A	False	False
+DB00162	DB07780	Vitamin A	Farnesyl diphosphate	0.5545454545454547	R, D, V, S, A		False	False
+DB07780	DB01115	Farnesyl diphosphate	Nifedipine	0.5541666666666667		C	True	False
+DB00162	DB00570	Vitamin A	Vinblastine	0.5523809523809524	R, D, V, S, A	L	False	False
+DB07374	DB07780	Anisomycin	Farnesyl diphosphate	0.55			False	False
+DB04513	DB00818	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Propofol	0.55		N	False	False
+DB08080	DB00818	Latrunculin B	Propofol	0.55		N	False	False
+DB08399	DB00818	Piceatannol	Propofol	0.55		N	False	False
+DB07557	DB00570	3,20-Pregnanedione	Vinblastine	0.55		L	False	False
+DB00162	DB00818	Vitamin A	Propofol	0.5499999999999998	R, D, V, S, A	N	False	False
+DB12695	DB00162	Phenethyl Isothiocyanate	Vitamin A	0.5499999999999998		R, D, V, S, A	False	False
+DB00850	DB08895	Perphenazine	Tofacitinib	0.5476190476190477	N	L	False	False
+DB00850	DB08877	Perphenazine	Ruxolitinib	0.5476190476190477	N	L	False	False
+DB02659	DB00820	Cholic Acid	Tadalafil	0.5476190476190477	A	C, G	False	False
+DB08399	DB01244	Piceatannol	Bepridil	0.5461538461538462		C	False	False
+DB03010	DB11800	Patupilone	Tivozanib	0.5454545454545456		L	False	False
+DB11800	DB01069	Tivozanib	Promethazine	0.5454545454545454	L	V, R, D	False	False
+DB07374	DB00619	Anisomycin	Imatinib	0.5454545454545454		L	False	False
+DB07374	DB01115	Anisomycin	Nifedipine	0.5446428571428572		C	False	False
+DB12500	DB00162	Fedratinib	Vitamin A	0.5444444444444445	L	R, D, V, S, A	False	False
+DB04513	DB00162	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Vitamin A	0.5444444444444445		R, D, V, S, A	False	False
+DB01205	DB00162	Flumazenil	Vitamin A	0.5444444444444443	V	R, D, V, S, A	False	False
+DB04841	DB00541	Flunarizine	Vincristine	0.5428571428571427	N	L	False	False
+DB00836	DB04216	Loperamide	Quercetin	0.5418611889200124	A		False	False
+DB06777	DB00643	Chenodeoxycholic acid	Mebendazole	0.5416666666666665	A	P	False	False
+DB06777	DB00518	Chenodeoxycholic acid	Albendazole	0.5416666666666665	A	P	False	False
+DB00140	DB06080	Riboflavin	Linifanib	0.5416666666666665	A, S		False	False
+DB04216	DB00514	Quercetin	Dextromethorphan	0.5407407407407407		N, R	False	False
+DB04216	DB11582	Quercetin	Thiocolchicoside	0.5407407407407407		M	False	False
+DB11800	DB01645	Tivozanib	Genistein	0.5405011655011653	L		False	False
+DB04868	DB00313	Nilotinib	Valproic acid	0.5404040404040404	L	N	False	False
+DB00313	DB00518	Valproic acid	Albendazole	0.5404040404040404	N	P	False	False
+DB00313	DB00541	Valproic acid	Vincristine	0.5404040404040404	N	L	False	False
+DB00313	DB00643	Valproic acid	Mebendazole	0.5404040404040404	N	P	False	False
+DB05913	DB00836	OSI-930	Loperamide	0.5396825396825398		A	False	False
+DB00831	DB08901	Trifluoperazine	Ponatinib	0.538095238095238	N	L	False	False
+DB01115	DB08437	Nifedipine	Puromycin	0.5375000000000001	C		False	False
+DB00140	DB01268	Riboflavin	Sunitinib	0.5375000000000001	A, S	L	False	False
+DB03777	DB12695	Bisindolylmaleimide I	Phenethyl Isothiocyanate	0.5374999999999999			False	False
+DB03010	DB01115	Patupilone	Nifedipine	0.5367822966507176		C	False	False
+DB03010	DB08901	Patupilone	Ponatinib	0.5365967365967368		L	False	False
+DB01205	DB00477	Flumazenil	Chlorpromazine	0.5357142857142858	V	N	False	False
+DB08348	DB07557	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	3,20-Pregnanedione	0.5357142857142856			False	False
+DB00477	DB11582	Chlorpromazine	Thiocolchicoside	0.5357142857142856	N	M	False	False
+DB00140	DB00514	Riboflavin	Dextromethorphan	0.5352941176470589	A, S	N, R	False	False
+DB03777	DB02709	Bisindolylmaleimide I	Resveratrol	0.5342617152961979			False	False
+DB00850	DB00140	Perphenazine	Riboflavin	0.5333333333333337	N	A, S	False	False
+DB00773	DB00820	Etoposide	Tadalafil	0.5333333333333334	L	C, G	False	False
+DB00619	DB00570	Imatinib	Vinblastine	0.5333333333333334	L	L	False	False
+DB00380	DB00820	Dexrazoxane	Tadalafil	0.5333333333333334	V	C, G	False	False
+DB05022	DB00820	Amonafide	Tadalafil	0.5333333333333334		C, G	False	False
+DB00694	DB00820	Daunorubicin	Tadalafil	0.5333333333333334	L	C, G	False	False
+DB00518	DB00820	Albendazole	Tadalafil	0.5333333333333334	P	C, G	False	False
+DB00643	DB00820	Mebendazole	Tadalafil	0.5333333333333334	P	C, G	False	False
+DB02424	DB07780	Geldanamycin	Farnesyl diphosphate	0.5333333333333334			False	False
+DB04868	DB00820	Nilotinib	Tadalafil	0.5333333333333334	L	C, G	False	False
+DB00541	DB00820	Vincristine	Tadalafil	0.5333333333333334	L	C, G	False	False
+DB00850	DB00794	Perphenazine	Primidone	0.5333333333333332	N	N	False	False
+DB00313	DB11800	Valproic acid	Tivozanib	0.5313131313131312	N	L	False	False
+DB04216	DB01268	Quercetin	Sunitinib	0.5306216931216932		L	False	False
+DB01268	DB11582	Sunitinib	Thiocolchicoside	0.5284090909090908	L	M	False	False
+DB00850	DB06595	Perphenazine	Midostaurin	0.5277777777777777	N	L	False	False
+DB06080	DB11582	Linifanib	Thiocolchicoside	0.5277777777777777		M	False	False
+DB03777	DB06595	Bisindolylmaleimide I	Midostaurin	0.5277777777777777		L	False	False
+DB08896	DB01115	Regorafenib	Nifedipine	0.5272435897435896	L	C	False	False
+DB03010	DB08896	Patupilone	Regorafenib	0.5263845350052245		L	False	False
+DB07780	DB08437	Farnesyl diphosphate	Puromycin	0.5263157894736843			False	False
+DB06595	DB01069	Midostaurin	Promethazine	0.5262923351158646	L	V, R, D	False	False
+DB03010	DB08399	Patupilone	Piceatannol	0.525974025974026			False	False
+DB00836	DB00313	Loperamide	Valproic acid	0.5257936507936507	A	N	True	False
+DB07557	DB11800	3,20-Pregnanedione	Tivozanib	0.5257575757575759		L	False	False
+DB01100	DB02709	Pimozide	Resveratrol	0.5256410256410255	N		False	False
+DB02709	DB02659	Resveratrol	Cholic Acid	0.5253877328345413		A	True	False
+DB00619	DB08437	Imatinib	Puromycin	0.5238095238095237	L		False	False
+DB00694	DB01645	Daunorubicin	Genistein	0.5230769230769232	L		False	False
+DB00773	DB01645	Etoposide	Genistein	0.5230769230769232	L		False	False
+DB05022	DB01645	Amonafide	Genistein	0.5230769230769232			False	False
+DB00380	DB01645	Dexrazoxane	Genistein	0.5230769230769232	V		False	False
+DB00313	DB00818	Valproic acid	Propofol	0.5222222222222221	N	N	False	False
+DB01205	DB00514	Flumazenil	Dextromethorphan	0.5222222222222221	V	N, R	False	False
+DB03566	DB00514	Spermidine	Dextromethorphan	0.5222222222222221		N, R	False	False
+DB06080	DB04216	Linifanib	Quercetin	0.521043771043771			False	False
+DB03777	DB01115	Bisindolylmaleimide I	Nifedipine	0.5208333333333335		C	False	False
+DB02424	DB07374	Geldanamycin	Anisomycin	0.5208333333333335			False	False
+DB12695	DB07557	Phenethyl Isothiocyanate	3,20-Pregnanedione	0.5200680272108844			False	False
+DB04513	DB06777	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Chenodeoxycholic acid	0.5178571428571428		A	False	False
+DB01205	DB12695	Flumazenil	Phenethyl Isothiocyanate	0.5166666666666668	V		False	False
+DB01104	DB06589	Sertraline	Pazopanib	0.5166666666666668	N	L	False	False
+DB00619	DB00162	Imatinib	Vitamin A	0.5166666666666668	L	R, D, V, S, A	False	False
+DB00831	DB07557	Trifluoperazine	3,20-Pregnanedione	0.5166666666666666	N		False	False
+DB01104	DB01268	Sertraline	Sunitinib	0.5144230769230771	N	L	True	False
+DB11800	DB01244	Tivozanib	Bepridil	0.5138528138528136	L	C	False	False
+DB00140	DB02709	Riboflavin	Resveratrol	0.5137362637362639	A, S		False	False
+DB07080	DB04216	TO-901317	Quercetin	0.5134680134680134			False	False
+DB12742	DB07780	Amuvatinib	Farnesyl diphosphate	0.5128205128205128			False	False
+DB01229	DB07780	Paclitaxel	Farnesyl diphosphate	0.5128205128205128	L		False	False
+DB01104	DB00836	Sertraline	Loperamide	0.5119047619047621	N	A	False	False
+DB12742	DB01069	Amuvatinib	Promethazine	0.5115864527629235		V, R, D	False	False
+DB02709	DB11582	Resveratrol	Thiocolchicoside	0.5112732095490717		M	False	False
+DB01100	DB02659	Pimozide	Cholic Acid	0.5109523809523808	N	A	False	False
+DB00831	DB02659	Trifluoperazine	Cholic Acid	0.5105820105820105	N	A	False	False
+DB06589	DB00162	Pazopanib	Vitamin A	0.5099999999999998	L	R, D, V, S, A	False	False
+DB11800	DB00162	Tivozanib	Vitamin A	0.509090909090909	L	R, D, V, S, A	False	False
+DB00477	DB00818	Chlorpromazine	Propofol	0.508791208791209	N	N	False	False
+DB07374	DB00831	Anisomycin	Trifluoperazine	0.5087719298245612		N	False	False
+DB00313	DB00477	Valproic acid	Chlorpromazine	0.5079365079365079	N	N	False	False
+DB07557	DB00162	3,20-Pregnanedione	Vitamin A	0.5078947368421054		R, D, V, S, A	False	False
+DB00850	DB04216	Perphenazine	Quercetin	0.5074074074074075	N		False	False
+DB03566	DB04216	Spermidine	Quercetin	0.5074074074074075			False	False
+DB11800	DB00477	Tivozanib	Chlorpromazine	0.5073051948051948	L	N	False	False
+DB08901	DB00794	Ponatinib	Primidone	0.5066666666666666	L	N	False	False
+DB00850	DB01645	Perphenazine	Genistein	0.5064102564102564	N		False	False
+DB12500	DB01645	Fedratinib	Genistein	0.5064102564102564	L		False	False
+DB01100	DB08901	Pimozide	Ponatinib	0.5061403508771931	N	L	False	False
+DB07557	DB08901	3,20-Pregnanedione	Ponatinib	0.5061403508771931		L	False	False
+DB04216	DB06589	Quercetin	Pazopanib	0.5060560560560561		L	False	False
+DB08896	DB01069	Regorafenib	Promethazine	0.5060083594566354	L	V, R, D	False	False
+DB08399	DB02659	Piceatannol	Cholic Acid	0.5059523809523809		A	False	False
+DB06777	DB00794	Chenodeoxycholic acid	Primidone	0.5035714285714283	A	N	False	False
+DB02709	DB00794	Resveratrol	Primidone	0.5034188034188034		N	False	False
+DB06589	DB02709	Pazopanib	Resveratrol	0.5034188034188034	L		False	False
+DB00836	DB01645	Loperamide	Genistein	0.5016483516483516	A		False	False
+DB02709	DB11800	Resveratrol	Tivozanib	0.5000472500472499		L	False	False
+DB02424	DB08437	Geldanamycin	Puromycin	0.5000000000000002			False	False
+DB12500	DB04513	Fedratinib	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.5000000000000002	L		False	False
+DB01092	DB03566	Ouabain	Spermidine	0.5000000000000002	C		False	False
+DB04513	DB03566	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Spermidine	0.5000000000000002			False	False
+DB03777	DB00619	Bisindolylmaleimide I	Imatinib	0.5000000000000002		L	False	False
+DB00850	DB12742	Perphenazine	Amuvatinib	0.5	N		False	False
+DB00541	DB11582	Vincristine	Thiocolchicoside	0.5	L	M	False	False
+DB08080	DB00518	Latrunculin B	Albendazole	0.5		P	False	False
+DB08399	DB00140	Piceatannol	Riboflavin	0.5		A, S	False	False
+DB01205	DB12500	Flumazenil	Fedratinib	0.5	V	L	False	False
+DB08895	DB11582	Tofacitinib	Thiocolchicoside	0.5	L	M	False	False
+DB08080	DB07780	Latrunculin B	Farnesyl diphosphate	0.5			False	False
+DB08895	DB00541	Tofacitinib	Vincristine	0.5	L	L	False	False
+DB08348	DB12500	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Fedratinib	0.5		L	False	False
+DB08399	DB08080	Piceatannol	Latrunculin B	0.5			False	False
+DB01205	DB03777	Flumazenil	Bisindolylmaleimide I	0.5	V		False	False
+DB01205	DB03566	Flumazenil	Spermidine	0.5	V		False	False
+DB01100	DB08895	Pimozide	Tofacitinib	0.5	N	L	False	False
+DB01100	DB08877	Pimozide	Ruxolitinib	0.5	N	L	False	False
+DB00140	DB00643	Riboflavin	Mebendazole	0.5	A, S	P	False	False
+DB00140	DB00619	Riboflavin	Imatinib	0.5	A, S	L	False	False
+DB07594	DB11582	CCT-018159	Thiocolchicoside	0.5		M	False	False
+DB01104	DB00619	Sertraline	Imatinib	0.5	N	L	False	False
+DB00140	DB00541	Riboflavin	Vincristine	0.5	A, S	L	False	False
+DB01104	DB00570	Sertraline	Vinblastine	0.5	N	L	False	False
+DB07080	DB11582	TO-901317	Thiocolchicoside	0.5		M	False	False
+DB07594	DB05913	CCT-018159	OSI-930	0.5			False	False
+DB00140	DB08877	Riboflavin	Ruxolitinib	0.5	A, S	L	False	False
+DB08877	DB01104	Ruxolitinib	Sertraline	0.5	L	N	False	False
+DB00850	DB01205	Perphenazine	Flumazenil	0.5	N	V	False	False
+DB00140	DB08437	Riboflavin	Puromycin	0.5	A, S		False	False
+DB04868	DB11582	Nilotinib	Thiocolchicoside	0.5	L	M	False	False
+DB12500	DB01229	Fedratinib	Paclitaxel	0.5	L	L	False	False
+DB00140	DB07780	Riboflavin	Farnesyl diphosphate	0.5	A, S		False	False
+DB08877	DB06777	Ruxolitinib	Chenodeoxycholic acid	0.5	L	A	False	False
+DB00140	DB08895	Riboflavin	Tofacitinib	0.5	A, S	L	False	False
+DB08895	DB06777	Tofacitinib	Chenodeoxycholic acid	0.5	L	A	False	False
+DB08080	DB07080	Latrunculin B	TO-901317	0.5			False	False
+DB08080	DB08895	Latrunculin B	Tofacitinib	0.5		L	False	False
+DB08080	DB08877	Latrunculin B	Ruxolitinib	0.5		L	False	False
+DB00619	DB11582	Imatinib	Thiocolchicoside	0.5	L	M	False	False
+DB05022	DB00615	Amonafide	Rifabutin	0.5		J	False	False
+DB05022	DB11582	Amonafide	Thiocolchicoside	0.5		M	False	False
+DB00694	DB11582	Daunorubicin	Thiocolchicoside	0.5	L	M	False	False
+DB00380	DB05913	Dexrazoxane	OSI-930	0.5	V		False	False
+DB00380	DB04868	Dexrazoxane	Nilotinib	0.5	V	L	True	False
+DB01092	DB00615	Ouabain	Rifabutin	0.5	C	J	False	False
+DB07374	DB00140	Anisomycin	Riboflavin	0.5		A, S	False	False
+DB07374	DB08080	Anisomycin	Latrunculin B	0.5			False	False
+DB05022	DB05913	Amonafide	OSI-930	0.5			False	False
+DB05022	DB04868	Amonafide	Nilotinib	0.5		L	False	False
+DB00773	DB00615	Etoposide	Rifabutin	0.5	L	J	False	False
+DB05022	DB00140	Amonafide	Riboflavin	0.5		A, S	False	False
+DB01244	DB00794	Bepridil	Primidone	0.5	C	N	False	False
+DB08080	DB00570	Latrunculin B	Vinblastine	0.5		L	False	False
+DB08080	DB00643	Latrunculin B	Mebendazole	0.5		P	False	False
+DB08080	DB00541	Latrunculin B	Vincristine	0.5		L	False	False
+DB08080	DB08437	Latrunculin B	Puromycin	0.5			False	False
+DB00140	DB00518	Riboflavin	Albendazole	0.5	A, S	P	False	False
+DB00140	DB00570	Riboflavin	Vinblastine	0.5	A, S	L	False	False
+DB05134	DB11582	Tanespimycin	Thiocolchicoside	0.5		M	False	False
+DB08895	DB01104	Tofacitinib	Sertraline	0.5	L	N	False	False
+DB08348	DB07080	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	TO-901317	0.5			False	False
+DB07594	DB07080	CCT-018159	TO-901317	0.5			False	False
+DB07594	DB00140	CCT-018159	Riboflavin	0.5		A, S	False	False
+DB07594	DB08080	CCT-018159	Latrunculin B	0.5			False	False
+DB05134	DB00140	Tanespimycin	Riboflavin	0.5		A, S	False	False
+DB05134	DB08080	Tanespimycin	Latrunculin B	0.5			False	False
+DB05134	DB05913	Tanespimycin	OSI-930	0.5			False	False
+DB00514	DB00818	Dextromethorphan	Propofol	0.5	N, R	N	True	False
+DB05134	DB07080	Tanespimycin	TO-901317	0.5			False	False
+DB01092	DB00140	Ouabain	Riboflavin	0.5	C	A, S	False	False
+DB01092	DB08080	Ouabain	Latrunculin B	0.5	C		False	False
+DB05913	DB01092	OSI-930	Ouabain	0.5		C	False	False
+DB05913	DB04513	OSI-930	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.5			False	False
+DB05913	DB07374	OSI-930	Anisomycin	0.5			False	False
+DB08399	DB11582	Piceatannol	Thiocolchicoside	0.5		M	False	False
+DB05913	DB08399	OSI-930	Piceatannol	0.5			False	False
+DB00850	DB08348	Perphenazine	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.5	N		False	False
+DB00694	DB00615	Daunorubicin	Rifabutin	0.5	L	J	False	False
+DB04868	DB00140	Nilotinib	Riboflavin	0.5	L	A, S	False	False
+DB05913	DB00643	OSI-930	Mebendazole	0.5		P	False	False
+DB05913	DB00541	OSI-930	Vincristine	0.5		L	False	False
+DB05913	DB08437	OSI-930	Puromycin	0.5			False	False
+DB12500	DB08080	Fedratinib	Latrunculin B	0.5	L		False	False
+DB03566	DB12742	Spermidine	Amuvatinib	0.5			False	False
+DB03566	DB01229	Spermidine	Paclitaxel	0.5		L	False	False
+DB00619	DB00313	Imatinib	Valproic acid	0.5	L	N	True	False
+DB04868	DB08348	Nilotinib	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.5	L		False	False
+DB05913	DB00518	OSI-930	Albendazole	0.5		P	False	False
+DB05913	DB00570	OSI-930	Vinblastine	0.5		L	False	False
+DB05913	DB07780	OSI-930	Farnesyl diphosphate	0.5			False	False
+DB05913	DB07080	OSI-930	TO-901317	0.5			False	False
+DB00380	DB00615	Dexrazoxane	Rifabutin	0.5	V	J	False	False
+DB00694	DB00140	Daunorubicin	Riboflavin	0.5	L	A, S	False	False
+DB00380	DB11582	Dexrazoxane	Thiocolchicoside	0.5	V	M	False	False
+DB00694	DB05913	Daunorubicin	OSI-930	0.5	L		False	False
+DB08877	DB11582	Ruxolitinib	Thiocolchicoside	0.5	L	M	False	False
+DB01092	DB01104	Ouabain	Sertraline	0.5	C	N	False	False
+DB00831	DB08896	Trifluoperazine	Regorafenib	0.5	N	L	False	False
+DB00380	DB00140	Dexrazoxane	Riboflavin	0.5	V	A, S	False	False
+DB00773	DB00140	Etoposide	Riboflavin	0.5	L	A, S	False	False
+DB00773	DB05913	Etoposide	OSI-930	0.5	L		False	False
+DB00773	DB04868	Etoposide	Nilotinib	0.5	L	L	False	False
+DB00773	DB11582	Etoposide	Thiocolchicoside	0.5	L	M	False	False
+DB08877	DB00541	Ruxolitinib	Vincristine	0.5	L	L	True	False
+DB00694	DB04868	Daunorubicin	Nilotinib	0.5	L	L	False	False
+DB08896	DB00570	Regorafenib	Vinblastine	0.4999999999999998	L	L	False	False
+DB00831	DB08437	Trifluoperazine	Puromycin	0.4999999999999998	N		False	False
+DB02659	DB01115	Cholic Acid	Nifedipine	0.4994868637110017	A	C	False	False
+DB04841	DB06080	Flunarizine	Linifanib	0.4984848484848481	N		False	False
+DB02709	DB00514	Resveratrol	Dextromethorphan	0.4984052532833021		N, R	False	False
+DB04216	DB08437	Quercetin	Puromycin	0.4971509971509971			False	False
+DB12695	DB03566	Phenethyl Isothiocyanate	Spermidine	0.49583333333333335			False	False
+DB00794	DB00820	Primidone	Tadalafil	0.4948717948717949	N	C, G	False	False
+DB00850	DB06777	Perphenazine	Chenodeoxycholic acid	0.49404761904761907	N	A	False	False
+DB01268	DB00162	Sunitinib	Vitamin A	0.4940217391304349	L	R, D, V, S, A	False	False
+DB02709	DB00477	Resveratrol	Chlorpromazine	0.49397942483048873		N	False	False
+DB04841	DB01268	Flunarizine	Sunitinib	0.49134615384615365	N	L	True	False
+DB12500	DB01069	Fedratinib	Promethazine	0.48917748917748916	L	V, R, D	False	False
+DB01069	DB00820	Promethazine	Tadalafil	0.48917748917748893	V, R, D	C, G	False	False
+DB03777	DB00162	Bisindolylmaleimide I	Vitamin A	0.4888888888888887		R, D, V, S, A	False	False
+DB01115	DB00818	Nifedipine	Propofol	0.48750000000000004	C	N	True	False
+DB00140	DB01115	Riboflavin	Nifedipine	0.4874999999999998	A, S	C	False	False
+DB05134	DB12695	Tanespimycin	Phenethyl Isothiocyanate	0.4865248226950354			False	False
+DB07594	DB12695	CCT-018159	Phenethyl Isothiocyanate	0.4865248226950354			False	False
+DB00140	DB11800	Riboflavin	Tivozanib	0.48601398601398627	A, S	L	False	False
+DB01645	DB11582	Genistein	Thiocolchicoside	0.48557692307692313		M	False	False
+DB08399	DB01645	Piceatannol	Genistein	0.48557692307692313			False	False
+DB00619	DB02709	Imatinib	Resveratrol	0.4851648351648352	L		False	False
+DB01100	DB08896	Pimozide	Regorafenib	0.48484848484848464	N	L	False	False
+DB07594	DB00836	CCT-018159	Loperamide	0.4841269841269842		A	False	False
+DB05134	DB00836	Tanespimycin	Loperamide	0.4841269841269842		A	False	False
+DB04841	DB06589	Flunarizine	Pazopanib	0.48333333333333317	N	L	False	False
+DB07374	DB04216	Anisomycin	Quercetin	0.4824074074074074			False	False
+DB12695	DB12742	Phenethyl Isothiocyanate	Amuvatinib	0.48235294117647065			False	False
+DB11800	DB11582	Tivozanib	Thiocolchicoside	0.4805194805194808	L	M	False	False
+DB02709	DB01069	Resveratrol	Promethazine	0.48039123039123033		V, R, D	False	False
+DB01100	DB12695	Pimozide	Phenethyl Isothiocyanate	0.4792517006802721	N		False	False
+DB03010	DB01205	Patupilone	Flumazenil	0.4783549783549783		V	False	False
+DB05913	DB00514	OSI-930	Dextromethorphan	0.476470588235294		N, R	False	False
+DB08877	DB00820	Ruxolitinib	Tadalafil	0.47619047619047605	L	C, G	False	False
+DB08895	DB00820	Tofacitinib	Tadalafil	0.47619047619047605	L	C, G	False	False
+DB07557	DB01104	3,20-Pregnanedione	Sertraline	0.4722222222222223		N	False	False
+DB01205	DB00313	Flumazenil	Valproic acid	0.4722222222222223	V	N	False	False
+DB08399	DB06595	Piceatannol	Midostaurin	0.4722222222222221		L	False	False
+DB12742	DB00514	Amuvatinib	Dextromethorphan	0.4666666666666668		N, R	False	False
+DB01229	DB00818	Paclitaxel	Propofol	0.4666666666666668	L	N	False	False
+DB01229	DB00514	Paclitaxel	Dextromethorphan	0.4666666666666668	L	N, R	False	False
+DB00140	DB08901	Riboflavin	Ponatinib	0.4666666666666668	A, S	L	False	False
+DB12742	DB00818	Amuvatinib	Propofol	0.4666666666666668		N	False	False
+DB00850	DB00514	Perphenazine	Dextromethorphan	0.46666666666666656	N	N, R	True	False
+DB07557	DB06595	3,20-Pregnanedione	Midostaurin	0.46666666666666656		L	False	False
+DB08901	DB00162	Ponatinib	Vitamin A	0.46666666666666656	L	R, D, V, S, A	False	False
+DB08877	DB01229	Ruxolitinib	Paclitaxel	0.46666666666666656	L	L	False	False
+DB01100	DB06595	Pimozide	Midostaurin	0.46666666666666656	N	L	False	False
+DB08895	DB01229	Tofacitinib	Paclitaxel	0.46666666666666656	L	L	False	False
+DB12695	DB02659	Phenethyl Isothiocyanate	Cholic Acid	0.4658008658008659		A	False	False
+DB07780	DB01244	Farnesyl diphosphate	Bepridil	0.4647058823529411		C	True	False
+DB02424	DB02659	Geldanamycin	Cholic Acid	0.4642857142857144		A	False	False
+DB04513	DB03758	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Radicicol	0.4642857142857142			False	False
+DB08896	DB11582	Regorafenib	Thiocolchicoside	0.46428571428571397	L	M	False	False
+DB03566	DB00836	Spermidine	Loperamide	0.4619047619047618		A	False	False
+DB01115	DB11582	Nifedipine	Thiocolchicoside	0.46022727272727293	C	M	False	False
+DB05913	DB00477	OSI-930	Chlorpromazine	0.45962732919254634		N	False	False
+DB03777	DB01104	Bisindolylmaleimide I	Sertraline	0.4583333333333335		N	False	False
+DB05913	DB01069	OSI-930	Promethazine	0.45804195804195813		V, R, D	False	False
+DB01104	DB02659	Sertraline	Cholic Acid	0.457875457875458	N	A	False	False
+DB12500	DB01244	Fedratinib	Bepridil	0.45641025641025634	L	C	False	False
+DB00140	DB12695	Riboflavin	Phenethyl Isothiocyanate	0.45460992907801434	A, S		False	False
+DB05913	DB12695	OSI-930	Phenethyl Isothiocyanate	0.45460992907801434			False	False
+DB03010	DB00140	Patupilone	Riboflavin	0.4545454545454546		A, S	False	False
+DB03010	DB05913	Patupilone	OSI-930	0.4545454545454546			False	False
+DB03010	DB08080	Patupilone	Latrunculin B	0.4545454545454546			False	False
+DB00313	DB08896	Valproic acid	Regorafenib	0.4537037037037037	N	L	False	False
+DB00477	DB00794	Chlorpromazine	Primidone	0.45345622119815676	N	N	False	False
+DB01229	DB01069	Paclitaxel	Promethazine	0.45276292335115853	L	V, R, D	False	False
+DB00831	DB02709	Trifluoperazine	Resveratrol	0.45272435897435903	N		False	False
+DB04513	DB00477	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Chlorpromazine	0.45238095238095233		N	False	False
+DB02659	DB01645	Cholic Acid	Genistein	0.45108812755871575	A		False	False
+DB08895	DB06589	Tofacitinib	Pazopanib	0.44999999999999996	L	L	False	False
+DB08348	DB06589	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Pazopanib	0.44999999999999996		L	False	False
+DB01100	DB00794	Pimozide	Primidone	0.44999999999999996	N	N	False	False
+DB07594	DB01244	CCT-018159	Bepridil	0.44999999999999996		C	False	False
+DB05134	DB01244	Tanespimycin	Bepridil	0.44999999999999996		C	False	False
+DB08877	DB06589	Ruxolitinib	Pazopanib	0.44999999999999996	L	L	False	False
+DB07557	DB01244	3,20-Pregnanedione	Bepridil	0.44999999999999996		C	False	False
+DB00514	DB00477	Dextromethorphan	Chlorpromazine	0.446825396825397	N, R	N	False	False
+DB08901	DB00477	Ponatinib	Chlorpromazine	0.4468253968253968	L	N	False	False
+DB08896	DB00477	Regorafenib	Chlorpromazine	0.44597069597069594	L	N	False	False
+DB03010	DB12742	Patupilone	Amuvatinib	0.44474153297682695			False	False
+DB04513	DB01229	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Paclitaxel	0.4444444444444442		L	False	False
+DB00514	DB01115	Dextromethorphan	Nifedipine	0.44402173913043486	N, R	C	False	False
+DB12695	DB00541	Phenethyl Isothiocyanate	Vincristine	0.44397163120567384		L	False	False
+DB06595	DB00818	Midostaurin	Propofol	0.4439393939393941	L	N	False	False
+DB03777	DB01645	Bisindolylmaleimide I	Genistein	0.4439102564102564			False	False
+DB01205	DB01244	Flumazenil	Bepridil	0.4435897435897438	V	C	False	False
+DB06595	DB00477	Midostaurin	Chlorpromazine	0.443121693121693	L	N	False	False
+DB08901	DB00570	Ponatinib	Vinblastine	0.44285714285714306	L	L	False	False
+DB05913	DB00818	OSI-930	Propofol	0.44285714285714284		N	False	False
+DB05913	DB02709	OSI-930	Resveratrol	0.4423076923076923			False	False
+DB07594	DB02709	CCT-018159	Resveratrol	0.4423076923076923			False	False
+DB05134	DB02709	Tanespimycin	Resveratrol	0.4423076923076923			False	False
+DB01645	DB01069	Genistein	Promethazine	0.44201631701631716		V, R, D	False	False
+DB00831	DB06777	Trifluoperazine	Chenodeoxycholic acid	0.44166666666666643	N	A	False	False
+DB06777	DB00477	Chenodeoxycholic acid	Chlorpromazine	0.4407142857142854	A	N	False	False
+DB00850	DB07557	Perphenazine	3,20-Pregnanedione	0.4404761904761907	N		False	False
+DB06595	DB00313	Midostaurin	Valproic acid	0.4388888888888889	L	N	False	False
+DB06777	DB00514	Chenodeoxycholic acid	Dextromethorphan	0.4381578947368421	A	N, R	False	False
+DB01100	DB01645	Pimozide	Genistein	0.43778280542986425	N		False	False
+DB08348	DB01268	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Sunitinib	0.4375		L	False	False
+DB03010	DB02709	Patupilone	Resveratrol	0.43739368739368745			False	False
+DB00619	DB01244	Imatinib	Bepridil	0.4368421052631579	L	C	True	False
+DB08901	DB01115	Ponatinib	Nifedipine	0.4367753623188406	L	C	False	False
+DB00313	DB02659	Valproic acid	Cholic Acid	0.4365079365079365	N	A	False	False
+DB07594	DB00850	CCT-018159	Perphenazine	0.43333333333333357		N	False	False
+DB03566	DB00643	Spermidine	Mebendazole	0.43333333333333357		P	False	False
+DB03566	DB00518	Spermidine	Albendazole	0.43333333333333357		P	False	False
+DB05134	DB00850	Tanespimycin	Perphenazine	0.43333333333333357		N	False	False
+DB03566	DB00162	Spermidine	Vitamin A	0.43333333333333335		R, D, V, S, A	False	False
+DB04841	DB00794	Flunarizine	Primidone	0.43333333333333335	N	N	False	False
+DB00162	DB00514	Vitamin A	Dextromethorphan	0.4333333333333331	R, D, V, S, A	N, R	False	False
+DB01244	DB11582	Bepridil	Thiocolchicoside	0.4307692307692308	C	M	False	False
+DB12500	DB01115	Fedratinib	Nifedipine	0.42992424242424265	L	C	False	False
+DB00831	DB00794	Trifluoperazine	Primidone	0.4291666666666667	N	N	False	False
+DB00140	DB00836	Riboflavin	Loperamide	0.4285714285714286	A, S	A	False	False
+DB08348	DB00836	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Loperamide	0.4285714285714286		A	False	False
+DB08080	DB00836	Latrunculin B	Loperamide	0.4285714285714286		A	False	False
+DB03010	DB00313	Patupilone	Valproic acid	0.4267676767676769		N	False	False
+DB08348	DB00818	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Propofol	0.42500000000000004		N	False	False
+DB06595	DB00162	Midostaurin	Vitamin A	0.42142857142857126	L	R, D, V, S, A	False	False
+DB00162	DB00794	Vitamin A	Primidone	0.41999999999999993	R, D, V, S, A	N	False	False
+DB02659	DB01244	Cholic Acid	Bepridil	0.41966205837173565	A	C	False	False
+DB03566	DB01069	Spermidine	Promethazine	0.41774891774891776		V, R, D	False	False
+DB03758	DB00518	Radicicol	Albendazole	0.41666666666666674		P	False	False
+DB03758	DB00541	Radicicol	Vincristine	0.41666666666666674		L	False	False
+DB03758	DB00643	Radicicol	Mebendazole	0.41666666666666674		P	False	False
+DB01104	DB08901	Sertraline	Ponatinib	0.41666666666666674	N	L	False	False
+DB01100	DB12742	Pimozide	Amuvatinib	0.4166666666666665	N		False	False
+DB00140	DB06595	Riboflavin	Midostaurin	0.4166666666666665	A, S	L	False	False
+DB01205	DB01100	Flumazenil	Pimozide	0.4166666666666665	V	N	False	False
+DB12742	DB00518	Amuvatinib	Albendazole	0.4166666666666665		P	False	False
+DB05134	DB00831	Tanespimycin	Trifluoperazine	0.4166666666666665		N	False	False
+DB07594	DB00831	CCT-018159	Trifluoperazine	0.4166666666666665		N	False	False
+DB08895	DB08896	Tofacitinib	Regorafenib	0.4166666666666665	L	L	False	False
+DB08877	DB08896	Ruxolitinib	Regorafenib	0.4166666666666665	L	L	False	False
+DB07557	DB12742	3,20-Pregnanedione	Amuvatinib	0.4166666666666665			False	False
+DB08348	DB06080	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Linifanib	0.4166666666666665			False	False
+DB04868	DB01229	Nilotinib	Paclitaxel	0.4166666666666665	L	L	False	False
+DB12742	DB00643	Amuvatinib	Mebendazole	0.4166666666666665		P	False	False
+DB00140	DB07557	Riboflavin	3,20-Pregnanedione	0.4166666666666665	A, S		False	False
+DB07594	DB03010	CCT-018159	Patupilone	0.41608391608391604			False	False
+DB05134	DB03010	Tanespimycin	Patupilone	0.41608391608391604			False	False
+DB03758	DB00477	Radicicol	Chlorpromazine	0.4157142857142855		N	False	False
+DB12742	DB00477	Amuvatinib	Chlorpromazine	0.41534391534391535		N	False	False
+DB01229	DB00477	Paclitaxel	Chlorpromazine	0.41534391534391535	L	N	False	False
+DB02709	DB00820	Resveratrol	Tadalafil	0.413572060123784		C, G	False	False
+DB00514	DB01069	Dextromethorphan	Promethazine	0.4118881118881119	N, R	V, R, D	False	True
+DB08348	DB00514	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Dextromethorphan	0.4111111111111112		N, R	False	False
+DB08080	DB00514	Latrunculin B	Dextromethorphan	0.4111111111111112		N, R	False	False
+DB00514	DB00820	Dextromethorphan	Tadalafil	0.411111111111111	N, R	C, G	False	False
+DB07080	DB02709	TO-901317	Resveratrol	0.4110576923076923			False	False
+DB02424	DB00477	Geldanamycin	Chlorpromazine	0.4107142857142858		N	False	False
+DB00477	DB00820	Chlorpromazine	Tadalafil	0.4107142857142856	N	C, G	True	False
+DB03010	DB01069	Patupilone	Promethazine	0.40909090909090917		V, R, D	False	False
+DB08348	DB11800	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Tivozanib	0.40909090909090917		L	False	False
+DB03777	DB04216	Bisindolylmaleimide I	Quercetin	0.40740740740740766			False	False
+DB00140	DB04216	Riboflavin	Quercetin	0.40740740740740744	A, S		False	False
+DB03758	DB00162	Radicicol	Vitamin A	0.4026315789473687		R, D, V, S, A	False	False
+DB00694	DB04841	Daunorubicin	Flunarizine	0.3999999999999999	L	N	False	False
+DB05022	DB04841	Amonafide	Flunarizine	0.3999999999999999		N	False	False
+DB00773	DB04841	Etoposide	Flunarizine	0.3999999999999999	L	N	False	False
+DB00380	DB04841	Dexrazoxane	Flunarizine	0.3999999999999999	V	N	False	False
+DB04868	DB04841	Nilotinib	Flunarizine	0.3999999999999999	L	N	False	False
+DB12695	DB08901	Phenethyl Isothiocyanate	Ponatinib	0.3999999999999999		L	False	False
+DB04841	DB00570	Flunarizine	Vinblastine	0.3999999999999999	N	L	False	False
+DB04841	DB00619	Flunarizine	Imatinib	0.3999999999999999	N	L	False	False
+DB08399	DB04841	Piceatannol	Flunarizine	0.3999999999999999		N	False	False
+DB08895	DB04841	Tofacitinib	Flunarizine	0.3999999999999999	L	N	False	False
+DB04841	DB00518	Flunarizine	Albendazole	0.3999999999999999	N	P	False	False
+DB08877	DB04841	Ruxolitinib	Flunarizine	0.3999999999999999	L	N	False	False
+DB04841	DB00643	Flunarizine	Mebendazole	0.3999999999999999	N	P	False	False
+DB08399	DB00643	Piceatannol	Mebendazole	0.3999999999999999		P	False	False
+DB08399	DB00518	Piceatannol	Albendazole	0.3999999999999999		P	False	False
+DB01092	DB04841	Ouabain	Flunarizine	0.3999999999999999	C	N	False	False
+DB06595	DB04216	Midostaurin	Quercetin	0.39983164983164965	L		False	False
+DB01100	DB04216	Pimozide	Quercetin	0.3993428912783752	N		False	False
+DB12500	DB06589	Fedratinib	Pazopanib	0.39871794871794863	L	L	False	False
+DB06777	DB00818	Chenodeoxycholic acid	Propofol	0.39722222222222237	A	N	False	False
+DB00313	DB08901	Valproic acid	Ponatinib	0.39722222222222214	N	L	False	False
+DB01645	DB00570	Genistein	Vinblastine	0.39676113360323884		L	False	False
+DB03010	DB00477	Patupilone	Chlorpromazine	0.3965097402597402		N	False	False
+DB12695	DB00619	Phenethyl Isothiocyanate	Imatinib	0.39629629629629637		L	False	False
+DB06777	DB01268	Chenodeoxycholic acid	Sunitinib	0.3958333333333335	A	L	False	False
+DB00162	DB08896	Vitamin A	Regorafenib	0.3954545454545455	R, D, V, S, A	L	False	False
+DB04216	DB11800	Quercetin	Tivozanib	0.39544568491936927		L	False	False
+DB06777	DB00836	Chenodeoxycholic acid	Loperamide	0.39448051948051943	A	A	False	False
+DB05913	DB00162	OSI-930	Vitamin A	0.39411764705882346		R, D, V, S, A	False	False
+DB08080	DB07557	Latrunculin B	3,20-Pregnanedione	0.3928571428571428			False	False
+DB08348	DB01100	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Pimozide	0.3928571428571428		N	False	False
+DB01100	DB11582	Pimozide	Thiocolchicoside	0.3928571428571428	N	M	True	False
+DB04216	DB02659	Quercetin	Cholic Acid	0.3925264550264551		A	False	False
+DB02709	DB01244	Resveratrol	Bepridil	0.39230769230769225		C	False	False
+DB00836	DB00162	Loperamide	Vitamin A	0.392207792207792	A	R, D, V, S, A	False	False
+DB03758	DB00514	Radicicol	Dextromethorphan	0.39210526315789473		N, R	False	False
+DB06777	DB06080	Chenodeoxycholic acid	Linifanib	0.3916666666666666	A		False	False
+DB06595	DB01115	Midostaurin	Nifedipine	0.38988095238095233	L	C	False	False
+DB07594	DB01645	CCT-018159	Genistein	0.3897435897435897			False	False
+DB05134	DB01645	Tanespimycin	Genistein	0.3897435897435897			False	False
+DB08399	DB00313	Piceatannol	Valproic acid	0.38888888888888906		N	False	False
+DB03566	DB00570	Spermidine	Vinblastine	0.38888888888888906		L	False	False
+DB00850	DB00313	Perphenazine	Valproic acid	0.38888888888888884	N	N	True	False
+DB00831	DB11582	Trifluoperazine	Thiocolchicoside	0.38888888888888884	N	M	True	False
+DB12500	DB00831	Fedratinib	Trifluoperazine	0.38888888888888884	L	N	False	False
+DB08348	DB00831	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Trifluoperazine	0.38888888888888884		N	False	False
+DB00831	DB03566	Trifluoperazine	Spermidine	0.38888888888888884	N		False	False
+DB03777	DB00313	Bisindolylmaleimide I	Valproic acid	0.38888888888888884		N	False	False
+DB00818	DB00820	Propofol	Tadalafil	0.3833333333333333	N	C, G	False	False
+DB00850	DB00818	Perphenazine	Propofol	0.3833333333333333	N	N	True	False
+DB02424	DB00818	Geldanamycin	Propofol	0.3833333333333333		N	False	False
+DB00514	DB01244	Dextromethorphan	Bepridil	0.3799999999999999	N, R	C	False	False
+DB03566	DB01244	Spermidine	Bepridil	0.37948717948717947		C	False	False
+DB02424	DB00794	Geldanamycin	Primidone	0.37948717948717947		N	False	False
+DB12742	DB01645	Amuvatinib	Genistein	0.3792172739541162			False	False
+DB00831	DB01645	Trifluoperazine	Genistein	0.3792172739541162	N		False	False
+DB00850	DB00162	Perphenazine	Vitamin A	0.37777777777777777	N	R, D, V, S, A	False	False
+DB02424	DB00162	Geldanamycin	Vitamin A	0.37777777777777777		R, D, V, S, A	False	False
+DB03010	DB01645	Patupilone	Genistein	0.3776223776223777			False	False
+DB08877	DB11800	Ruxolitinib	Tivozanib	0.37575757575757573	L	L	False	False
+DB08895	DB11800	Tofacitinib	Tivozanib	0.37575757575757573	L	L	False	False
+DB06777	DB07780	Chenodeoxycholic acid	Farnesyl diphosphate	0.375	A		False	False
+DB06777	DB00570	Chenodeoxycholic acid	Vinblastine	0.375	A	L	False	False
+DB00773	DB06777	Etoposide	Chenodeoxycholic acid	0.375	L	A	False	False
+DB00380	DB06777	Dexrazoxane	Chenodeoxycholic acid	0.375	V	A	False	False
+DB01104	DB11582	Sertraline	Thiocolchicoside	0.375	N	M	True	False
+DB06777	DB00619	Chenodeoxycholic acid	Imatinib	0.375	A	L	False	False
+DB06777	DB00541	Chenodeoxycholic acid	Vincristine	0.375	A	L	False	False
+DB00694	DB06777	Daunorubicin	Chenodeoxycholic acid	0.375	L	A	False	False
+DB04868	DB06777	Nilotinib	Chenodeoxycholic acid	0.375	L	A	False	False
+DB07374	DB06777	Anisomycin	Chenodeoxycholic acid	0.375		A	False	False
+DB06777	DB08437	Chenodeoxycholic acid	Puromycin	0.375	A		False	False
+DB05022	DB06777	Amonafide	Chenodeoxycholic acid	0.375		A	False	False
+DB01100	DB07557	Pimozide	3,20-Pregnanedione	0.375	N		False	False
+DB08399	DB06777	Piceatannol	Chenodeoxycholic acid	0.375		A	False	False
+DB12695	DB01104	Phenethyl Isothiocyanate	Sertraline	0.3733333333333333		N	False	False
+DB04841	DB11800	Flunarizine	Tivozanib	0.3715909090909091	N	L	False	False
+DB00831	DB00514	Trifluoperazine	Dextromethorphan	0.37142857142857144	N	N, R	True	False
+DB03010	DB03758	Patupilone	Radicicol	0.3712121212121213			False	False
+DB08348	DB01069	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Promethazine	0.3701298701298701		V, R, D	False	False
+DB02659	DB00162	Cholic Acid	Vitamin A	0.36984126984126986	A	R, D, V, S, A	False	False
+DB00313	DB00794	Valproic acid	Primidone	0.3695906432748537	N	N	False	False
+DB08080	DB00477	Latrunculin B	Chlorpromazine	0.36904761904761907		N	False	False
+DB08348	DB00477	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Chlorpromazine	0.36904761904761907		N	False	False
+DB03566	DB00477	Spermidine	Chlorpromazine	0.36904761904761907		N	False	False
+DB01104	DB01645	Sertraline	Genistein	0.36752136752136755	N		False	False
+DB07557	DB04216	3,20-Pregnanedione	Quercetin	0.3670848267622462			False	False
+DB06595	DB00794	Midostaurin	Primidone	0.3666666666666667	L	N	False	False
+DB01244	DB00818	Bepridil	Propofol	0.3666666666666667	C	N	True	False
+DB08896	DB01244	Regorafenib	Bepridil	0.3666666666666667	L	C	False	False
+DB01229	DB00794	Paclitaxel	Primidone	0.3666666666666667	L	N	False	False
+DB07594	DB06589	CCT-018159	Pazopanib	0.3666666666666667		L	False	False
+DB05134	DB06589	Tanespimycin	Pazopanib	0.3666666666666667		L	False	False
+DB12742	DB00794	Amuvatinib	Primidone	0.3666666666666667		N	False	False
+DB05913	DB01244	OSI-930	Bepridil	0.3666666666666665		C	False	False
+DB04868	DB08896	Nilotinib	Regorafenib	0.3666666666666665	L	L	False	False
+DB12695	DB00831	Phenethyl Isothiocyanate	Trifluoperazine	0.3647058823529412		N	False	False
+DB00313	DB00162	Valproic acid	Vitamin A	0.3638888888888887	N	R, D, V, S, A	False	False
+DB01645	DB08437	Genistein	Puromycin	0.3630769230769231			False	False
+DB01104	DB00477	Sertraline	Chlorpromazine	0.3626373626373627	N	N	False	False
+DB01645	DB01244	Genistein	Bepridil	0.36220735785953173		C	False	False
+DB00831	DB04216	Trifluoperazine	Quercetin	0.3619528619528618	N		False	False
+DB00836	DB00820	Loperamide	Tadalafil	0.36190476190476195	A	C, G	False	False
+DB01268	DB00820	Sunitinib	Tadalafil	0.3617424242424241	L	C, G	False	False
+DB06080	DB00820	Linifanib	Tadalafil	0.36111111111111116		C, G	False	False
+DB06595	DB00820	Midostaurin	Tadalafil	0.36111111111111116	L	C, G	False	False
+DB06589	DB00820	Pazopanib	Tadalafil	0.3602564102564103	L	C, G	False	False
+DB03758	DB02709	Radicicol	Resveratrol	0.35897435897435903			False	False
+DB06595	DB02709	Midostaurin	Resveratrol	0.35897435897435903	L		False	False
+DB12695	DB00643	Phenethyl Isothiocyanate	Mebendazole	0.3588652482269503		P	False	False
+DB12695	DB00518	Phenethyl Isothiocyanate	Albendazole	0.3588652482269503		P	False	False
+DB00514	DB00615	Dextromethorphan	Rifabutin	0.35882352941176454	N, R	J	False	False
+DB00380	DB00313	Dexrazoxane	Valproic acid	0.3585858585858588	V	N	False	False
+DB05022	DB00313	Amonafide	Valproic acid	0.3585858585858588		N	False	False
+DB00773	DB00313	Etoposide	Valproic acid	0.3585858585858588	L	N	False	False
+DB00694	DB00313	Daunorubicin	Valproic acid	0.3585858585858588	L	N	False	False
+DB03777	DB04841	Bisindolylmaleimide I	Flunarizine	0.3583333333333334		N	False	False
+DB00162	DB00477	Vitamin A	Chlorpromazine	0.357936507936508	R, D, V, S, A	N	False	False
+DB07594	DB01104	CCT-018159	Sertraline	0.3571428571428572		N	False	False
+DB05134	DB01104	Tanespimycin	Sertraline	0.3571428571428572		N	False	False
+DB00836	DB00477	Loperamide	Chlorpromazine	0.3571428571428572	A	N	False	False
+DB12695	DB01115	Phenethyl Isothiocyanate	Nifedipine	0.356682389937107		C	False	False
+DB00140	DB01645	Riboflavin	Genistein	0.3564102564102565	A, S		False	False
+DB08348	DB08901	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Ponatinib	0.3555555555555556		L	False	False
+DB03010	DB04841	Patupilone	Flunarizine	0.3545454545454545		N	False	False
+DB08877	DB01268	Ruxolitinib	Sunitinib	0.35416666666666674	L	L	True	False
+DB08895	DB01268	Tofacitinib	Sunitinib	0.35416666666666674	L	L	False	False
+DB12742	DB01115	Amuvatinib	Nifedipine	0.3541666666666665		C	False	False
+DB08080	DB00794	Latrunculin B	Primidone	0.3538461538461537		N	False	False
+DB08348	DB00794	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Primidone	0.3538461538461537		N	False	False
+DB12500	DB06777	Fedratinib	Chenodeoxycholic acid	0.3511904761904763	L	A	False	False
+DB03777	DB06777	Bisindolylmaleimide I	Chenodeoxycholic acid	0.3511904761904763		A	False	False
+DB12695	DB11582	Phenethyl Isothiocyanate	Thiocolchicoside	0.3500000000000001		M	False	False
+DB02709	DB00570	Resveratrol	Vinblastine	0.3485576923076923		L	False	False
+DB02709	DB00162	Resveratrol	Vitamin A	0.34718574108818		R, D, V, S, A	False	False
+DB08901	DB01244	Ponatinib	Bepridil	0.34666666666666646	L	C	False	False
+DB01104	DB11800	Sertraline	Tivozanib	0.34659090909090917	N	L	False	False
+DB02424	DB01069	Geldanamycin	Promethazine	0.34632034632034636		V, R, D	False	False
+DB07374	DB01645	Anisomycin	Genistein	0.34615384615384626			False	False
+DB03758	DB01069	Radicicol	Promethazine	0.343939393939394		V, R, D	False	False
+DB12695	DB01244	Phenethyl Isothiocyanate	Bepridil	0.3424242424242423		C	False	False
+DB01104	DB01115	Sertraline	Nifedipine	0.34134615384615374	N	C	False	False
+DB08399	DB04216	Piceatannol	Quercetin	0.3407407407407408			False	False
+DB01100	DB00514	Pimozide	Dextromethorphan	0.33947368421052637	N	N, R	False	False
+DB12695	DB01069	Phenethyl Isothiocyanate	Promethazine	0.33917748917748924		V, R, D	False	False
+DB03566	DB01115	Spermidine	Nifedipine	0.3390151515151516		C	False	False
+DB08895	DB08901	Tofacitinib	Ponatinib	0.33508771929824577	L	L	False	False
+DB08877	DB08901	Ruxolitinib	Ponatinib	0.33508771929824577	L	L	True	False
+DB00850	DB11582	Perphenazine	Thiocolchicoside	0.3333333333333335	N	M	True	False
+DB00850	DB12500	Perphenazine	Fedratinib	0.3333333333333335	N	L	False	False
+DB00850	DB03566	Perphenazine	Spermidine	0.3333333333333335	N		False	False
+DB00850	DB08080	Perphenazine	Latrunculin B	0.3333333333333335	N		False	False
+DB02424	DB08080	Geldanamycin	Latrunculin B	0.3333333333333335			False	False
+DB00140	DB03566	Riboflavin	Spermidine	0.3333333333333335	A, S		False	False
+DB02424	DB03566	Geldanamycin	Spermidine	0.3333333333333335			False	False
+DB02424	DB04513	Geldanamycin	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	0.3333333333333335			False	False
+DB05913	DB03566	OSI-930	Spermidine	0.3333333333333335			False	False
+DB03777	DB08080	Bisindolylmaleimide I	Latrunculin B	0.3333333333333335			False	False
+DB05913	DB03777	OSI-930	Bisindolylmaleimide I	0.3333333333333335			False	False
+DB12500	DB00140	Fedratinib	Riboflavin	0.3333333333333335	L	A, S	False	False
+DB08348	DB03777	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Bisindolylmaleimide I	0.3333333333333335			False	False
+DB08080	DB03566	Latrunculin B	Spermidine	0.3333333333333335			False	False
+DB03777	DB11582	Bisindolylmaleimide I	Thiocolchicoside	0.3333333333333335		M	False	False
+DB12500	DB11582	Fedratinib	Thiocolchicoside	0.3333333333333335	L	M	False	False
+DB08348	DB11582	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Thiocolchicoside	0.3333333333333335		M	False	False
+DB02424	DB00140	Geldanamycin	Riboflavin	0.3333333333333335		A, S	False	False
+DB03566	DB11582	Spermidine	Thiocolchicoside	0.3333333333333335		M	False	False
+DB03777	DB00140	Bisindolylmaleimide I	Riboflavin	0.3333333333333335		A, S	False	False
+DB05913	DB00850	OSI-930	Perphenazine	0.3333333333333335		N	False	False
+DB00831	DB00820	Trifluoperazine	Tadalafil	0.3333333333333335	N	C, G	True	False
+DB07080	DB00820	TO-901317	Tadalafil	0.33333333333333326		C, G	False	False
+DB01229	DB00619	Paclitaxel	Imatinib	0.33333333333333326	L	L	False	False
+DB08437	DB00820	Puromycin	Tadalafil	0.33333333333333326		C, G	False	False
+DB00570	DB00820	Vinblastine	Tadalafil	0.33333333333333326	L	C, G	False	False
+DB07374	DB00820	Anisomycin	Tadalafil	0.33333333333333326		C, G	False	False
+DB05134	DB00820	Tanespimycin	Tadalafil	0.33333333333333326		C, G	False	False
+DB01104	DB00794	Sertraline	Primidone	0.33333333333333326	N	N	False	False
+DB00831	DB12742	Trifluoperazine	Amuvatinib	0.33333333333333326	N		False	False
+DB04513	DB00820	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Tadalafil	0.33333333333333326		C, G	False	False
+DB01092	DB00820	Ouabain	Tadalafil	0.33333333333333326	C	C, G	False	False
+DB08399	DB00820	Piceatannol	Tadalafil	0.33333333333333326		C, G	False	False
+DB07594	DB00820	CCT-018159	Tadalafil	0.33333333333333326		C, G	False	False
+DB08348	DB00619	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Imatinib	0.33333333333333326		L	False	False
+DB00619	DB00820	Imatinib	Tadalafil	0.33333333333333326	L	C, G	False	False
+DB01205	DB12742	Flumazenil	Amuvatinib	0.33333333333333326	V		False	False
+DB01104	DB07780	Sertraline	Farnesyl diphosphate	0.33333333333333326	N		False	False
+DB12742	DB01229	Amuvatinib	Paclitaxel	0.33333333333333326		L	False	False
+DB07780	DB00820	Farnesyl diphosphate	Tadalafil	0.33333333333333326		C, G	False	False
+DB01205	DB08080	Flumazenil	Latrunculin B	0.33333333333333304	V		False	False
+DB01205	DB08348	Flumazenil	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.33333333333333304	V		False	False
+DB12500	DB00820	Fedratinib	Tadalafil	0.33333333333333304	L	C, G	False	False
+DB01104	DB08896	Sertraline	Regorafenib	0.32971014492753614	N	L	False	False
+DB03010	DB06777	Patupilone	Chenodeoxycholic acid	0.3295454545454546		A	False	False
+DB12695	DB06777	Phenethyl Isothiocyanate	Chenodeoxycholic acid	0.32874149659863927		A	False	False
+DB05913	DB04841	OSI-930	Flunarizine	0.3285714285714283		N	False	False
+DB03758	DB00818	Radicicol	Propofol	0.3277777777777777		N	False	False
+DB01100	DB00818	Pimozide	Propofol	0.3277777777777777	N	N	False	False
+DB00162	DB01069	Vitamin A	Promethazine	0.32727272727272716	R, D, V, S, A	V, R, D	False	False
+DB01104	DB06595	Sertraline	Midostaurin	0.3257575757575757	N	L	False	False
+DB06777	DB06589	Chenodeoxycholic acid	Pazopanib	0.32499999999999996	A	L	False	False
+DB01645	DB08896	Genistein	Regorafenib	0.32361455748552537		L	False	False
+DB00831	DB00313	Trifluoperazine	Valproic acid	0.3222222222222222	N	N	True	False
+DB01645	DB00820	Genistein	Tadalafil	0.3189102564102564		C, G	False	False
+DB04216	DB01069	Quercetin	Promethazine	0.3188906609959241		V, R, D	False	False
+DB01100	DB00313	Pimozide	Valproic acid	0.3183760683760686	N	N	False	False
+DB01205	DB04841	Flumazenil	Flunarizine	0.31666666666666643	V	N	False	False
+DB01092	DB01244	Ouabain	Bepridil	0.3153846153846154	C	C	False	False
+DB03758	DB00836	Radicicol	Loperamide	0.31493506493506507		A	False	False
+DB01229	DB00162	Paclitaxel	Vitamin A	0.31428571428571406	L	R, D, V, S, A	False	False
+DB11800	DB00820	Tivozanib	Tadalafil	0.31385281385281383	L	C, G	False	False
+DB05913	DB00313	OSI-930	Valproic acid	0.31313131313131315		N	False	False
+DB03010	DB11582	Patupilone	Thiocolchicoside	0.3116883116883118		M	False	False
+DB04216	DB01244	Quercetin	Bepridil	0.31011011011011		C	False	False
+DB12695	DB00477	Phenethyl Isothiocyanate	Chlorpromazine	0.30995670995671		N	False	False
+DB08348	DB04216	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Quercetin	0.30740740740740735			False	False
+DB03758	DB00794	Radicicol	Primidone	0.30714285714285716		N	False	False
+DB03758	DB01244	Radicicol	Bepridil	0.30714285714285716		C	False	False
+DB00313	DB11582	Valproic acid	Thiocolchicoside	0.3055555555555558	N	M	True	False
+DB08080	DB02709	Latrunculin B	Resveratrol	0.3043766578249336			False	False
+DB08348	DB02709	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Resveratrol	0.3043766578249336			False	False
+DB06595	DB01244	Midostaurin	Bepridil	0.3041666666666667	L	C	False	False
+DB12742	DB01244	Amuvatinib	Bepridil	0.3041666666666667		C	False	False
+DB05913	DB04216	OSI-930	Quercetin	0.3039591315453385			False	False
+DB04216	DB00570	Quercetin	Vinblastine	0.3013468013468015		L	False	False
+DB08348	DB07780	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Farnesyl diphosphate	0.30000000000000004			False	False
+DB07374	DB00615	Anisomycin	Rifabutin	0.30000000000000004		J	False	False
+DB04841	DB00818	Flunarizine	Propofol	0.30000000000000004	N	N	True	False
+DB08080	DB01069	Latrunculin B	Promethazine	0.2987012987012989		V, R, D	False	False
+DB08348	DB01645	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Genistein	0.29807692307692313			False	False
+DB08080	DB01645	Latrunculin B	Genistein	0.29807692307692313			False	False
+DB00850	DB03758	Perphenazine	Radicicol	0.29761904761904767	N		False	False
+DB12500	DB01100	Fedratinib	Pimozide	0.29761904761904767	L	N	False	False
+DB01100	DB03566	Pimozide	Spermidine	0.29761904761904767	N		False	False
+DB01100	DB00162	Pimozide	Vitamin A	0.2973684210526317	N	R, D, V, S, A	False	False
+DB04216	DB00477	Quercetin	Chlorpromazine	0.29728835978835977		N	False	False
+DB12742	DB02709	Amuvatinib	Resveratrol	0.29647435897435903			False	False
+DB08080	DB06589	Latrunculin B	Pazopanib	0.2961538461538462		L	False	False
+DB01115	DB00820	Nifedipine	Tadalafil	0.2935606060606062	C	C, G	True	False
+DB05913	DB00831	OSI-930	Trifluoperazine	0.2916666666666665		N	False	False
+DB00140	DB00831	Riboflavin	Trifluoperazine	0.2916666666666665	A, S	N	False	False
+DB01205	DB01104	Flumazenil	Sertraline	0.2916666666666665	V	N	False	False
+DB06777	DB08896	Chenodeoxycholic acid	Regorafenib	0.2916666666666665	A	L	False	False
+DB01104	DB01069	Sertraline	Promethazine	0.2897727272727273	N	V, R, D	True	False
+DB05913	DB01645	OSI-930	Genistein	0.2897435897435898			False	False
+DB02424	DB03010	Geldanamycin	Patupilone	0.28787878787878807			False	False
+DB03010	DB03566	Patupilone	Spermidine	0.28787878787878807			False	False
+DB03010	DB00820	Patupilone	Tadalafil	0.28787878787878785		C, G	False	False
+DB00836	DB01229	Loperamide	Paclitaxel	0.28754578754578763	A	L	False	False
+DB12695	DB00820	Phenethyl Isothiocyanate	Tadalafil	0.2875000000000001		C, G	False	False
+DB00615	DB08437	Rifabutin	Puromycin	0.2857142857142858	J		False	False
+DB00140	DB01104	Riboflavin	Sertraline	0.2857142857142856	A, S	N	False	False
+DB05913	DB01104	OSI-930	Sertraline	0.2857142857142856		N	False	False
+DB00831	DB00818	Trifluoperazine	Propofol	0.2848484848484849	N	N	True	False
+DB06777	DB11800	Chenodeoxycholic acid	Tivozanib	0.28409090909090917	A	L	False	False
+DB00140	DB01244	Riboflavin	Bepridil	0.28333333333333344	A, S	C	False	False
+DB05913	DB00794	OSI-930	Primidone	0.28333333333333344		N	False	False
+DB04868	DB06589	Nilotinib	Pazopanib	0.2833333333333332	L	L	False	False
+DB01645	DB08901	Genistein	Ponatinib	0.2826007326007325		L	False	False
+DB01104	DB04216	Sertraline	Quercetin	0.28240740740740744	N		False	False
+DB12695	DB08896	Phenethyl Isothiocyanate	Regorafenib	0.2785714285714287		L	False	False
+DB08348	DB01115	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Nifedipine	0.27840909090909083		C	False	False
+DB08080	DB01115	Latrunculin B	Nifedipine	0.27840909090909083		C	False	False
+DB00570	DB11582	Vinblastine	Thiocolchicoside	0.2777777777777777	L	M	False	False
+DB03777	DB12742	Bisindolylmaleimide I	Amuvatinib	0.2777777777777777			False	False
+DB00850	DB01229	Perphenazine	Paclitaxel	0.2777777777777777	N	L	False	False
+DB07780	DB00615	Farnesyl diphosphate	Rifabutin	0.2777777777777777		J	False	False
+DB02709	DB01115	Resveratrol	Nifedipine	0.276866515837104		C	False	False
+DB00140	DB00162	Riboflavin	Vitamin A	0.276470588235294	A, S	R, D, V, S, A	False	True
+DB08080	DB04216	Latrunculin B	Quercetin	0.27407407407407414			False	False
+DB04216	DB00820	Quercetin	Tadalafil	0.2740740740740739		C, G	False	False
+DB12500	DB08896	Fedratinib	Regorafenib	0.2738095238095237	L	L	False	False
+DB08348	DB08896	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Regorafenib	0.2738095238095237		L	False	False
+DB04216	DB00619	Quercetin	Imatinib	0.2685185185185186		L	False	False
+DB03010	DB01104	Patupilone	Sertraline	0.2670454545454546		N	False	False
+DB01104	DB01244	Sertraline	Bepridil	0.26666666666666683	N	C	False	False
+DB08348	DB12695	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Phenethyl Isothiocyanate	0.2666666666666666			False	False
+DB02424	DB12695	Geldanamycin	Phenethyl Isothiocyanate	0.2666666666666666			False	False
+DB04841	DB08901	Flunarizine	Ponatinib	0.2666666666666666	N	L	False	False
+DB07374	DB00570	Anisomycin	Vinblastine	0.26315789473684204		L	False	False
+DB02424	DB00836	Geldanamycin	Loperamide	0.26190476190476186		A	False	False
+DB05134	DB08901	Tanespimycin	Ponatinib	0.2607843137254904		L	False	False
+DB07594	DB08901	CCT-018159	Ponatinib	0.2607843137254904		L	False	False
+DB07557	DB02709	3,20-Pregnanedione	Resveratrol	0.25897435897435894			False	False
+DB07080	DB01115	TO-901317	Nifedipine	0.2589285714285714		C	False	False
+DB02424	DB02709	Geldanamycin	Resveratrol	0.2583996463306808			False	False
+DB01104	DB12742	Sertraline	Amuvatinib	0.25757575757575735	N		False	False
+DB03010	DB04216	Patupilone	Quercetin	0.2566897040581251			False	False
+DB08080	DB01268	Latrunculin B	Sunitinib	0.2556818181818181		L	False	False
+DB12742	DB00313	Amuvatinib	Valproic acid	0.25555555555555554		N	False	False
+DB04216	DB08901	Quercetin	Ponatinib	0.25502645502645516		L	False	False
+DB03758	DB12695	Radicicol	Phenethyl Isothiocyanate	0.25476190476190474			False	False
+DB01229	DB08901	Paclitaxel	Ponatinib	0.2523809523809524	L	L	False	False
+DB07594	DB04868	CCT-018159	Nilotinib	0.25		L	False	False
+DB05134	DB04868	Tanespimycin	Nilotinib	0.25		L	False	False
+DB03758	DB08895	Radicicol	Tofacitinib	0.25		L	False	False
+DB03758	DB08877	Radicicol	Ruxolitinib	0.25		L	False	False
+DB03758	DB07557	Radicicol	3,20-Pregnanedione	0.25			False	False
+DB01100	DB03758	Pimozide	Radicicol	0.25	N		False	False
+DB01100	DB08080	Pimozide	Latrunculin B	0.25	N		False	False
+DB05134	DB01100	Tanespimycin	Pimozide	0.25		N	False	False
+DB01100	DB06777	Pimozide	Chenodeoxycholic acid	0.25	N	A	False	False
+DB07557	DB11582	3,20-Pregnanedione	Thiocolchicoside	0.25		M	False	False
+DB00140	DB01100	Riboflavin	Pimozide	0.25	A, S	N	False	False
+DB00140	DB03758	Riboflavin	Radicicol	0.25	A, S		False	False
+DB07594	DB07557	CCT-018159	3,20-Pregnanedione	0.25			False	False
+DB01104	DB00162	Sertraline	Vitamin A	0.25	N	R, D, V, S, A	False	False
+DB05913	DB01100	OSI-930	Pimozide	0.25		N	False	False
+DB05913	DB07557	OSI-930	3,20-Pregnanedione	0.25			False	False
+DB08896	DB00820	Regorafenib	Tadalafil	0.25	L	C, G	False	False
+DB08080	DB03758	Latrunculin B	Radicicol	0.25			False	False
+DB07594	DB01100	CCT-018159	Pimozide	0.25		N	False	False
+DB07594	DB00570	CCT-018159	Vinblastine	0.25		L	False	False
+DB00831	DB01229	Trifluoperazine	Paclitaxel	0.25	N	L	False	False
+DB01205	DB06595	Flumazenil	Midostaurin	0.25	V	L	False	False
+DB01229	DB08896	Paclitaxel	Regorafenib	0.25	L	L	False	False
+DB07594	DB00541	CCT-018159	Vincristine	0.25		L	False	False
+DB03758	DB07080	Radicicol	TO-901317	0.25			False	False
+DB08348	DB07374	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Anisomycin	0.25			False	False
+DB05134	DB00541	Tanespimycin	Vincristine	0.25		L	False	False
+DB05134	DB00570	Tanespimycin	Vinblastine	0.25		L	False	False
+DB05134	DB07557	Tanespimycin	3,20-Pregnanedione	0.25			False	False
+DB12742	DB00570	Amuvatinib	Vinblastine	0.24999999999999978		L	False	False
+DB00313	DB01069	Valproic acid	Promethazine	0.24949494949494944	N	V, R, D	False	False
+DB01104	DB02709	Sertraline	Resveratrol	0.24875930521091805	N		True	False
+DB12695	DB00313	Phenethyl Isothiocyanate	Valproic acid	0.248148148148148		N	False	False
+DB08901	DB11582	Ponatinib	Thiocolchicoside	0.24444444444444446	L	M	False	False
+DB00162	DB01115	Vitamin A	Nifedipine	0.2440217391304349	R, D, V, S, A	C	False	False
+DB01229	DB01244	Paclitaxel	Bepridil	0.2416666666666667	L	C	True	False
+DB05134	DB01268	Tanespimycin	Sunitinib	0.23750000000000004		L	False	False
+DB07594	DB01268	CCT-018159	Sunitinib	0.23750000000000004		L	False	False
+DB01645	DB00162	Genistein	Vitamin A	0.23736263736263719		R, D, V, S, A	False	False
+DB08348	DB08437	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Puromycin	0.2333333333333334			False	False
+DB12500	DB04841	Fedratinib	Flunarizine	0.2333333333333334	L	N	False	False
+DB02424	DB00541	Geldanamycin	Vincristine	0.2333333333333334		L	False	False
+DB04841	DB07780	Flunarizine	Farnesyl diphosphate	0.23333333333333317	N		False	False
+DB07374	DB04841	Anisomycin	Flunarizine	0.23333333333333317		N	False	False
+DB00140	DB00820	Riboflavin	Tadalafil	0.23333333333333295	A, S	C, G	False	False
+DB04513	DB01115	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Nifedipine	0.23295454545454541		C	False	False
+DB03758	DB02659	Radicicol	Cholic Acid	0.23095238095238102		A	False	False
+DB08895	DB00619	Tofacitinib	Imatinib	0.23076923076923084	L	L	False	False
+DB08877	DB00619	Ruxolitinib	Imatinib	0.23076923076923084	L	L	False	False
+DB04841	DB08896	Flunarizine	Regorafenib	0.22971014492753605	N	L	False	False
+DB04513	DB00836	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Loperamide	0.22857142857142865		A	False	False
+DB12695	DB00570	Phenethyl Isothiocyanate	Vinblastine	0.22745098039215694		L	False	False
+DB04513	DB01069	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Promethazine	0.2272727272727273		V, R, D	False	False
+DB07557	DB00820	3,20-Pregnanedione	Tadalafil	0.22619047619047605		C, G	False	False
+DB04841	DB06595	Flunarizine	Midostaurin	0.2257575757575756	N	L	False	False
+DB02424	DB01244	Geldanamycin	Bepridil	0.2256410256410255		C	False	False
+DB04841	DB08437	Flunarizine	Puromycin	0.22352941176470575	N		False	False
+DB04216	DB01115	Quercetin	Nifedipine	0.223478835978836		C	False	False
+DB02709	DB08896	Resveratrol	Regorafenib	0.22261072261072257		L	False	False
+DB08080	DB00313	Latrunculin B	Valproic acid	0.22222222222222232		N	False	False
+DB00570	DB08437	Vinblastine	Puromycin	0.22222222222222232	L		False	False
+DB01104	DB00313	Sertraline	Valproic acid	0.22222222222222232	N	N	True	False
+DB00140	DB00313	Riboflavin	Valproic acid	0.22222222222222232	A, S	N	False	False
+DB08399	DB00570	Piceatannol	Vinblastine	0.22222222222222232		L	False	False
+DB00313	DB00820	Valproic acid	Tadalafil	0.22222222222222188	N	C, G	False	False
+DB04216	DB00162	Quercetin	Vitamin A	0.22169312169312172		R, D, V, S, A	False	False
+DB00831	DB00162	Trifluoperazine	Vitamin A	0.21904761904761894	N	R, D, V, S, A	False	False
+DB12742	DB00162	Amuvatinib	Vitamin A	0.21904761904761894		R, D, V, S, A	False	False
+DB06777	DB01244	Chenodeoxycholic acid	Bepridil	0.21785714285714275	A	C	False	False
+DB05134	DB11800	Tanespimycin	Tivozanib	0.21678321678321688		L	False	False
+DB07594	DB11800	CCT-018159	Tivozanib	0.21678321678321688		L	False	False
+DB01100	DB01229	Pimozide	Paclitaxel	0.21666666666666656	N	L	False	False
+DB07594	DB08896	CCT-018159	Regorafenib	0.21666666666666656		L	False	False
+DB03758	DB00831	Radicicol	Trifluoperazine	0.21666666666666656		N	False	False
+DB05134	DB08896	Tanespimycin	Regorafenib	0.21666666666666656		L	False	False
+DB00313	DB01244	Valproic acid	Bepridil	0.21169590643274838	N	C	True	False
+DB08080	DB00162	Latrunculin B	Vitamin A	0.21111111111111125		R, D, V, S, A	False	False
+DB12742	DB04216	Amuvatinib	Quercetin	0.21043771043771042			False	False
+DB03566	DB06777	Spermidine	Chenodeoxycholic acid	0.20833333333333348		A	False	False
+DB00850	DB01104	Perphenazine	Sertraline	0.20833333333333348	N	N	True	False
+DB08080	DB12695	Latrunculin B	Phenethyl Isothiocyanate	0.2041666666666666			False	False
+DB04841	DB02659	Flunarizine	Cholic Acid	0.20402930402930397	N	A	False	False
+DB05913	DB11582	OSI-930	Thiocolchicoside	0.20000000000000018		M	False	False
+DB05913	DB08348	OSI-930	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.20000000000000018			False	False
+DB00140	DB08080	Riboflavin	Latrunculin B	0.20000000000000018	A, S		False	False
+DB08348	DB00140	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Riboflavin	0.20000000000000018		A, S	False	False
+DB04841	DB00514	Flunarizine	Dextromethorphan	0.19999999999999996	N	N, R	True	False
+DB08080	DB01244	Latrunculin B	Bepridil	0.19999999999999996		C	False	False
+DB03758	DB06589	Radicicol	Pazopanib	0.19999999999999996		L	False	False
+DB08348	DB01244	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Bepridil	0.19999999999999996		C	False	False
+DB08080	DB11800	Latrunculin B	Tivozanib	0.19480519480519498		L	False	False
+DB08080	DB06080	Latrunculin B	Linifanib	0.1944444444444442			False	False
+DB08348	DB06595	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Midostaurin	0.1944444444444442		L	False	False
+DB02424	DB01645	Geldanamycin	Genistein	0.1939102564102564			False	False
+DB03758	DB08901	Radicicol	Ponatinib	0.1903508771929825		L	False	False
+DB08080	DB08901	Latrunculin B	Ponatinib	0.1888888888888891		L	False	False
+DB08901	DB00820	Ponatinib	Tadalafil	0.18888888888888866	L	C, G	False	False
+DB03758	DB01268	Radicicol	Sunitinib	0.1875		L	False	False
+DB05134	DB01115	Tanespimycin	Nifedipine	0.1875		C	False	False
+DB07594	DB01115	CCT-018159	Nifedipine	0.1875		C	False	False
+DB00140	DB04841	Riboflavin	Flunarizine	0.1857142857142855	A, S	N	False	False
+DB06777	DB08901	Chenodeoxycholic acid	Ponatinib	0.18377192982456148	A	L	False	False
+DB05134	DB00619	Tanespimycin	Imatinib	0.18181818181818188		L	False	False
+DB07594	DB00619	CCT-018159	Imatinib	0.18181818181818188		L	False	False
+DB01229	DB04216	Paclitaxel	Quercetin	0.18013468013467993	L		False	False
+DB00162	DB01244	Vitamin A	Bepridil	0.17999999999999972	R, D, V, S, A	C	False	False
+DB02709	DB00313	Resveratrol	Valproic acid	0.17881562881562862		N	False	False
+DB08080	DB08896	Latrunculin B	Regorafenib	0.17857142857142838		L	False	False
+DB02709	DB08901	Resveratrol	Ponatinib	0.17726704190118814		L	False	False
+DB05134	DB00313	Tanespimycin	Valproic acid	0.1767676767676769		N	False	False
+DB07594	DB00313	CCT-018159	Valproic acid	0.1767676767676769		N	False	False
+DB00313	DB01115	Valproic acid	Nifedipine	0.17442810457516345	N	C	False	False
+DB12695	DB04841	Phenethyl Isothiocyanate	Flunarizine	0.17333333333333334		N	False	False
+DB03010	DB08348	Patupilone	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.16883116883116878			False	False
+DB02424	DB01205	Geldanamycin	Flumazenil	0.16666666666666674		V	False	False
+DB03777	DB01229	Bisindolylmaleimide I	Paclitaxel	0.16666666666666674		L	False	False
+DB08399	DB03566	Piceatannol	Spermidine	0.16666666666666674			False	False
+DB08080	DB00619	Latrunculin B	Imatinib	0.16666666666666674		L	False	False
+DB02424	DB07080	Geldanamycin	TO-901317	0.16666666666666674			False	False
+DB02424	DB00831	Geldanamycin	Trifluoperazine	0.16666666666666674		N	False	False
+DB07594	DB08895	CCT-018159	Tofacitinib	0.16666666666666674		L	False	False
+DB02424	DB00850	Geldanamycin	Perphenazine	0.16666666666666674		N	False	False
+DB04868	DB08895	Nilotinib	Tofacitinib	0.16666666666666674	L	L	False	False
+DB04513	DB08080	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Latrunculin B	0.16666666666666674			False	False
+DB04868	DB08877	Nilotinib	Ruxolitinib	0.16666666666666674	L	L	False	False
+DB08348	DB03566	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Spermidine	0.16666666666666674			False	False
+DB07594	DB08877	CCT-018159	Ruxolitinib	0.16666666666666674		L	False	False
+DB08399	DB08348	Piceatannol	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	0.16666666666666674			False	False
+DB05134	DB08895	Tanespimycin	Tofacitinib	0.16666666666666674		L	False	False
+DB05134	DB08877	Tanespimycin	Ruxolitinib	0.16666666666666674		L	False	False
+DB02424	DB00820	Geldanamycin	Tadalafil	0.16666666666666652		C, G	False	False
+DB08080	DB00820	Latrunculin B	Tadalafil	0.16666666666666652		C, G	False	False
+DB03758	DB06080	Radicicol	Linifanib	0.16666666666666652			False	False
+DB03758	DB06595	Radicicol	Midostaurin	0.16666666666666652		L	False	False
+DB08895	DB12742	Tofacitinib	Amuvatinib	0.16666666666666652	L		False	False
+DB01205	DB00820	Flumazenil	Tadalafil	0.16666666666666652	V	C, G	False	False
+DB05134	DB06595	Tanespimycin	Midostaurin	0.16666666666666652		L	False	False
+DB12742	DB11582	Amuvatinib	Thiocolchicoside	0.16666666666666652		M	False	False
+DB05913	DB01205	OSI-930	Flumazenil	0.16666666666666652		V	False	False
+DB07594	DB06080	CCT-018159	Linifanib	0.16666666666666652			False	False
+DB08877	DB12742	Ruxolitinib	Amuvatinib	0.16666666666666652	L		False	False
+DB07594	DB06595	CCT-018159	Midostaurin	0.16666666666666652		L	False	False
+DB00140	DB12742	Riboflavin	Amuvatinib	0.16666666666666652	A, S		False	False
+DB00831	DB01104	Trifluoperazine	Sertraline	0.16666666666666652	N	N	True	False
+DB03777	DB00820	Bisindolylmaleimide I	Tadalafil	0.16666666666666652		C, G	False	False
+DB06595	DB01229	Midostaurin	Paclitaxel	0.16666666666666652	L	L	False	False
+DB00140	DB01229	Riboflavin	Paclitaxel	0.16666666666666652	A, S	L	False	False
+DB03566	DB00820	Spermidine	Tadalafil	0.16666666666666652		C, G	False	False
+DB00850	DB00820	Perphenazine	Tadalafil	0.16666666666666652	N	C, G	False	False
+DB05134	DB06080	Tanespimycin	Linifanib	0.16666666666666652			False	False
+DB05913	DB01229	OSI-930	Paclitaxel	0.16666666666666652		L	False	False
+DB08348	DB12742	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Amuvatinib	0.16666666666666652			False	False
+DB01229	DB11582	Paclitaxel	Thiocolchicoside	0.16666666666666652	L	M	False	False
+DB08348	DB01229	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Paclitaxel	0.16666666666666652		L	False	False
+DB06777	DB11582	Chenodeoxycholic acid	Thiocolchicoside	0.1607142857142856	A	M	False	False
+DB08348	DB06777	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Chenodeoxycholic acid	0.1607142857142856		A	False	False
+DB08080	DB06777	Latrunculin B	Chenodeoxycholic acid	0.1607142857142856		A	False	False
+DB12695	DB02709	Phenethyl Isothiocyanate	Resveratrol	0.15733116648609613			False	False
+DB00836	DB01069	Loperamide	Promethazine	0.1558441558441559	A	V, R, D	True	False
+DB00162	DB00820	Vitamin A	Tadalafil	0.15555555555555545	R, D, V, S, A	C, G	False	False
+DB08348	DB00162	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Vitamin A	0.15555555555555545		R, D, V, S, A	False	False
+DB03758	DB03566	Radicicol	Spermidine	0.15476190476190488			False	False
+DB02424	DB07557	Geldanamycin	3,20-Pregnanedione	0.15476190476190488			False	False
+DB12500	DB03758	Fedratinib	Radicicol	0.15476190476190488	L		False	False
+DB03777	DB03758	Bisindolylmaleimide I	Radicicol	0.15476190476190488			False	False
+DB07557	DB04841	3,20-Pregnanedione	Flunarizine	0.1499999999999999		N	False	False
+DB04841	DB11582	Flunarizine	Thiocolchicoside	0.1499999999999999	N	M	True	False
+DB08080	DB04841	Latrunculin B	Flunarizine	0.1499999999999999		N	False	False
+DB12695	DB01645	Phenethyl Isothiocyanate	Genistein	0.14951370468611858			False	False
+DB00836	DB01115	Loperamide	Nifedipine	0.14940476190476204	A	C	False	False
+DB12695	DB01229	Phenethyl Isothiocyanate	Paclitaxel	0.1490196078431374		L	False	False
+DB07594	DB04216	CCT-018159	Quercetin	0.14878671775223506			False	False
+DB05134	DB04216	Tanespimycin	Quercetin	0.14878671775223506			False	False
+DB04841	DB02709	Flunarizine	Resveratrol	0.14875930521091796	N		False	False
+DB04868	DB08901	Nilotinib	Ponatinib	0.14313725490196094	L	L	False	False
+DB04868	DB11800	Nilotinib	Tivozanib	0.13986013986014	L	L	False	False
+DB01100	DB01104	Pimozide	Sertraline	0.13888888888888884	N	N	False	False
+DB00831	DB00836	Trifluoperazine	Loperamide	0.1336996336996339	N	A	True	False
+DB01205	DB03758	Flumazenil	Radicicol	0.1309523809523807	V		False	False
+DB04216	DB00313	Quercetin	Valproic acid	0.12962962962962976		N	False	False
+DB00477	DB01115	Chlorpromazine	Nifedipine	0.128386699507389	N	C	False	False
+DB03758	DB11800	Radicicol	Tivozanib	0.12575757575757573		L	False	False
+DB08080	DB01104	Latrunculin B	Sertraline	0.125		N	False	False
+DB08348	DB01104	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Sertraline	0.125		N	False	False
+DB00313	DB00570	Valproic acid	Vinblastine	0.12222222222222223	N	L	False	False
+DB07080	DB00313	TO-901317	Valproic acid	0.12222222222222223		N	False	False
+DB02659	DB00615	Cholic Acid	Rifabutin	0.12008281573498958	A	J	False	False
+DB02424	DB08895	Geldanamycin	Tofacitinib	0.11904761904761929		L	False	False
+DB02424	DB08877	Geldanamycin	Ruxolitinib	0.11904761904761929		L	False	False
+DB06777	DB02709	Chenodeoxycholic acid	Resveratrol	0.11730769230769234	A		True	False
+DB08895	DB06595	Tofacitinib	Midostaurin	0.11666666666666647	L	L	False	False
+DB08877	DB06595	Ruxolitinib	Midostaurin	0.11666666666666647	L	L	False	False
+DB07594	DB04841	CCT-018159	Flunarizine	0.1142857142857141		N	False	False
+DB05134	DB04841	Tanespimycin	Flunarizine	0.1142857142857141		N	False	False
+DB00477	DB00615	Chlorpromazine	Rifabutin	0.11180124223602461	N	J	False	False
+DB01205	DB01229	Flumazenil	Paclitaxel	0.11111111111111094	V	L	False	False
+DB01244	DB00820	Bepridil	Tadalafil	0.11025641025641031	C	C, G	False	False
+DB03758	DB04216	Radicicol	Quercetin	0.10902031063321393			False	False
+DB03566	DB04841	Spermidine	Flunarizine	0.10833333333333339		N	False	False
+DB06777	DB04841	Chenodeoxycholic acid	Flunarizine	0.10833333333333339	A	N	False	False
+DB03758	DB01115	Radicicol	Nifedipine	0.10416666666666674		C	False	False
+DB07557	DB01115	3,20-Pregnanedione	Nifedipine	0.10416666666666674		C	False	False
+DB04841	DB01645	Flunarizine	Genistein	0.10085470085470072	N		False	False
+DB00643	DB11582	Mebendazole	Thiocolchicoside	0.10000000000000009	P	M	False	False
+DB00518	DB11582	Albendazole	Thiocolchicoside	0.10000000000000009	P	M	False	False
+DB08348	DB00643	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Mebendazole	0.10000000000000009		P	False	False
+DB08348	DB00518	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Albendazole	0.10000000000000009		P	False	False
+DB08348	DB00541	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Vincristine	0.10000000000000009		L	False	False
+DB01104	DB04841	Sertraline	Flunarizine	0.10000000000000009	N	N	True	False
+DB00514	DB00794	Dextromethorphan	Primidone	0.10000000000000009	N, R	N	False	False
+DB01115	DB01069	Nifedipine	Promethazine	0.09898325358851667	C	V, R, D	True	False
+DB01104	DB06777	Sertraline	Chenodeoxycholic acid	0.09722222222222232	N	A	False	False
+DB00836	DB00514	Loperamide	Dextromethorphan	0.09220779220779218	A	N, R	False	True
+DB02424	DB06589	Geldanamycin	Pazopanib	0.09102564102564092		L	False	False
+DB04216	DB08896	Quercetin	Regorafenib	0.09074074074074057		L	False	False
+DB01092	DB06777	Ouabain	Chenodeoxycholic acid	0.08928571428571419	C	A	False	False
+DB06777	DB04216	Chenodeoxycholic acid	Quercetin	0.0888590203106332	A		False	False
+DB07557	DB00313	3,20-Pregnanedione	Valproic acid	0.08760683760683774		N	False	False
+DB01645	DB01115	Genistein	Nifedipine	0.0867673992673994		C	False	False
+DB03758	DB01645	Radicicol	Genistein	0.08484162895927616			False	False
+DB03566	DB01104	Spermidine	Sertraline	0.08333333333333348		N	False	False
+DB12500	DB00619	Fedratinib	Imatinib	0.08333333333333348	L	L	False	False
+DB02424	DB01104	Geldanamycin	Sertraline	0.08333333333333348		N	False	False
+DB08080	DB06595	Latrunculin B	Midostaurin	0.08333333333333326		L	False	False
+DB01100	DB00820	Pimozide	Tadalafil	0.08333333333333326	N	C, G	False	False
+DB04868	DB03758	Nilotinib	Radicicol	0.08333333333333326	L		False	False
+DB03758	DB00820	Radicicol	Tadalafil	0.08333333333333326		C, G	False	False
+DB12500	DB06080	Fedratinib	Linifanib	0.08333333333333326	L		False	False
+DB06595	DB11582	Midostaurin	Thiocolchicoside	0.08333333333333326	L	M	False	False
+DB01104	DB00820	Sertraline	Tadalafil	0.08333333333333304	N	C, G	False	False
+DB06777	DB00162	Chenodeoxycholic acid	Vitamin A	0.08026315789473681	A	R, D, V, S, A	False	False
+DB01229	DB02709	Paclitaxel	Resveratrol	0.07772435897435903	L		False	False
+DB03010	DB00615	Patupilone	Rifabutin	0.06993006993007		J	False	False
+DB00831	DB01115	Trifluoperazine	Nifedipine	0.06845238095238071	N	C	True	False
+DB04841	DB12742	Flunarizine	Amuvatinib	0.06666666666666643	N		False	False
+DB00850	DB00836	Perphenazine	Loperamide	0.06190476190476191	N	A	False	False
+DB04841	DB04216	Flunarizine	Quercetin	0.05740740740740735	N		False	False
+DB06777	DB02659	Chenodeoxycholic acid	Cholic Acid	0.055952380952380976	A	A	False	False
+DB02424	DB00570	Geldanamycin	Vinblastine	0.0555555555555558		L	False	False
+DB01229	DB00313	Paclitaxel	Valproic acid	0.05555555555555558	L	N	False	False
+DB02424	DB00313	Geldanamycin	Valproic acid	0.05555555555555558		N	False	False
+DB08348	DB00570	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Vinblastine	0.05555555555555558		L	False	False
+DB08080	DB00831	Latrunculin B	Trifluoperazine	0.05555555555555536		N	False	False
+DB01100	DB00836	Pimozide	Loperamide	0.04220779220779214	N	A	False	False
+DB07557	DB00836	3,20-Pregnanedione	Loperamide	0.04220779220779214		A	False	False
+DB01229	DB00518	Paclitaxel	Albendazole	0.04166666666666652	L	P	False	False
+DB01229	DB00541	Paclitaxel	Vincristine	0.04166666666666652	L	L	False	False
+DB01205	DB06777	Flumazenil	Chenodeoxycholic acid	0.04166666666666652	V	A	False	False
+DB00140	DB06777	Riboflavin	Chenodeoxycholic acid	0.04166666666666652	A, S	A	False	False
+DB05134	DB01229	Tanespimycin	Paclitaxel	0.04166666666666652		L	False	False
+DB04868	DB06080	Nilotinib	Linifanib	0.04166666666666652	L		False	False
+DB07594	DB01229	CCT-018159	Paclitaxel	0.04166666666666652		L	False	False
+DB06777	DB12742	Chenodeoxycholic acid	Amuvatinib	0.04166666666666652	A		False	False
+DB05913	DB06777	OSI-930	Chenodeoxycholic acid	0.04166666666666652		A	False	False
+DB01229	DB00643	Paclitaxel	Mebendazole	0.04166666666666652	L	P	False	False
+DB00162	DB00615	Vitamin A	Rifabutin	0.04117647058823537	R, D, V, S, A	J	False	False
+DB04868	DB01268	Nilotinib	Sunitinib	0.03750000000000009	L	L	False	False
+DB08399	DB03758	Piceatannol	Radicicol	0.03571428571428581			False	False
+DB00477	DB01244	Chlorpromazine	Bepridil	0.03410138248847927	N	C	False	False
+DB00818	DB00794	Propofol	Primidone	0.03333333333333344	N	N	False	False
+DB02424	DB00643	Geldanamycin	Mebendazole	0.03333333333333344		P	False	False
+DB02424	DB00518	Geldanamycin	Albendazole	0.03333333333333344		P	False	False
+DB03566	DB00541	Spermidine	Vincristine	0.03333333333333344		L	False	False
+DB00794	DB00615	Primidone	Rifabutin	0.033333333333333215	N	J	False	False
+DB05913	DB00820	OSI-930	Tadalafil	0.033333333333333215		C, G	False	False
+DB12500	DB11800	Fedratinib	Tivozanib	0.02813852813852824	L	L	False	False
+DB07557	DB01645	3,20-Pregnanedione	Genistein	0.026018099547511442			False	False
+DB08348	DB04841	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Flunarizine	0.02499999999999991		N	False	False
+DB02424	DB08901	Geldanamycin	Ponatinib	0.022222222222222365		L	False	False
+DB12500	DB08901	Fedratinib	Ponatinib	0.022222222222222365	L	L	False	False
+DB06777	DB00313	Chenodeoxycholic acid	Valproic acid	0.02029914529914545	A	N	False	False
+DB03758	DB01229	Radicicol	Paclitaxel	0.016666666666666607		L	False	False
+DB00818	DB00615	Propofol	Rifabutin	0.014285714285714235	N	J	False	False
+DB03010	DB12695	Patupilone	Phenethyl Isothiocyanate	0.012878787878787934			False	False
+DB02424	DB01100	Geldanamycin	Pimozide	0.011904761904762085		N	False	False
+DB03758	DB00313	Radicicol	Valproic acid	0.010683760683760868		N	False	False
+DB00313	DB01645	Valproic acid	Genistein	0.008935508935508762	N		False	False
+DB02424	DB11582	Geldanamycin	Thiocolchicoside	2.220446049250313e-16		M	False	False
+DB00518	DB00570	Albendazole	Vinblastine	0.0	P	L	False	False
+DB00570	DB00643	Vinblastine	Mebendazole	0.0	L	P	False	False
+DB05134	DB08399	Tanespimycin	Piceatannol	0.0			False	False
+DB00570	DB00541	Vinblastine	Vincristine	0.0	L	L	False	False
+DB07594	DB00518	CCT-018159	Albendazole	0.0		P	False	False
+DB07594	DB00643	CCT-018159	Mebendazole	0.0		P	False	False
+DB05913	DB08895	OSI-930	Tofacitinib	0.0		L	False	False
+DB07594	DB08399	CCT-018159	Piceatannol	0.0			False	False
+DB05913	DB00140	OSI-930	Riboflavin	0.0		A, S	False	False
+DB01104	DB00615	Sertraline	Rifabutin	0.0	N	J	False	False
+DB08348	DB08080	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Latrunculin B	0.0			False	False
+DB00140	DB00615	Riboflavin	Rifabutin	0.0	A, S	J	False	False
+DB05913	DB08877	OSI-930	Ruxolitinib	0.0		L	False	False
+DB12742	DB00820	Amuvatinib	Tadalafil	0.0		C, G	False	False
+DB00643	DB00541	Mebendazole	Vincristine	0.0	P	L	False	False
+DB08080	DB11582	Latrunculin B	Thiocolchicoside	0.0		M	False	False
+DB08080	DB00615	Latrunculin B	Rifabutin	0.0		J	False	False
+DB01229	DB00820	Paclitaxel	Tadalafil	0.0	L	C, G	False	False
+DB00518	DB00541	Albendazole	Vincristine	0.0	P	L	False	False
+DB00615	DB00541	Rifabutin	Vincristine	0.0	J	L	False	False
+DB05134	DB00518	Tanespimycin	Albendazole	0.0		P	False	False
+DB05134	DB00643	Tanespimycin	Mebendazole	0.0		P	False	False
+DB07080	DB01229	TO-901317	Paclitaxel	-2.220446049250313e-16		L	False	False
+DB08348	DB00820	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Tadalafil	-4.440892098500626e-16		C, G	False	False
+DB01069	DB00615	Promethazine	Rifabutin	-0.0034965034965035446	V, R, D	J	False	False
+DB06777	DB06595	Chenodeoxycholic acid	Midostaurin	-0.008333333333333526	A	L	False	False
+DB02424	DB08896	Geldanamycin	Regorafenib	-0.011904761904761862		L	False	False
+DB01104	DB01229	Sertraline	Paclitaxel	-0.01515151515151536	N	L	False	False
+DB03758	DB08896	Radicicol	Regorafenib	-0.01515151515151536		L	False	False
+DB00836	DB00615	Loperamide	Rifabutin	-0.015873015873015817	A	J	False	False
+DB04841	DB00820	Flunarizine	Tadalafil	-0.016666666666666607	N	C, G	False	False
+DB06080	DB00619	Linifanib	Imatinib	-0.01666666666666683		L	False	False
+DB00836	DB01244	Loperamide	Bepridil	-0.018487394957983128	A	C	False	False
+DB03758	DB00619	Radicicol	Imatinib	-0.019230769230769162		L	False	False
+DB04841	DB00313	Flunarizine	Valproic acid	-0.02063492063492056	N	N	True	False
+DB04841	DB01229	Flunarizine	Paclitaxel	-0.0242424242424244	N	L	False	False
+DB00850	DB01115	Perphenazine	Nifedipine	-0.024621212121211933	N	C	False	False
+DB02424	DB01115	Geldanamycin	Nifedipine	-0.024621212121211933		C	False	False
+DB02424	DB04216	Geldanamycin	Quercetin	-0.025925925925925686			False	False
+DB08348	DB00313	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Valproic acid	-0.02777777777777768		N	False	False
+DB00794	DB11582	Primidone	Thiocolchicoside	-0.030769230769230882	N	M	True	False
+DB02709	DB01645	Resveratrol	Genistein	-0.03205128205128194			False	False
+DB08348	DB03758	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Radicicol	-0.03571428571428581			False	False
+DB03758	DB11582	Radicicol	Thiocolchicoside	-0.03571428571428581		M	False	False
+DB06080	DB08896	Linifanib	Regorafenib	-0.04166666666666674		L	False	False
+DB01229	DB01645	Paclitaxel	Genistein	-0.04183535762483115	L		False	False
+DB02424	DB11800	Geldanamycin	Tivozanib	-0.04329004329004338		L	False	False
+DB02424	DB01268	Geldanamycin	Sunitinib	-0.04734848484848464		L	False	False
+DB12500	DB01268	Fedratinib	Sunitinib	-0.04734848484848464	L	L	False	False
+DB12695	DB04216	Phenethyl Isothiocyanate	Quercetin	-0.04814814814814805			False	False
+DB01244	DB01069	Bepridil	Promethazine	-0.04891774891774903	C	V, R, D	True	False
+DB04841	DB00162	Flunarizine	Vitamin A	-0.050000000000000044	N	R, D, V, S, A	False	False
+DB00619	DB06589	Imatinib	Pazopanib	-0.050000000000000044	L	L	False	False
+DB03758	DB00570	Radicicol	Vinblastine	-0.050000000000000044		L	False	False
+DB08080	DB12742	Latrunculin B	Amuvatinib	-0.0555555555555558			False	False
+DB08080	DB01229	Latrunculin B	Paclitaxel	-0.0555555555555558		L	False	False
+DB12695	DB00615	Phenethyl Isothiocyanate	Rifabutin	-0.056028368794326155		J	False	False
+DB02709	DB00615	Resveratrol	Rifabutin	-0.05769230769230771		J	False	False
+DB02424	DB05913	Geldanamycin	OSI-930	-0.06666666666666643			False	False
+DB05913	DB12500	OSI-930	Fedratinib	-0.06666666666666643		L	False	False
+DB03566	DB00615	Spermidine	Rifabutin	-0.06666666666666643		J	False	False
+DB03758	DB04841	Radicicol	Flunarizine	-0.07222222222222241		N	False	False
+DB01229	DB01115	Paclitaxel	Nifedipine	-0.07440476190476208	L	C	False	False
+DB07080	DB01645	TO-901317	Genistein	-0.07692307692307687			False	False
+DB00850	DB01244	Perphenazine	Bepridil	-0.0820512820512822	N	C	False	False
+DB00850	DB01069	Perphenazine	Promethazine	-0.08225108225108224	N	V, R, D	False	False
+DB05134	DB03758	Tanespimycin	Radicicol	-0.08333333333333326			False	False
+DB07557	DB00615	3,20-Pregnanedione	Rifabutin	-0.08333333333333326		J	False	False
+DB02424	DB00619	Geldanamycin	Imatinib	-0.08333333333333326		L	False	False
+DB05913	DB03758	OSI-930	Radicicol	-0.08333333333333326			False	False
+DB07594	DB03758	CCT-018159	Radicicol	-0.08333333333333326			False	False
+DB07594	DB12742	CCT-018159	Amuvatinib	-0.08333333333333348			False	False
+DB07557	DB01229	3,20-Pregnanedione	Paclitaxel	-0.08333333333333348		L	False	False
+DB05134	DB12742	Tanespimycin	Amuvatinib	-0.08333333333333348			False	False
+DB03758	DB12742	Radicicol	Amuvatinib	-0.08333333333333348			False	False
+DB01229	DB00570	Paclitaxel	Vinblastine	-0.08333333333333348	L	L	False	False
+DB04868	DB08080	Nilotinib	Latrunculin B	-0.10000000000000009	L		False	False
+DB05134	DB08348	Tanespimycin	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	-0.10000000000000009			False	False
+DB04513	DB04841	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Flunarizine	-0.10000000000000009		N	False	False
+DB07594	DB08348	CCT-018159	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	-0.10000000000000009			False	False
+DB04513	DB00615	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Rifabutin	-0.10000000000000009		J	False	False
+DB06777	DB01115	Chenodeoxycholic acid	Nifedipine	-0.10416666666666674	A	C	False	False
+DB03010	DB00570	Patupilone	Vinblastine	-0.10427807486631013		L	False	False
+DB04513	DB01100	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Pimozide	-0.1071428571428572		N	False	False
+DB01645	DB00615	Genistein	Rifabutin	-0.11025641025641031		J	False	False
+DB06080	DB08901	Linifanib	Ponatinib	-0.1166666666666667		L	False	False
+DB01100	DB01069	Pimozide	Promethazine	-0.1227272727272728	N	V, R, D	False	False
+DB03758	DB06777	Radicicol	Chenodeoxycholic acid	-0.125		A	False	False
+DB05134	DB06777	Tanespimycin	Chenodeoxycholic acid	-0.125		A	False	False
+DB07594	DB06777	CCT-018159	Chenodeoxycholic acid	-0.125		A	False	False
+DB07080	DB00615	TO-901317	Rifabutin	-0.125		J	False	False
+DB00850	DB00477	Perphenazine	Chlorpromazine	-0.13095238095238093	N	N	False	False
+DB01244	DB00615	Bepridil	Rifabutin	-0.1333333333333333	C	J	False	False
+DB05913	DB08896	OSI-930	Regorafenib	-0.13333333333333353		L	False	False
+DB02424	DB06595	Geldanamycin	Midostaurin	-0.13888888888888884		L	False	False
+DB02424	DB06080	Geldanamycin	Linifanib	-0.13888888888888884			False	False
+DB02424	DB04841	Geldanamycin	Flunarizine	-0.1416666666666666		N	False	False
+DB03010	DB01229	Patupilone	Paclitaxel	-0.14349376114082002		L	False	False
+DB01100	DB01115	Pimozide	Nifedipine	-0.14583333333333326	N	C	False	False
+DB06777	DB00820	Chenodeoxycholic acid	Tadalafil	-0.14880952380952417	A	C, G	False	False
+DB01205	DB00818	Flumazenil	Propofol	-0.15833333333333321	V	N	False	False
+DB02424	DB12500	Geldanamycin	Fedratinib	-0.16666666666666652		L	False	False
+DB02424	DB04868	Geldanamycin	Nilotinib	-0.16666666666666652		L	False	False
+DB02424	DB08399	Geldanamycin	Piceatannol	-0.16666666666666652			False	False
+DB07594	DB03777	CCT-018159	Bisindolylmaleimide I	-0.16666666666666652			False	False
+DB07594	DB12500	CCT-018159	Fedratinib	-0.16666666666666652		L	False	False
+DB04868	DB12500	Nilotinib	Fedratinib	-0.16666666666666652	L	L	False	False
+DB00850	DB04513	Perphenazine	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	-0.16666666666666652	N		False	False
+DB05134	DB12500	Tanespimycin	Fedratinib	-0.16666666666666652		L	False	False
+DB05134	DB03777	Tanespimycin	Bisindolylmaleimide I	-0.16666666666666652			False	False
+DB02424	DB03777	Geldanamycin	Bisindolylmaleimide I	-0.16666666666666652			False	False
+DB02424	DB08348	Geldanamycin	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	-0.16666666666666652			False	False
+DB08895	DB00615	Tofacitinib	Rifabutin	-0.16666666666666674	L	J	False	False
+DB08877	DB00615	Ruxolitinib	Rifabutin	-0.16666666666666674	L	J	False	False
+DB02424	DB01229	Geldanamycin	Paclitaxel	-0.16666666666666674		L	False	False
+DB00615	DB00820	Rifabutin	Tadalafil	-0.16666666666666696	J	C, G	False	False
+DB11582	DB00820	Thiocolchicoside	Tadalafil	-0.16666666666666696	M	C, G	False	False
+DB01115	DB01244	Nifedipine	Bepridil	-0.16805555555555562	C	C	False	False
+DB04841	DB00836	Flunarizine	Loperamide	-0.17142857142857149	N	A	False	False
+DB06777	DB01645	Chenodeoxycholic acid	Genistein	-0.17251131221719462	A		False	False
+DB04868	DB00619	Nilotinib	Imatinib	-0.18181818181818177	L	L	False	False
+DB00619	DB11800	Imatinib	Tivozanib	-0.1909090909090908	L	L	False	False
+DB03758	DB01104	Radicicol	Sertraline	-0.19444444444444442		N	False	False
+DB03010	DB00541	Patupilone	Vincristine	-0.19930069930069927		L	False	False
+DB00818	DB11582	Propofol	Thiocolchicoside	-0.19999999999999996	N	M	True	False
+DB05913	DB08080	OSI-930	Latrunculin B	-0.19999999999999996			False	False
+DB01104	DB00514	Sertraline	Dextromethorphan	-0.19999999999999996	N	N, R	True	False
+DB00831	DB04841	Trifluoperazine	Flunarizine	-0.20606060606060628	N	N	True	False
+DB04216	DB02709	Quercetin	Resveratrol	-0.20688867386980592			False	False
+DB04868	DB06595	Nilotinib	Midostaurin	-0.20833333333333348	L	L	False	False
+DB00831	DB00615	Trifluoperazine	Rifabutin	-0.20833333333333348	N	J	False	False
+DB06589	DB00615	Pazopanib	Rifabutin	-0.21666666666666679	L	J	False	False
+DB02424	DB06777	Geldanamycin	Chenodeoxycholic acid	-0.22023809523809512		A	False	False
+DB04513	DB01244	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Bepridil	-0.22307692307692317		C	False	False
+DB05913	DB00619	OSI-930	Imatinib	-0.2272727272727273		L	False	False
+DB00313	DB00615	Valproic acid	Rifabutin	-0.23232323232323226	N	J	False	False
+DB01205	DB00615	Flumazenil	Rifabutin	-0.2333333333333334	V	J	False	False
+DB04841	DB00477	Flunarizine	Chlorpromazine	-0.23736263736263763	N	N	False	False
+DB05913	DB08901	OSI-930	Ponatinib	-0.23921568627450962		L	False	False
+DB04216	DB01645	Quercetin	Genistein	-0.2445156695156694			False	False
+DB00615	DB00643	Rifabutin	Mebendazole	-0.25	J	P	False	False
+DB00518	DB00615	Albendazole	Rifabutin	-0.25	P	J	False	False
+DB00570	DB00615	Vinblastine	Rifabutin	-0.25	L	J	False	False
+DB12742	DB06589	Amuvatinib	Pazopanib	-0.2583333333333333		L	False	False
+DB00850	DB00615	Perphenazine	Rifabutin	-0.2666666666666666	N	J	False	False
+DB00619	DB08896	Imatinib	Regorafenib	-0.2685185185185187	L	L	False	False
+DB03010	DB00643	Patupilone	Mebendazole	-0.27622377622377614		P	False	False
+DB03010	DB00518	Patupilone	Albendazole	-0.27622377622377614		P	False	False
+DB06589	DB08901	Pazopanib	Ponatinib	-0.28333333333333344	L	L	False	False
+DB00831	DB00477	Trifluoperazine	Chlorpromazine	-0.28835978835978837	N	N	False	False
+DB12742	DB08896	Amuvatinib	Regorafenib	-0.29166666666666674		L	False	False
+DB01100	DB04841	Pimozide	Flunarizine	-0.2944444444444445	N	N	False	False
+DB01268	DB00619	Sunitinib	Imatinib	-0.2977941176470589	L	L	False	False
+DB08901	DB00615	Ponatinib	Rifabutin	-0.29803921568627434	L	J	False	False
+DB00831	DB01069	Trifluoperazine	Promethazine	-0.31194295900178237	N	V, R, D	False	False
+DB01115	DB00615	Nifedipine	Rifabutin	-0.3125	C	J	False	False
+DB01268	DB08901	Sunitinib	Ponatinib	-0.31322463768115927	L	L	False	False
+DB00831	DB01244	Trifluoperazine	Bepridil	-0.3208333333333333	N	C	True	False
+DB06777	DB07080	Chenodeoxycholic acid	TO-901317	-0.32499999999999996	A		False	False
+DB06595	DB08896	Midostaurin	Regorafenib	-0.33333333333333337	L	L	False	False
+DB04513	DB00831	N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide	Trifluoperazine	-0.3333333333333335		N	False	False
+DB08896	DB00615	Regorafenib	Rifabutin	-0.3333333333333335	L	J	False	False
+DB01268	DB08896	Sunitinib	Regorafenib	-0.33814102564102577	L	L	False	False
+DB01100	DB00477	Pimozide	Chlorpromazine	-0.3442857142857143	N	N	False	False
+DB07557	DB07080	3,20-Pregnanedione	TO-901317	-0.35			False	False
+DB04216	DB00615	Quercetin	Rifabutin	-0.35121328224776494		J	False	False
+DB06777	DB01229	Chenodeoxycholic acid	Paclitaxel	-0.3583333333333334	A	L	False	False
+DB11800	DB00615	Tivozanib	Rifabutin	-0.36013986013986	L	J	False	False
+DB12500	DB06595	Fedratinib	Midostaurin	-0.36111111111111116	L	L	False	False
+DB01268	DB00615	Sunitinib	Rifabutin	-0.36250000000000004	L	J	False	False
+DB00619	DB08901	Imatinib	Ponatinib	-0.3666666666666666	L	L	False	False
+DB07557	DB06777	3,20-Pregnanedione	Chenodeoxycholic acid	-0.375		A	False	False
+DB06589	DB08896	Pazopanib	Regorafenib	-0.3833333333333333	L	L	False	False
+DB06080	DB06589	Linifanib	Pazopanib	-0.3833333333333333		L	False	False
+DB01100	DB00831	Pimozide	Trifluoperazine	-0.3833333333333335	N	N	True	False
+DB12500	DB12742	Fedratinib	Amuvatinib	-0.38888888888888884	L		False	False
+DB02424	DB12742	Geldanamycin	Amuvatinib	-0.38888888888888884			False	False
+DB00850	DB04841	Perphenazine	Flunarizine	-0.3916666666666666	N	N	True	False
+DB00615	DB11582	Rifabutin	Thiocolchicoside	-0.3999999999999999	J	M	False	False
+DB08348	DB00615	N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE	Rifabutin	-0.3999999999999999		J	False	False
+DB06595	DB08901	Midostaurin	Ponatinib	-0.4023809523809524	L	L	False	False
+DB01100	DB01244	Pimozide	Bepridil	-0.40714285714285725	N	C	False	False
+DB00619	DB00615	Imatinib	Rifabutin	-0.40909090909090917	L	J	False	False
+DB12742	DB06080	Amuvatinib	Linifanib	-0.41666666666666674			False	False
+DB01100	DB00615	Pimozide	Rifabutin	-0.41666666666666674	N	J	False	False
+DB06595	DB00619	Midostaurin	Imatinib	-0.41666666666666685	L	L	False	False
+DB04841	DB01069	Flunarizine	Promethazine	-0.4352272727272728	N	V, R, D	False	False
+DB05913	DB11800	OSI-930	Tivozanib	-0.4370629370629371		L	False	False
+DB06595	DB06589	Midostaurin	Pazopanib	-0.4458333333333333	L	L	False	False
+DB06777	DB00615	Chenodeoxycholic acid	Rifabutin	-0.45833333333333326	A	J	False	False
+DB06595	DB00615	Midostaurin	Rifabutin	-0.4583333333333335	L	J	False	False
+DB04868	DB12742	Nilotinib	Amuvatinib	-0.4583333333333335	L		False	False
+DB01229	DB00615	Paclitaxel	Rifabutin	-0.4583333333333335	L	J	False	False
+DB06080	DB00615	Linifanib	Rifabutin	-0.4583333333333335		J	False	False
+DB05913	DB12742	OSI-930	Amuvatinib	-0.4583333333333335			False	False
+DB12500	DB00615	Fedratinib	Rifabutin	-0.46666666666666656	L	J	False	False
+DB03777	DB00615	Bisindolylmaleimide I	Rifabutin	-0.46666666666666656		J	False	False
+DB05913	DB06589	OSI-930	Pazopanib	-0.4666666666666668		L	False	False
+DB01205	DB00794	Flumazenil	Primidone	-0.47948717948717956	V	N	False	False
+DB00477	DB01069	Chlorpromazine	Promethazine	-0.4870129870129869	N	V, R, D	False	False
+DB08399	DB00615	Piceatannol	Rifabutin	-0.5		J	False	False
+DB05913	DB00615	OSI-930	Rifabutin	-0.5		J	False	False
+DB04868	DB00615	Nilotinib	Rifabutin	-0.5	L	J	False	False
+DB01205	DB11582	Flumazenil	Thiocolchicoside	-0.5000000000000002	V	M	False	False
+DB04841	DB00615	Flunarizine	Rifabutin	-0.5285714285714287	N	J	False	False
+DB12742	DB01268	Amuvatinib	Sunitinib	-0.5386904761904764		L	False	False
+DB08901	DB08896	Ponatinib	Regorafenib	-0.5712121212121213	L	L	False	False
+DB05913	DB06595	OSI-930	Midostaurin	-0.5833333333333335		L	False	False
+DB11800	DB08901	Tivozanib	Ponatinib	-0.5857808857808858	L	L	False	False
+DB11800	DB08896	Tivozanib	Regorafenib	-0.5880355276907002	L	L	False	False
+DB12500	DB08877	Fedratinib	Ruxolitinib	-0.5952380952380951	L	L	False	False
+DB12500	DB08895	Fedratinib	Tofacitinib	-0.5952380952380951	L	L	False	False
+DB12742	DB11800	Amuvatinib	Tivozanib	-0.6007130124777185		L	False	False
+DB12742	DB08901	Amuvatinib	Ponatinib	-0.6047619047619048		L	False	False
+DB04841	DB01115	Flunarizine	Nifedipine	-0.6048076923076924	N	C	False	False
+DB00850	DB00831	Perphenazine	Trifluoperazine	-0.6111111111111112	N	N	True	False
+DB01268	DB06589	Sunitinib	Pazopanib	-0.6125	L	L	False	False
+DB06589	DB11800	Pazopanib	Tivozanib	-0.6170995670995673	L	L	False	False
+DB04841	DB01244	Flunarizine	Bepridil	-0.6333333333333335	N	C	False	False
+DB06080	DB11800	Linifanib	Tivozanib	-0.644830659536542		L	False	False
+DB05913	DB01268	OSI-930	Sunitinib	-0.6625		L	False	False
+DB06080	DB06595	Linifanib	Midostaurin	-0.6666666666666667		L	False	False
+DB12742	DB00619	Amuvatinib	Imatinib	-0.6666666666666669		L	False	False
+DB02424	DB03758	Geldanamycin	Radicicol	-0.7023809523809522			False	False
+DB06595	DB11800	Midostaurin	Tivozanib	-0.7036541889483067	L	L	False	False
+DB12742	DB00615	Amuvatinib	Rifabutin	-0.7083333333333335		J	False	False
+DB05134	DB00615	Tanespimycin	Rifabutin	-0.75		J	False	False
+DB07594	DB00615	CCT-018159	Rifabutin	-0.75		J	False	False
+DB03758	DB00615	Radicicol	Rifabutin	-0.75		J	False	False
+DB05913	DB04868	OSI-930	Nilotinib	-0.75		L	False	False
+DB02424	DB05134	Geldanamycin	Tanespimycin	-0.7666666666666665			False	False
+DB02424	DB07594	Geldanamycin	CCT-018159	-0.7666666666666665			False	False
+DB12742	DB06595	Amuvatinib	Midostaurin	-0.8333333333333334		L	False	False
+DB05913	DB06080	OSI-930	Linifanib	-0.8333333333333335			False	False
+DB01268	DB11800	Sunitinib	Tivozanib	-0.8376196172248803	L	L	False	False
+DB00850	DB01100	Perphenazine	Pimozide	-0.8452380952380951	N	N	False	False
+DB06595	DB01268	Midostaurin	Sunitinib	-0.8601190476190478	L	L	False	False
+DB07374	DB08437	Anisomycin	Puromycin	-0.96			False	False
+DB00773	DB05022	Etoposide	Amonafide	-1.0	L		False	False
+DB05134	DB07594	Tanespimycin	CCT-018159	-1.0			False	False
+DB08895	DB08877	Tofacitinib	Ruxolitinib	-1.0	L	L	False	False
+DB00518	DB00643	Albendazole	Mebendazole	-1.0	P	P	False	False
+DB00773	DB00380	Etoposide	Dexrazoxane	-1.0	L	V	True	False
+DB05022	DB00380	Amonafide	Dexrazoxane	-1.0		V	False	False
+DB05022	DB00694	Amonafide	Daunorubicin	-1.0		L	False	False
+DB00380	DB00694	Dexrazoxane	Daunorubicin	-1.0	V	L	True	False
+DB00773	DB00694	Etoposide	Daunorubicin	-1.0	L	L	False	False
+DB06080	DB01268	Linifanib	Sunitinib	-1.0029761904761907		L	False	False
+DB02424	DB00615	Geldanamycin	Rifabutin	-1.4666666666666666		J	False	False
