@@ -822,18 +822,68 @@ def get_genes_from_directory(directory):
     if not dir_path.exists() or not dir_path.is_dir() or not any(dir_path.iterdir()):
         log.error("Provided gene files directory is not a directory or does not exist or is empty")
 
-    genes = set()
+    gene_files = {}
 
     for gene_file_path in dir_path.iterdir():
+        genes = set()
         print(gene_file_path)
 
         if gene_file_path.is_file():
             genes |= set(pd.read_csv(gene_file_path).iloc[:, 0].tolist())
 
-    genes_dict = {
-        ncbi.check_symbol(gene): ncbi.get_id_by_symbol(gene)
-        for gene in genes
-        if ncbi.get_id_by_symbol(gene) and ncbi.check_symbol(gene)
-    }
+        genes_dict = {
+            ncbi.check_symbol(gene): ncbi.get_id_by_symbol(gene)
+            for gene in genes
+            if ncbi.get_id_by_symbol(gene) and ncbi.check_symbol(gene)
+        }
 
-    return genes_dict
+        gene_files[gene_file_path.stem] = genes_dict
+
+    return gene_files
+
+def get_genes_from_directory_updown(directory):
+    from databases import NCBI
+
+    ncbi = NCBI()
+
+    # print(directory)
+
+    dir_path = Path(directory)
+
+    if not dir_path.exists() or not dir_path.is_dir() or not any(dir_path.iterdir()):
+        log.error("Provided gene files directory is not a directory or does not exist or is empty")
+
+    gene_files = {}
+
+    for gene_file_path in dir_path.iterdir():
+        up_genes = set()
+        down_genes = set()
+        # print(gene_file_path)
+
+        if gene_file_path.is_file():
+            gene_file = pd.read_csv(gene_file_path)
+            genes = pd.read_csv(gene_file_path).iloc[:, 0].tolist()
+            log2FC = pd.read_csv(gene_file_path).iloc[:, 2].tolist()
+
+            for gene, fc in zip(genes, log2FC):
+                if fc > 0.25:
+                    up_genes.add(gene)
+                elif fc < -0.25:
+                    down_genes.add(gene)
+
+
+        up_genes_dict = {
+            ncbi.check_symbol(gene): ncbi.get_id_by_symbol(gene)
+            for gene in up_genes
+            if ncbi.get_id_by_symbol(gene) and ncbi.check_symbol(gene)
+        }
+
+        down_genes_dict = {
+            ncbi.check_symbol(gene): ncbi.get_id_by_symbol(gene)
+            for gene in down_genes
+            if ncbi.get_id_by_symbol(gene) and ncbi.check_symbol(gene)
+        }
+
+        gene_files[gene_file_path.stem] = [up_genes_dict, down_genes_dict]
+
+    return gene_files

@@ -173,6 +173,7 @@ def compute_distance(
 
 # @profile()
 def get_proximities(
+    run_name,
     disease_name,
     disease_genes,
     shortest_paths_lengths=None,
@@ -444,7 +445,7 @@ def get_proximities(
     )
     
     with open(
-        f"data/results/{disease_name.replace(' ', '')}/network_proximities.tsv", "w"
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/network_proximities.tsv", "w"
     ) as outfile:
         outfile.write(
             f"# Reference distribution mean: {mean} and standard deviation: {std}\n"
@@ -495,7 +496,7 @@ def get_proximities(
     plt.ylabel("Density")
 
     plt.savefig(
-        f"data/results/{disease_name.replace(' ', '')}/distances_distributions.svg",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/distances_distributions.svg",
         format="svg",
         bbox_inches="tight",
     )

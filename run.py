@@ -42,8 +42,8 @@ import logging
 
 import ray
 
+from l2s2_updown import enrich_l2s2_up_down
 from l2s2 import enrich_l2s2_single_set
-
 
 os.environ["OMP_NUM_THREADS"] = "1"
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
@@ -63,9 +63,9 @@ class analysis:
         Drug Candidates Identification by Integrated Network Analysis
     """
 
-    def __init__(self, disease_name, disease_genes, cell_lines, l2s2):
+    def __init__(self, disease_name, run_name, disease_genes, cell_lines, l2s2, up_gene={}, down_gene={}):
         logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[logging.FileHandler(
         "run.log", mode="a"), logging.StreamHandler()],
@@ -78,6 +78,11 @@ class analysis:
         self.__disease_name = disease_name
         self.__disease_genes = disease_genes
         self.__cell_lines = cell_lines
+        self.__run_name = run_name
+
+        # if l2s2:
+        #     self.__up_disease_genes = up_gene
+        #     self.__down_disease_genes = down_gene
 
         log.info(f"Analyzing {self.__disease_name}\n")
         log.debug(
@@ -86,7 +91,7 @@ class analysis:
 
         try:
             os.makedirs(
-                f"data/results/{disease_name.replace(' ', '')}", exist_ok=True)
+                f"data/results/{run_name}/{disease_name.replace(' ', '')}", exist_ok=True)
             log.info(
                 f"Performing Gene Ontology Enrichment Analysis for {self.__disease_name}"
             )
@@ -98,6 +103,7 @@ class analysis:
                 hsa_gene_ids=hsa_gene_ids,
                 disease_genes_ids=self.__disease_genes.values(),
                 disease_name=self.__disease_name,
+                run_name = self.__run_name
             )
 
             log.info(
@@ -110,6 +116,7 @@ class analysis:
                 hsa_gene_ids=hsa_gene_ids,
                 disease_genes_ids=self.__disease_genes.values(),
                 disease_name=self.__disease_name,
+                run_name =self.__run_name
             )
 
             log.info("Preparing Interactome")
@@ -123,22 +130,24 @@ class analysis:
             from network_proximity import get_proximities
 
             self.__network_proximity_results = get_proximities(
-                self.__disease_name, self.__disease_genes.keys()
+                self.__run_name, self.__disease_name, self.__disease_genes.keys()
             )
             # self.__network_proximity_results = pd.read_csv(
-            #     f"data/results/{self.__disease_name.replace(' ', '')}/network_proximities.tsv", sep="\t", comment="#", index_col=0)
+            #     f"data/results/{self.__run_name}/{self.__disease_name.replace(' ', '')}/network_proximities.tsv", sep="\t", comment="#", index_col=0)
             
             log.info(f"Drug Poximities finished for {self.__disease_name}")
 
             with open(
-                f"data/results/{self.__disease_name.replace(' ', '')}/network_proximities.tsv"
+                f"data/results/{self.__run_name}/{self.__disease_name.replace(' ', '')}/network_proximities.tsv"
             ) as infile:
                 infile.readline()
                 self.__distance_threshold = float(
-                    re.findall("\# Threshold: ([0-9]\.[0-9]{1,2})", infile.readline())[
+                    re.findall("\# Threshold: (-*[0-9]\.[0-9]{1,2})", infile.readline())[
                         0
                     ]
                 )
+
+            # self.__distance_threshold = -5.5
 
             log.info(
                 f"Performing Inverted Gene Set Enrichment Analysis for {self.__disease_name}"
@@ -151,6 +160,7 @@ class analysis:
             if not l2s2:
                 lincs = LINCS(base_cell_lines=self.__cell_lines, batch_size=2500)
                 self.__igsea_results = IGSEA(
+                    self.__run_name,
                     self.__disease_name,
                     {str(id) for id in self.__disease_genes.values()},
                     lincs,
@@ -160,10 +170,24 @@ class analysis:
 
                 db = DrugBank()
 
-                self.__igsea_results = enrich_l2s2_single_set(list(self.__disease_genes.keys()), db, self.__disease_name)
+                self.__igsea_results = enrich_l2s2_single_set(list(self.__disease_genes.keys()), db, self.__disease_name, self.__run_name)
+
+                # self.__igsea_results = enrich_l2s2_up_down(list(self.__up_disease_genes.keys()),list(self.__down_disease_genes.keys()), db, self.__disease_name, self.__run_name)
+
+                # if self.__igsea_results.empty:
+                #     log.error(f"{error}\nAnalysis of {disease_name} FAILED!\n", exc_info=True)
+                #     return None
+
 
             self.__igsea_results = pd.read_csv(
-                f"data/results/{self.__disease_name.replace(' ', '')}/IGSEA_results.tsv", sep="\t", comment="#")
+                f"data/results/{self.__run_name}/{self.__disease_name.replace(' ', '')}/IGSEA_results.tsv", sep="\t", comment="#")
+
+            print(set(
+                        self.__network_proximity_results[
+                            self.__network_proximity_results["Distance"]
+                            < self.__distance_threshold
+                        ].index
+                    ))
 
             self.__proximal_igsea_results = self.__igsea_results[
                 self.__igsea_results["DrugBank_ID"].isin(
@@ -176,6 +200,8 @@ class analysis:
                 )
             ].copy()
 
+            print(self.__proximal_igsea_results)
+
             self.__significant_proximal_igsea_results = self.__proximal_igsea_results[
                 self.__proximal_igsea_results["FDR"].apply(
                     lambda fdr: True
@@ -183,6 +209,9 @@ class analysis:
                     else float(fdr) < 0.25
                 )
             ]
+
+            print(self.__significant_proximal_igsea_results)
+
 
             self.__significant_proximal_igsea_results = self.__significant_proximal_igsea_results.merge(
                 self.__network_proximity_results.reset_index()[
@@ -243,7 +272,7 @@ class analysis:
             )
 
             self.__promising_drug_candidates.to_csv(
-                f"data/results/{self.__disease_name.replace(' ', '')}/promising_drug_candidates.tsv",
+                f"data/results/{self.__run_name}/{self.__disease_name.replace(' ', '')}/promising_drug_candidates.tsv",
                 sep="\t",
             )
 
@@ -253,16 +282,16 @@ class analysis:
             )
 
             draw_drug_target_gene_network(
-                self.__disease_name, self.__disease_genes.keys()
+                self.__disease_name, self.__run_name, self.__disease_genes.keys()
             )
             
             draw_gene_target_drug_sankey(
-                self.__disease_name, self.__disease_genes.keys()
+                self.__disease_name, self.__run_name, self.__disease_genes.keys()
             )
 
             from drug_combinations import study_drug_combinations
 
-            study_drug_combinations(self.__disease_name)
+            study_drug_combinations(self.__disease_name, self.__run_name)
 
             print("\n")
             log.info(f"Analysis of {disease_name} Finished!\n")
@@ -313,10 +342,10 @@ class analysis:
     def significant_proximal_igsea_results(self):
         return self.__significant_proximal_igsea_results
 
-@ray.remote(num_cpus=1)
-def run_analysis_wrapper(disease_name, disease_genes, cell_lines):
-    disease = analysis(disease_name, disease_genes, cell_lines)
-    return None
+# @ray.remote(num_cpus=1)
+# def run_analysis_wrapper(disease_name, disease_genes, cell_lines):
+#     disease = analysis(disease_name, disease_genes, cell_lines)
+#     return None
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -325,7 +354,7 @@ if __name__ == "__main__":
         formatter_class=argparse.RawTextHelpFormatter,
     )
     parser.add_argument(
-        "-d", "--disease", type=str, nargs="+", help="Disease Name", dest="disease"
+        "-rn", "--run_name", type=str, nargs="+", help="Run Name", dest="run"
     )
     # parser.add_argument(
     #     "-g",
@@ -369,7 +398,7 @@ if __name__ == "__main__":
 
 
     args = parser.parse_args()
-    disease_name = " ".join(args.disease) if args.disease else None
+    run_name = " ".join(args.run) if args.run else None
 
     if args.initial_setup:
         from databases import NCBI, HGNC, GO, DisGeNET, DrugBank, LINCS, HPO, OMIM, APID, BioGRID, HuRI, InnateDB, INstruct, IntAct, SignaLink, STRING
@@ -391,14 +420,26 @@ if __name__ == "__main__":
         SignaLink(update=True)
         STRING(update=True)
 
-    elif not disease_name or not args.cell_lines or not args.genes_files:
+    elif not args.run or not args.cell_lines or not args.genes_files:
         raise Exception("Missing at least one required flag. Must provide disease name, cell lines, and gene files.")\
         
-    from utils import get_genes_from_directory
+    from utils import get_genes_from_directory, get_genes_from_directory_updown
 
-    disease_genes = get_genes_from_directory(args.genes_files)
+    os.makedirs(
+                f"data/results/{run_name}", exist_ok=True)    
 
-    analysis(disease_name, disease_genes, args.cell_lines, l2s2)
+    if not args.l2s2:
+        disease_genes_celltype = get_genes_from_directory(args.genes_files)
+
+        for name, genes in disease_genes_celltype.items(): 
+            if name not in ["ast", "endothelia", "ependymal", "interneuronCALB2", "microglia", "oligo"]:
+                analysis(name, run_name, genes, args.cell_lines, args.l2s2)
+    else:
+        disease_genes_celltype = get_genes_from_directory(args.genes_files)
+
+        for name, genes in disease_genes_celltype.items(): 
+            # if name not in ["d1msn", "d2msn", "hybridMSN", "interneuronOPN3", "opc"]:
+            analysis(name, run_name, genes, args.cell_lines, args.l2s2)
 
 
 
@@ -436,28 +477,32 @@ if __name__ == "__main__":
 
     #     # task = analysis(f"Huntington_fibroblast", huntington_genes["fibroblast"], ["HL60","JURKAT","NOMO1","PL21","SHSY5Y","SKM1","THP1","U937","WSUDLCL2","MNEU.E","NEU","NEU.KCL","NPC","NPC.CAS9","NPC.TAK"])
 
-    #     result = []
+    # result = []
 
-    #     for i in range(5):
-    #         from network_proximity import get_proximities
+    # from utils import get_genes_from_directory
 
-    #         get_proximities(
-    #             f"proxtest/test_{i}", huntington_genes["d1msn"].keys()
-    #         )
-    #         # self.__network_proximity_results = pd.read_csv(
-    #         #     f"data/results/{self.__disease_name.replace(' ', '')}/network_proximities.tsv", sep="\t", comment="#", index_col=0)
-            
-    #         # log.info(f"Drug Poximities finished for {self.__disease_name}")
+    # d1msn_genes = get_genes_from_directory("data/test_data")
 
-    #         with open(
-    #             f"data/results/proxtest/test_{i}/network_proximities.tsv"
-    #         ) as infile:    
-    #             infile.readline()
-    #             result.append( float(
-    #                 re.findall("\# Threshold: ([0-9]\.[0-9]{1,2})", infile.readline())[
-    #                     0
-    #                 ]
-    #             ))  
+    # for i in range(1, 5):
+    #     from network_proximity import get_proximities
+
+    #     get_proximities(
+    #         f"proxtest/test_{i}", d1msn_genes.keys()
+    #     )
+    #     # self.__network_proximity_results = pd.read_csv(
+    #     #     f"data/results/{self.__disease_name.replace(' ', '')}/network_proximities.tsv", sep="\t", comment="#", index_col=0)
+        
+    #     # log.info(f"Drug Poximities finished for {self.__disease_name}")
+
+    #     with open(
+    #         f"data/results/proxtest/test_{i}/network_proximities.tsv"
+    #     ) as infile:    
+    #         infile.readline()
+    #         result.append( float(
+    #             re.findall("\# Threshold: ([0-9]\.[0-9]{1,2})", infile.readline())[
+    #                 0
+    #             ]
+    #         ))  
 
             
 

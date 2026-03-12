@@ -202,7 +202,7 @@ def jaccard(set1, set2):
         return 0.0
 
 
-def draw_heatmap(disease_name, drugs, shortest_paths_length):
+def draw_heatmap(disease_name, run_name, drugs, shortest_paths_length):
     data = pd.DataFrame(
         {
             A: {B: get_separation(A, B, shortest_paths_length) for B in drugs}
@@ -490,17 +490,17 @@ def draw_heatmap(disease_name, drugs, shortest_paths_length):
 
     # Save Figure
     plt.savefig(
-        f"data/results/{disease_name.replace(' ', '')}/drug_combinations.svg",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/drug_combinations.svg",
         format="svg",
         bbox_inches="tight",
     )
     plt.close()
 
 
-def study_drug_combinations(disease_name):
+def study_drug_combinations(disease_name, run_name):
     # Retrieve Promising Drug Candidates
     promising_drug_candidates = pd.read_csv(
-        f"data/results/{disease_name.replace(' ', '')}/promising_drug_candidates.tsv",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/promising_drug_candidates.tsv",
         sep="\t",
         index_col=0,
     ).set_index("DrugBank_ID")
@@ -572,15 +572,15 @@ def study_drug_combinations(disease_name):
         ],
     ).sort_values(by="Separation", ascending=False)
     drug_combinations.to_csv(
-        f"data/results/{disease_name.replace(' ', '')}/drug_combinations.tsv",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/drug_combinations.tsv",
         sep="\t",
         index=False,
     )
 
-    draw_heatmap(disease_name, promising_drug_candidates.index, shortest_paths_lengths)
+    draw_heatmap(disease_name, run_name, promising_drug_candidates.index, shortest_paths_lengths)
 
 
-if __name__ == "__main__":
-    for disease_name in ["Huntington", "Multiple Sclerosis"]:  # "Alzheimer"
-        log.info(f"Studying Promising Drug Combinations for {disease_name}")
-        study_drug_combinations(disease_name)
+# if __name__ == "__main__":
+#     for disease_name in ["Huntington", "Multiple Sclerosis"]:  # "Alzheimer"
+#         log.info(f"Studying Promising Drug Combinations for {disease_name}")
+#         study_drug_combinations(disease_name)

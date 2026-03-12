@@ -104,10 +104,13 @@ class GOEA:
         hsa_gene_ids,
         disease_genes_ids,
         disease_name,
+        run_name,
         significance_treshold=1e-4,
         propagate_counts=False,
     ):
         self.__disease_name = disease_name
+        self.__run_name = run_name
+
 
         goeaobj = GOEnrichmentStudyNS(
             hsa_gene_ids,  # List of human protein-coding genes
@@ -185,7 +188,7 @@ class GOEA:
                 ),
             )
             getattr(self, namespace)().to_csv(
-                f"data/results/{self.__disease_name.replace(' ', '')}/{namespace.title().replace('_', '')}_GOEA_results.tsv",
+                f"data/results/{self.__run_name}/{self.__disease_name.replace(' ', '')}/{namespace.title().replace('_', '')}_GOEA_results.tsv",
                 sep="\t",
                 index=False,
             )
@@ -234,30 +237,30 @@ class GOEA:
         plt.ylabel("")
         plt.legend(bbox_to_anchor=(1, 1), loc="upper left")
         plt.savefig(
-            f"data/results/{self.__disease_name.replace(' ', '')}/{namespace.title().replace('_', '')}_GOEA_plot.svg",
+            f"data/results/{self.__run_name}/{self.__disease_name.replace(' ', '')}/{namespace.title().replace('_', '')}_GOEA_plot.svg",
             format="svg",
             bbox_inches="tight",
         )
         plt.close()
 
 
-if __name__ == "__main__":
-    # from data.sources.Alzheimer.get_alzheimer_related_genes import alzheimer_genes
-    from data.sources.Huntington.get_huntington_related_genes import huntington_genes
-    from data.sources.MultipleSclerosis.get_multiple_sclerosis_related_genes import (
-        multiple_sclerosis_genes,
-    )
+# if __name__ == "__main__":
+#     # from data.sources.Alzheimer.get_alzheimer_related_genes import alzheimer_genes
+#     from data.sources.Huntington.get_huntington_related_genes import huntington_genes
+#     from data.sources.MultipleSclerosis.get_multiple_sclerosis_related_genes import (
+#         multiple_sclerosis_genes,
+#     )
 
-    for disease_name, disease_genes in (
-        # ("Alzheimer", alzheimer_genes.values()),
-        ("Huntington", huntington_genes.values()),
-        ("Multiple Sclerosis", multiple_sclerosis_genes.values()),
-    ):
-        log.info(
-            f"Performing Gene Ontology Enrichment Analysis for {disease_name}")
+#     for disease_name, disease_genes in (
+#         # ("Alzheimer", alzheimer_genes.values()),
+#         ("Huntington", huntington_genes.values()),
+#         ("Multiple Sclerosis", multiple_sclerosis_genes.values()),
+#     ):
+#         log.info(
+#             f"Performing Gene Ontology Enrichment Analysis for {disease_name}")
 
-        goea = GOEA(
-            hsa_gene_ids=hsa_gene_ids,
-            disease_genes_ids=disease_genes,
-            disease_name=disease_name,
-        )
+#         goea = GOEA(
+#             hsa_gene_ids=hsa_gene_ids,
+#             disease_genes_ids=disease_genes,
+#             disease_name=disease_name,
+#         )

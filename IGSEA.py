@@ -93,7 +93,7 @@ def prerank_gsea(
 
 # @profile()
 def IGSEA(
-    disease_name, gene_set, lincs, nperm=int(1e4), alpha=0.25, seed=12345,
+    run_name, disease_name, gene_set, lincs, nperm=int(1e4), alpha=0.25, seed=12345,
 ):
     """
         Inverted Gene Set Enrichment Analysis
@@ -159,7 +159,7 @@ def IGSEA(
     ]
 
     results_df.to_csv(
-        f"data/results/{disease_name.replace(' ', '')}/IGSEA_results.tsv",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/IGSEA_results.tsv",
         sep="\t",
         index=False,
     )

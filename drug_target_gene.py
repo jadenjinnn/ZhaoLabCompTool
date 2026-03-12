@@ -12,7 +12,7 @@ log = logging.getLogger(logging_name)
 ################################################################################
 
 
-def get_drugs(disease_name, significance_threshold=0.25):
+def get_drugs(disease_name, run_name, significance_threshold=0.25):
     import pandas as pd
     import numpy as np
     import re
@@ -23,23 +23,23 @@ def get_drugs(disease_name, significance_threshold=0.25):
     )
 
     network_proximity_results = pd.read_csv(
-        f"data/results/{disease_name.replace(' ', '')}/network_proximities.tsv",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/network_proximities.tsv",
         sep="\t",
         index_col=0,
         skiprows=3,
     )
     igsea_results = pd.read_csv(
-        f"data/results/{disease_name.replace(' ', '')}/IGSEA_results.tsv",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/IGSEA_results.tsv",
         sep="\t",
         index_col=0,
     )
     with open(
-        f"data/results/{disease_name.replace(' ', '')}/network_proximities.tsv"
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/network_proximities.tsv"
     ) as infile:
         infile.readline()
         distance_threshold = float(
             re.findall(
-                "\# Threshold: ([0-9]\.[0-9]{1,2})", infile.readline())[0]
+                "\# Threshold: (-*[0-9]\.[0-9]{1,2})", infile.readline())[0]
         )
     proximal_igsea_results = igsea_results[
         igsea_results["DrugBank_ID"].isin(
@@ -68,7 +68,7 @@ def get_drugs(disease_name, significance_threshold=0.25):
     ).drop_duplicates(subset=["DrugBank_ID"]).copy()
 
 
-def draw_drug_target_gene_network(disease_name, disease_genes):
+def draw_drug_target_gene_network(disease_name, run_name, disease_genes):
     import pandas as pd
     import networkx as nx
     import seaborn as sns
@@ -80,7 +80,7 @@ def draw_drug_target_gene_network(disease_name, disease_genes):
 
     drugbank = DrugBank()
 
-    drugs = get_drugs(disease_name)
+    drugs = get_drugs(disease_name, run_name)
 
     drugbank_drug_targets = {
         k: list(ts)
@@ -125,7 +125,7 @@ def draw_drug_target_gene_network(disease_name, disease_genes):
 
     nx.write_adjlist(
         G,
-        f"data/results/{disease_name.replace(' ', '')}/drug_target_gene_network.adjlist",
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/drug_target_gene_network.adjlist",
     )
 
     nodes = list(G.nodes())
@@ -174,11 +174,11 @@ def draw_drug_target_gene_network(disease_name, disease_genes):
         """
     )
     net.save_graph(
-        f"data/results/{disease_name.replace(' ', '')}/drug_target_gene_network.html"
+        f"data/results/{run_name}/{disease_name.replace(' ', '')}/drug_target_gene_network.html"
     )
 
 
-def draw_gene_target_drug_sankey(disease_name, disease_genes, height=2000, width=1500):
+def draw_gene_target_drug_sankey(disease_name, run_name, disease_genes, height=2000, width=1500):
     # commented parts are for adding a fourth column for IGSEA FDR values color-coded from blue to red (but misleading and ugly)
     import pandas as pd
     import numpy as np
@@ -193,7 +193,7 @@ def draw_gene_target_drug_sankey(disease_name, disease_genes, height=2000, width
 
     drugbank = DrugBank()
 
-    drugs = get_drugs(disease_name)
+    drugs = get_drugs(disease_name, run_name)
 
     drug2fdr = (
         drugs[["DrugBank_ID", "FDR"]]
@@ -461,27 +461,27 @@ def draw_gene_target_drug_sankey(disease_name, disease_genes, height=2000, width
 
     sankey.update_layout(font_size=max(min(height * 0.8 / len(related_genes), 20),1))
     sankey.write_image(
-        file=f"data/results/{disease_name.replace(' ', '')}/gene_target_drug_sankey.svg",
+        file=f"data/results/{run_name}/{disease_name.replace(' ', '')}/gene_target_drug_sankey.svg",
         format="svg",
         width=width,
         height=height,
     )
 
 
-if __name__ == "__main__":
-    # from data.sources.Alzheimer.get_alzheimer_related_genes import alzheimer_genes
-    from data.sources.Huntington.get_huntington_related_genes import huntington_genes
-    from data.sources.MultipleSclerosis.get_multiple_sclerosis_related_genes import (
-        multiple_sclerosis_genes,
-    )
+# if __name__ == "__main__":
+#     # from data.sources.Alzheimer.get_alzheimer_related_genes import alzheimer_genes
+#     from data.sources.Huntington.get_huntington_related_genes import huntington_genes
+#     from data.sources.MultipleSclerosis.get_multiple_sclerosis_related_genes import (
+#         multiple_sclerosis_genes,
+#     )
 
-    for disease_name, disease_genes in (
-        # ("Alzheimer", alzheimer_genes.keys()),
-        ("Huntington", huntington_genes.keys()),
-        ("Multiple Sclerosis", multiple_sclerosis_genes.keys()),
-    ):
-        log.info(
-            f"Building Drug-Target-RelatedGene Networks for {disease_name}")
+#     for disease_name, disease_genes in (
+#         # ("Alzheimer", alzheimer_genes.keys()),
+#         ("Huntington", huntington_genes.keys()),
+#         ("Multiple Sclerosis", multiple_sclerosis_genes.keys()),
+#     ):
+#         log.info(
+#             f"Building Drug-Target-RelatedGene Networks for {disease_name}")
 
-        draw_drug_target_gene_network(disease_name, disease_genes)
-        draw_gene_target_drug_sankey(disease_name, disease_genes)
+#         draw_drug_target_gene_network(disease_name, disease_genes)
+#         draw_gene_target_drug_sankey(disease_name, disease_genes)
