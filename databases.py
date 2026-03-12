@@ -310,7 +310,7 @@ class HGNC(Database, metaclass=Singleton):
             license_url="https://www.genenames.org/about/",
         )
         self.__db = self._add_file(
-            url="http://ftp.ebi.ac.uk/pub/databases/genenames/hgnc/tsv/locus_types/gene_with_protein_product.txt",
+            url="https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/locus_types/gene_with_protein_product.txt",
             update=update,
         )
         # HGNC official symbols
